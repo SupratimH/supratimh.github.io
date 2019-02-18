@@ -85,14 +85,15 @@ a{
     width: 100px;
 }
 /* animations / utilities */
-.section-2 a:hover{
-    font-size: 1.1rem;
-    color: #fff;
+.section-1 a:hover{
+    font-size: 1.7rem;
+	color: #fff;
     cursor: pointer;
-    transition: 0.2s;
+    transition: 0.3s;
 }
 
-.section-1 a:hover{
+.section-2 a:hover{
+    font-size: 1.3rem;
     color: #fff;
     cursor: pointer;
     transition: 0.3s;
