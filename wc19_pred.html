@@ -1,0 +1,498 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" href="img/fav-icon.png" type="image/x-icon" />
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css" integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
+        <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+        <title>Supratim Haldar | Cricket World Cup 2019 Match Result Predictions with Machine Learning</title>
+
+        <!-- Icon css link -->
+        <link href="vendors/material-icon/css/materialdesignicons.min.css" rel="stylesheet">
+        <link href="css/font-awesome.min.css" rel="stylesheet">
+        <link href="vendors/linears-icon/style.css" rel="stylesheet">
+        <!-- Bootstrap -->
+        <link href="css/bootstrap.min.css" rel="stylesheet">
+        
+        <!-- Extra plugin css -->
+        <link href="vendors/owl-carousel/assets/owl.carousel.css" rel="stylesheet">
+        <link href="vendors/animate-css/animate.css" rel="stylesheet">
+        
+        <link href="css/style.css" rel="stylesheet">
+        <link href="css/responsive.css" rel="stylesheet">
+        
+        <link rel="stylesheet" href="css/colors/default.css" title="default">
+        <link rel="alternate stylesheet" href="css/colors/orange.css" title="orange">
+        <link rel="alternate stylesheet" href="css/colors/pink.css" title="pink">
+        <link rel="alternate stylesheet" href="css/colors/violet.css" title="violet">
+        <link rel="alternate stylesheet" href="css/colors/blue.css" title="blue">
+        <link rel="alternate stylesheet" href="css/colors/past.css" title="past">
+
+        <!-- For TABLE -->
+		<link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+		<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+		<link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+		<link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+		<link rel="stylesheet" type="text/css" href="vendor/perfect-scrollbar/perfect-scrollbar.css">
+		<link rel="stylesheet" type="text/css" href="css/table_util.css">
+		<link rel="stylesheet" type="text/css" href="css/table_main.css">
+        <!-- TABLE -->
+    </head>
+    <body>
+    
+        <!--================ Begin Header Area =================-->
+        <header class="header_area">
+            <div class="container">
+                <nav class="navbar navbar-default">
+                    <!-- Brand and toggle get grouped for better mobile display -->
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                        <!--<a class="navbar-brand" href="index.html"><img src="img/logo.png" alt=""></a>-->
+						<a class="navbar-brand" href="index.html"><b><font face="verdana" size="5">BACK TO HOME</font></b></a>
+                    </div>
+ 
+                </nav>
+            </div>
+        </header>
+        <!--================ End Header Area =================-->
+		<div class="main_text">
+			<h2>AI-based ODI Cricket Result Predictor</h2>
+			<br><br><br>
+			<!--<IMG SRC=”https://upload.wikimedia.org/wikipedia/en/d/d3/ICC_Cricket_World_Cup_2019_logo.svg” ALIGN=”left” HSPACE=”50” VSPACE=”50”/>-->
+			<h3>
+				Is it possible to guess the winner of a cricket match even before the match starts? Which factors influence the result of one-day cricket matches the most? These and many similar questions have always boggled my mind as teen growing up 1990's and 2000's India, for whom "Cricket was a religion and Tendulkar was God!".
+				<br><br>
+				Inspired by the ICC Cricket World Cup (2019) and passion for data science and machine learning, I started working on building a <b>machine learning classification model</b> to try to answer some of these questions, with a fair level of accuracy.
+				<br><br>
+				Here's my predictions for winners of each match of <b>ICC Cricket World Cup 2019</b>. The data in table is arranged in following fashion:
+				<ul>
+					<li>&nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-hand-point-right"></i> Date and venue of match, and names of both teams.</li>
+					<li>&nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-hand-point-right"></i> Prediction of result as calculated by <b>my predictor</b>, in terms of winning probability of each team, before the match begins.</li>
+					<li>&nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-hand-point-right"></i> Winning prediction probability calculated by <b>Google</b>, captured for the sake of validation.</li>
+					<li>&nbsp;&nbsp;&nbsp;&nbsp;<i class="far fa-hand-point-right"></i> Actual winner at the end of match, and accuracy of prediction</li>
+				</ul>
+			</h3>
+		</div>
+
+		<div class="limiter">
+			<div class="container-table100">
+				<div class="wrap-table100">
+					<div class="table100 ver1 m-b-110">
+						<div class="table100-head">
+							<table>
+								<thead>
+									<tr class="row100 head">
+										<th class="cell100 column1">Date</th>
+										<th class="cell100 column2">Team 1</th>
+										<th class="cell100 column3">Team 2</th>
+										<th class="cell100 column4">Venue</th>
+										<th class="cell100 column6">Prediction (Mine)</th>
+										<th class="cell100 column5">Prediction (Google)</th>
+										<th class="cell100 column7">Winner</th>
+										<th class="cell100 column8"><i class="fas fa-trophy fa-lg"></i></th>
+									</tr>
+								</thead>
+							</table>
+						</div>
+
+						<div class="table100-body js-pscroll">
+							<table>
+								<tbody>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-20</td>
+										<td class="cell100 column2">Australia</td>
+										<td class="cell100 column3">Bangladesh</td>
+										<td class="cell100 column4">Nottingham</td>
+										<td class="cell100 column5">AUS: 82.19 | BAN: 17.81</td>
+										<td class="cell100 column6">AUS: 84 | BAN: 14</td>
+										<td class="cell100 column7">TBD</td>
+										<td class="cell100 column8"><i class="fa fa-question-circle fa-lg text-warning"></i></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-19</td>
+										<td class="cell100 column2">New Zealand</td>
+										<td class="cell100 column3">South Africa</td>
+										<td class="cell100 column4">Birmingham</td>
+										<td class="cell100 column5">NZ: 51.45 | SA: 48.55</td>
+										<td class="cell100 column6">NZ: 56 | SA: 44</td>
+										<td class="cell100 column7">TBD</td>
+										<td class="cell100 column8"><i class="fa fa-question-circle fa-lg text-warning"></i></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-18</td>
+										<td class="cell100 column2">England</td>
+										<td class="cell100 column3">Afghanistan</td>
+										<td class="cell100 column4">Manchester</td>
+										<td class="cell100 column5">ENG: 86.44 | AFG: 13.56</td>
+										<td class="cell100 column6">ENG: 93 | AFG: 7</td>
+										<td class="cell100 column7">England</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-17</td>
+										<td class="cell100 column2">West Indies</td>
+										<td class="cell100 column3">Bangladesh</td>
+										<td class="cell100 column4">Taunton</td>
+										<td class="cell100 column5">WI: 46.48 | BAN: 53.52</td>
+										<td class="cell100 column6">WI: 68 | BAN: 32</td>
+										<td class="cell100 column7">Bangladesh</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-16</td>
+										<td class="cell100 column2">India</td>
+										<td class="cell100 column3">Pakistan</td>
+										<td class="cell100 column4">Manchester</td>
+										<td class="cell100 column5">IND: 61.52 | PAK: 38.48</td>
+										<td class="cell100 column6">IND: 71 | PAK: 29</td>
+										<td class="cell100 column7">India</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-15</td>
+										<td class="cell100 column2">South Africa</td>
+										<td class="cell100 column3">Afghanistan</td>
+										<td class="cell100 column4">Cardiff</td>
+										<td class="cell100 column5">SA: 73.07 | AFG: 26.93</td>
+										<td class="cell100 column6">SA: 86 | AFG: 14</td>
+										<td class="cell100 column7">South Africa</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-15</td>
+										<td class="cell100 column2">Sri Lanka</td>
+										<td class="cell100 column3">Australia</td>
+										<td class="cell100 column4">London</td>
+										<td class="cell100 column5">SL: 29.73 | AUS: 70.27</td>
+										<td class="cell100 column6">SL: 15 | AUS: 85</td>
+										<td class="cell100 column7">Australia</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-14</td>
+										<td class="cell100 column2">England</td>
+										<td class="cell100 column3">West Indies</td>
+										<td class="cell100 column4">Southampton</td>
+										<td class="cell100 column5">ENG: 72.97 | WI: 27.03</td>
+										<td class="cell100 column6">ENG: 76 | WI: 24</td>
+										<td class="cell100 column7">England</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-13</td>
+										<td class="cell100 column2">India</td>
+										<td class="cell100 column3">New Zealand</td>
+										<td class="cell100 column4">Taunton</td>
+										<td class="cell100 column5">AUS: 75.14 | PAK: 24.86</td>
+										<td class="cell100 column6">AUS: 73 | PAK: 27</td>
+										<td class="cell100 column7">Rain</td>
+										<td class="cell100 column8 rain"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-12</td>
+										<td class="cell100 column2">Australia</td>
+										<td class="cell100 column3">Pakistan</td>
+										<td class="cell100 column4">Taunton</td>
+										<td class="cell100 column5">AUS: 75.14 | PAK: 24.86</td>
+										<td class="cell100 column6">AUS: 73 | PAK: 27</td>
+										<td class="cell100 column7">Australia</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-11</td>
+										<td class="cell100 column2">Bangladesh</td>
+										<td class="cell100 column3">Sri Lanka</td>
+										<td class="cell100 column4">Bristol</td>
+										<td class="cell100 column5">BAN: 60.8 | SL: 39.2</td>
+										<td class="cell100 column6">BAN: 55 | SL: 45</td>
+										<td class="cell100 column7">Rain</td>
+										<td class="cell100 column8 rain"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-10</td>
+										<td class="cell100 column2">South Africa</td>
+										<td class="cell100 column3">West Indies</td>
+										<td class="cell100 column4">Southampton</td>
+										<td class="cell100 column5">SA: 71.38 | WI: 28.62</td>
+										<td class="cell100 column6">SA: 50 | WI: 50</td>
+										<td class="cell100 column7">Rain</td>
+										<td class="cell100 column8 rain"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-09</td>
+										<td class="cell100 column2">India</td>
+										<td class="cell100 column3">Australia</td>
+										<td class="cell100 column4">London</td>
+										<td class="cell100 column5">IND: 45.43 | AUS: 54.57</td>
+										<td class="cell100 column6">IND: 54 | AUS: 46</td>
+										<td class="cell100 column7">India</td>
+										<td class="cell100 column8 fail"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-08</td>
+										<td class="cell100 column2">Afghanistan</td>
+										<td class="cell100 column3">New Zealand</td>
+										<td class="cell100 column4">Taunton</td>
+										<td class="cell100 column5">AFG: 18.83 | NZ: 81.17</td>
+										<td class="cell100 column6">AFG: 15 | NZ: 85</td>
+										<td class="cell100 column7">New Zealand</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-08</td>
+										<td class="cell100 column2">England</td>
+										<td class="cell100 column3">Bangladesh</td>
+										<td class="cell100 column4">Cardiff</td>
+										<td class="cell100 column5">ENG: 73.41 | BAN: 26.59</td>
+										<td class="cell100 column6">ENG: 85 | BAN: 15</td>
+										<td class="cell100 column7">England</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-07</td>
+										<td class="cell100 column2">Pakistan</td>
+										<td class="cell100 column3">Sri Lanka</td>
+										<td class="cell100 column4">Bristol</td>
+										<td class="cell100 column5">PAK: 65.66 | SL: 34.34</td>
+										<td class="cell100 column6">PAK: 70 | SL: 30</td>
+										<td class="cell100 column7">Rain</td>
+										<td class="cell100 column8 rain"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-06</td>
+										<td class="cell100 column2">Australia</td>
+										<td class="cell100 column3">West Indies</td>
+										<td class="cell100 column4">Nottingham</td>
+										<td class="cell100 column5">AUS: 74.3 | WI: 25.7</td>
+										<td class="cell100 column6">AUS: 63 | WI: 37</td>
+										<td class="cell100 column7">Australia</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-05</td>
+										<td class="cell100 column2">Bangladesh</td>
+										<td class="cell100 column3">New Zealand</td>
+										<td class="cell100 column4">London</td>
+										<td class="cell100 column5">BAN: 37.58 | NZ: 62.42</td>
+										<td class="cell100 column6">BAN: 28 | NZ: 72</td>
+										<td class="cell100 column7">New Zealand</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-05</td>
+										<td class="cell100 column2">South Africa</td>
+										<td class="cell100 column3">India</td>
+										<td class="cell100 column4">Southampton</td>
+										<td class="cell100 column5">SA: 44.01 | IND: 55.99</td>
+										<td class="cell100 column6">SA:35 | IND: 65</td>
+										<td class="cell100 column7">India</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-04</td>
+										<td class="cell100 column2">Afghanistan</td>
+										<td class="cell100 column3">Sri Lanka</td>
+										<td class="cell100 column4">Cardiff</td>
+										<td class="cell100 column5">AFG: 53.04 | SL: 46.96</td>
+										<td class="cell100 column6">-</td>
+										<td class="cell100 column7">Sri Lanka</td>
+										<td class="cell100 column8 fail"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-03</td>
+										<td class="cell100 column2">England</td>
+										<td class="cell100 column3">Pakistan</td>
+										<td class="cell100 column4">Nottingham</td>
+										<td class="cell100 column5">ENG: 65.73 | PAK: 34.27</td>
+										<td class="cell100 column6">-</td>
+										<td class="cell100 column7">Pakistan</td>
+										<td class="cell100 column8 fail"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-02</td>
+										<td class="cell100 column2">South Africa</td>
+										<td class="cell100 column3">Bangladesh</td>
+										<td class="cell100 column4">London</td>
+										<td class="cell100 column5">SA: 78.84 | BAN: 21.16</td>
+										<td class="cell100 column6">-</td>
+										<td class="cell100 column7">Bangladesh</td>
+										<td class="cell100 column8 fail"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-01</td>
+										<td class="cell100 column2">Afghanistan</td>
+										<td class="cell100 column3">Australia</td>
+										<td class="cell100 column4">Bristol</td>
+										<td class="cell100 column5">AFG: 15.9 | AUS: 84.1</td>
+										<td class="cell100 column6">-</td>
+										<td class="cell100 column7">Australia</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-06-01</td>
+										<td class="cell100 column2">New Zealand</td>
+										<td class="cell100 column3">Sri Lanka</td>
+										<td class="cell100 column4">Cardiff</td>
+										<td class="cell100 column5">NZ: 72.15 | SL: 27.85</td>
+										<td class="cell100 column6">-</td>
+										<td class="cell100 column7">New Zealand</td>
+										<td class="cell100 column8 pass"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-05-31</td>
+										<td class="cell100 column2">Pakistan</td>
+										<td class="cell100 column3">West Indies</td>
+										<td class="cell100 column4">Nottingham</td>
+										<td class="cell100 column5">PAK: 58.37 | WI: 41.63</td>
+										<td class="cell100 column6">-</td>
+										<td class="cell100 column7">West Indies</td>
+										<td class="cell100 column8 fail"></td>
+									</tr>
+									<tr class="row100 body">
+										<td class="cell100 column1">2019-05-30</td>
+										<td class="cell100 column2">England</td>
+										<td class="cell100 column3">South Africa</td>
+										<td class="cell100 column4">London</td>
+										<td class="cell100 column5">ENG: 45.06 | SA: 54.94</td>
+										<td class="cell100 column6">-</td>
+										<td class="cell100 column7">England</td>
+										<td class="cell100 column8 fail"></td>
+									</tr>
+								</tbody>
+							</table>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+        <!--================JS function to fill prediction correctness =================-->
+		<script>
+			function get_prediction_accuracy() {
+				var x = document.getElementsByClassName("pass");
+				for (i = 0; i < x.length; i++) { 
+					x[i].innerHTML = "<i class=\"fa fa-check-square fa-lg text-success\"/>";
+				}
+
+				var x = document.getElementsByClassName("fail");
+				for (i = 0; i < x.length; i++) { 
+					x[i].innerHTML = "<i class=\"fa fa-close fa-lg text-danger\"/>";
+				}
+
+				var x = document.getElementsByClassName("rain");
+				for (i = 0; i < x.length; i++) { 
+					x[i].innerHTML = "<i class=\"fas fa-umbrella fa-lg text-primary\"/>";
+				}
+			}
+			get_prediction_accuracy()
+		</script>
+
+        <!--================footer Area =================-->
+        <footer class="footer_area">
+            <div class="footer_inner">
+                <div class="container">
+                    <ul class="social_icon">
+						<li><a href="https://in.linkedin.com/in/supratim-haldar-232bb16" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+						<li><a href="https://github.com/SupratimH" target="_blank"><i class="fa fa-github"></i></a></li>
+						<li><a href="https://www.kaggle.com/supratimhaldar" target="_blank"><i class="fab fa-kaggle"></i></a></li>
+						<li><a href="https://stackoverflow.com/users/6239947/supratim-haldar?tab=profile" target="_blank"><i class="fa fa-stack-overflow"></i></a></li>
+						<li><a href="https://twitter.com/supratim_h" target="_blank"><i class="fa fa-twitter"></i></a></li>
+						<li><a href="https://500px.com/supxyz" target="_blank"><i class="fab fa-500px"></i></a></li>
+						<li><a href="mailto:supratimh@gmail.com"><i class="fa fa-envelope"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer_copyright">
+                <div class="container">
+                    <div class="pull-left">
+                        <h5><p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a></p></h5>
+<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!--================End footer Area =================-->
+        
+        <div class="envalab-style-switch" id="switch-style">
+            <div class="switch-button" id="toggle-switcher"><i class="fa fa-gears"></i></div>
+            <div class="switched-options">
+                <div class="config-title">Color Panel </div>
+                <ul class="styles">
+                    <li>
+                        <a href=# onclick='return setActiveStyleSheet("default"),!1' title="default"></a>
+                    </li>
+                    <li>
+                        <a href=# onclick='return setActiveStyleSheet("orange"),!1' title="orange"></a>
+                    </li>
+                    <li>
+                        <a href=# onclick='return setActiveStyleSheet("pink"),!1' title="pink"></a>
+                    </li>
+                    <li>
+                        <a href=# onclick='return setActiveStyleSheet("violet"),!1' title="violet"></a>
+                    </li>
+                    <li>
+                        <a href=# onclick='return setActiveStyleSheet("blue"),!1' title="blue"></a>
+                    </li>
+                    <li>
+                        <a href=# onclick='return setActiveStyleSheet("past"),!1' title="past"></a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+        
+        <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+        <script src="js/jquery-2.1.4.min.js"></script>
+        <!-- Include all compiled plugins (below), or include individual files as needed -->
+        <script src="js/bootstrap.min.js"></script>
+        <!-- Extra plugin js -->
+        <script src="vendors/counter-up/waypoints.min.js"></script>
+        <script src="vendors/counter-up/jquery.counterup.min.js"></script>
+        <script src="vendors/isotope/imagesloaded.pkgd.min.js"></script>
+        <script src="vendors/isotope/isotope.pkgd.min.js"></script>
+        <script src="vendors/owl-carousel/owl.carousel.min.js"></script>
+
+        <script src="vendors/style-switcher/styleswitcher.js"></script>
+        <script src="vendors/style-switcher/switcher-active.js"></script>
+        <script src="vendors/animate-css/wow.min.js"></script>
+       
+        <!--gmaps Js-->
+        <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
+        <script src="js/gmaps.min.js"></script>
+        
+        <!-- contact js -->
+        <script src="js/jquery.form.js"></script>
+        <script src="js/jquery.validate.min.js"></script>
+        <script src="js/contact.js"></script>
+        
+        <script src="js/theme.js"></script>
+
+		<!-- For TABLE -->	
+		<script src="vendor/jquery/jquery-3.2.1.min.js"></script>
+		<script src="vendor/bootstrap/js/popper.js"></script>
+		<script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+		<script src="vendor/select2/select2.min.js"></script>
+		<script src="vendor/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+		<script>
+			$('.js-pscroll').each(function(){
+				var ps = new PerfectScrollbar(this);
+
+				$(window).on('resize', function(){
+					ps.update();
+				})
+			});
+				
+			
+		</script>
+		<script src="js/main.js"></script>
+		<!-- TABLE -->	
+
+    </body>
+</html>

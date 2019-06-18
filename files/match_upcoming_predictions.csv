@@ -1,0 +1,13 @@
+start_datetime_gmt,team_1_abbreviation,team_2_abbreviation,lighting,ground_name,town_name,home_team,team_1_win_probability,team_2_win_probability
+2019-06-12,AUS,PAK,day,"County Ground, Taunton",Taunton,NEUTRAL,0.7076176249100905,0.29238237508990983
+2019-06-12,PAK,AUS,day,"County Ground, Taunton",Taunton,NEUTRAL,0.30556067559289624,0.6944393244071034
+2019-06-13,IND,NZ,day,"Trent Bridge, Nottingham",Nottingham,NEUTRAL,0.5267545598933263,0.4732454401066737
+2019-06-13,NZ,IND,day,"Trent Bridge, Nottingham",Nottingham,NEUTRAL,0.4799017985183454,0.5200982014816544
+2019-06-14,ENG,WI,day,"Hampshire Bowl, Southampton",Southampton,ENG,0.6663845818286722,0.33361541817132745
+2019-06-14,WI,ENG,day,"Hampshire Bowl, Southampton",Southampton,ENG,0.3174238687683301,0.6825761312316695
+2019-06-15,SL,AUS,day,"The Oval, London",London,NEUTRAL,0.21329233061506764,0.7867076693849324
+2019-06-15,AUS,SL,day,"The Oval, London",London,NEUTRAL,0.752806670012735,0.24719332998726454
+2019-06-15,SA,AFG,day_night,"Cardiff Wales Stadium, Cardiff",Cardiff,NEUTRAL,0.8472049781162476,0.15279502188375232
+2019-06-15,AFG,SA,day_night,"Cardiff Wales Stadium, Cardiff",Cardiff,NEUTRAL,0.19614411645384305,0.8038558835461569
+2019-06-16,IND,PAK,day,"Old Trafford, Manchester",Manchester,NEUTRAL,0.5713284709640802,0.42867152903591965
+2019-06-16,PAK,IND,day,"Old Trafford, Manchester",Manchester,NEUTRAL,0.44447664575568174,0.5555233542443181

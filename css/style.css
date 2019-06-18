@@ -109,7 +109,7 @@ body, p, h1, h2, h3, h4, h5, h6 {
 ============================================================================================ */
 .main_title {
   text-align: center;
-  padding: 60px 0px;
+  padding: 20px 0px;
 }
 
 .main_title h2 {
@@ -122,6 +122,16 @@ body, p, h1, h2, h3, h4, h5, h6 {
   display: inline-block;
   line-height: 58px;
   padding: 0px 23px;
+}
+
+.main_title h3 {
+  font-size: 16px;
+  font-family: Courier;
+  color: #222222;
+  text-align: left;
+  #display: inline-block;
+  #line-height: 58px;
+  padding: 0px 50px;
 }
 
 /* End Main title css
