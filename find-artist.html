@@ -1,5 +1,5 @@
 <head>
-	<title>Supratim Haldar | DeepArtist : Find artist from paintings</title>
+	<title>Supratim Haldar | DeepArtist : Find Artist from Arts and Paintings</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
@@ -21,12 +21,8 @@
 						<div class="double-bounce2"></div>
                     </div>
                 </div>
-                <div class="card-footer bg-white">
-                    <pre class="card-text api-pre" style="padding-bottom: 10px">
-                        <div class="item" id="api_output_1"></div>
-                        <div class="item" id="api_output_2"></div>
-						<div class="item" id="api_output_3"></div>
-                    </pre>
+                <div class="card-footer bg-white" style="padding-top: 10px; padding-right: 10px; padding-bottom: 20px; padding-left: 10px">
+						<div class="item" id="api_output_1"></div><div class="item" id="api_output_2"></div><br><div class="item" id="api_output_3"></div>
                 </div>
 				<div class="card text-left bg-light" style="padding-top: 10px; padding-right: 10px; padding-bottom: 10px; padding-left: 10px">
 					<font size="4"><b><p align="center">Who am I?</p></b></font><br>
@@ -45,8 +41,7 @@
 						<li>Titian: (1488 - 1576), Italian, [High Renaissance,Mannerism]</li>
 						<li>Marc Chagall: (1887 - 1985), French,Jewish,Belarusian, [Primitivism]</li>
 					</ul>
-					When shown a painting which I have never seen earlier, I can guess the artist with <b>~87% accuracy</b>, by virtue of my intelligence. I'm studying more artists and will be able to identify their art in near future!<br><br>
-					Thank you, have fun &#128526;
+					When shown a painting which I have never seen earlier, I can guess the artist with <b>~87% accuracy</b>, by virtue of my intelligence. I'm studying more artists and will be able to identify their art in near future! Thank you, have fun &#128526;
 					</font>
 				</div>
 				<div class="card-footer bg-white">
@@ -68,7 +63,7 @@
             data: JSON.stringify(input),
             success: function( data, jQxhr ){
 				html_artist = "This masterpiece was most likely painted by <b>" + data.artist + "</b>,"
-				html_probability = "and I am <b>" + data.probability + "</b> sure about my guess!<br><br>"
+				html_probability = "and I am <b>" + data.probability + "</b> sure about my guess &#128522"
 				html_img = "<img src=\"" + input + "\" height=\"300px\" width=\"300px\">"
 				console.log(html_img)
                 $("#api_output_1").html(html_artist);
