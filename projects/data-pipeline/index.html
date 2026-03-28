@@ -78,7 +78,7 @@
     <div data-md-component="skip">
       
         
-        <a href="#overview" class="md-skip">
+        <a href="#project-real-time-data-pipeline" class="md-skip">
           Skip to content
         </a>
       
@@ -243,18 +243,17 @@
   
   
   
-    
-    
-      <li class="md-tabs__item">
-        <a href="../../project/" class="md-tabs__link">
-          
+    <li class="md-tabs__item">
+      <a href="../../project/" class="md-tabs__link">
+        
   
+  
+    
   
   Projects
 
-        </a>
-      </li>
-    
+      </a>
+    </li>
   
 
       
@@ -401,58 +400,6 @@
   
   
   
-    
-    
-    
-    
-      
-      
-    
-    
-    <li class="md-nav__item md-nav__item--nested">
-      
-        
-        
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_3" >
-        
-          
-          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
-            
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Projects
-  
-
-    
-  </span>
-  
-  
-
-            <span class="md-nav__icon md-icon"></span>
-          </label>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_3">
-            <span class="md-nav__icon md-icon"></span>
-            
-  
-    Projects
-  
-
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-                
-  
-  
-  
-  
     <li class="md-nav__item">
       <a href="../../project/" class="md-nav__link">
         
@@ -461,7 +408,7 @@
   <span class="md-ellipsis">
     
   
-    Overview
+    Projects
   
 
     
@@ -470,14 +417,6 @@
   
 
       </a>
-    </li>
-  
-
-              
-            
-          </ul>
-        </nav>
-      
     </li>
   
 
@@ -615,6 +554,36 @@
 
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blog/archive/2026/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2026
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
             
               
                 
@@ -835,36 +804,6 @@
   
   
     <li class="md-nav__item">
-      <a href="../../blog/category/engineering/" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Engineering
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
-            
-              
-                
-  
-  
-  
-    
-  
-  
-    <li class="md-nav__item">
       <a href="../../blog/category/machine-learning/" class="md-nav__link">
         
   
@@ -895,14 +834,44 @@
   
   
     <li class="md-nav__item">
-      <a href="../../blog/category/product/" class="md-nav__link">
+      <a href="../../blog/category/product--solution/" class="md-nav__link">
         
   
   
   <span class="md-ellipsis">
     
   
-    Product
+    Product &amp; Solution
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../blog/category/software-engineering/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Software Engineering
   
 
     
@@ -1019,40 +988,40 @@
 
 
 
-<h1 id="project-real-time-data-pipeline">Project: Real-time Data Pipeline<a class="headerlink" href="#project-real-time-data-pipeline" title="Permanent link">&para;</a></h1>
+<h1 id="project-real-time-data-pipeline">Project: Real-time Data Pipeline</h1>
 <p><strong>Category:</strong> Data Engineering<br />
 <strong>Technologies:</strong> Python, Apache Kafka, Spark, Hadoop, PostgreSQL<br />
 <strong>Impact:</strong> Processing petabyte-scale data with sub-second latency</p>
 <hr />
-<h2 id="overview">Overview<a class="headerlink" href="#overview" title="Permanent link">&para;</a></h2>
+<h2 id="overview">Overview</h2>
 <p>Built a high-performance real-time data pipeline for enterprise scale analytics, processing millions of events daily while maintaining sub-second latency and 99.99% reliability.</p>
-<h2 id="architecture">Architecture<a class="headerlink" href="#architecture" title="Permanent link">&para;</a></h2>
-<h3 id="data-ingestion-layer">Data Ingestion Layer<a class="headerlink" href="#data-ingestion-layer" title="Permanent link">&para;</a></h3>
+<h2 id="architecture">Architecture</h2>
+<h3 id="data-ingestion-layer">Data Ingestion Layer</h3>
 <ul>
 <li>Apache Kafka for event streaming</li>
 <li>Multi-datacenter deployment for redundancy</li>
 <li>Support for 100K+ events per second</li>
 </ul>
-<h3 id="stream-processing">Stream Processing<a class="headerlink" href="#stream-processing" title="Permanent link">&para;</a></h3>
+<h3 id="stream-processing">Stream Processing</h3>
 <ul>
 <li>Apache Spark Streaming for real-time aggregations</li>
 <li>Windowed operations for time-series analytics</li>
 <li>Exactly-once processing semantics</li>
 </ul>
-<h3 id="storage-layer">Storage Layer<a class="headerlink" href="#storage-layer" title="Permanent link">&para;</a></h3>
+<h3 id="storage-layer">Storage Layer</h3>
 <ul>
 <li>PostgreSQL for relational data</li>
 <li>Hadoop HDFS for archival storage</li>
 <li>Redis for hot cache</li>
 </ul>
-<h2 id="performance-metrics">Performance Metrics<a class="headerlink" href="#performance-metrics" title="Permanent link">&para;</a></h2>
+<h2 id="performance-metrics">Performance Metrics</h2>
 <ul>
 <li><strong>Throughput</strong>: 1M+ events per second</li>
 <li><strong>Latency</strong>: &lt;500ms end-to-end</li>
 <li><strong>Reliability</strong>: 99.99% uptime</li>
 <li><strong>Data Volume</strong>: 10TB+ daily ingestion</li>
 </ul>
-<h2 id="technologies-best-practices">Technologies &amp; Best Practices<a class="headerlink" href="#technologies-best-practices" title="Permanent link">&para;</a></h2>
+<h2 id="technologies-best-practices">Technologies &amp; Best Practices</h2>
 <ul>
 <li><strong>Python</strong> for all data processing logic</li>
 <li><strong>Containerization</strong> with Docker for deployment</li>
