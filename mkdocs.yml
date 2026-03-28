@@ -30,8 +30,8 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
-      permalink: true
-      toc_depth: 2-3
+      permalink: false
+      toc_depth: 3
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.highlight:
@@ -123,8 +123,8 @@ plugins:
         - Data Science
         - Machine Learning
         - Artificial Intelligence
-        - Product
-        - Engineering
+        - Product & Solution
+        - Software Engineering
         - Technical Deep Dive
   - tags
 
@@ -142,8 +142,7 @@ extra_css:
 nav:
   - About: index.md
   - Work: work.md
-  - Projects:
-    - Overview: project.md
+  - Projects: project.md
   - Blog:
     - blog/index.md
   - Contact: contact.md

@@ -2,8 +2,8 @@
 date: 2024-01-08
 categories:
   - Technical Deep Dive
-  - Engineering
-  - Product
+  - Software Engineering
+  - Product & Solution
 tags:
   - reflections
   - python
