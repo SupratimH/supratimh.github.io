@@ -1,0 +1,111 @@
+# ============================================================
+# Build Artifacts
+# ============================================================
+# MkDocs build output
+site/
+dist/
+build/
+
+# ============================================================
+# Python
+# ============================================================
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv
+
+# Dependencies
+*.egg-info/
+.eggs/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# ============================================================
+# IDE & Tools
+# ============================================================
+# VS Code
+.vscode/
+*.code-workspace
+
+# PyCharm/JetBrains IDEs
+.idea/
+*.iml
+*.swp
+*.swo
+*~
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+.vim/
+*.vim
+
+# Emacs
+*~
+.#*
+\#*\#
+
+# ============================================================
+# OS & System
+# ============================================================
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+.directory
+
+# ============================================================
+# Dependencies & Packages
+# ============================================================
+# Node modules (if used)
+node_modules/
+npm-debug.log
+
+# Poetry
+poetry.lock
+
+# ============================================================
+# Local Configuration
+# ============================================================
+# Local environment variables
+.env
+.env.local
+.env.*.local
+
+# Local development files
+.local/
+local_*.md
+
+# ============================================================
+# Temporary Files
+# ============================================================
+*.tmp
+*.temp
+*.bak
+*.swp
+*.swo
+*~
+backups/
+
+# ============================================================
+# Logs
+# ============================================================
+*.log
+logs/

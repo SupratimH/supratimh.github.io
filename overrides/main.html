@@ -1,0 +1,41 @@
+{% extends "base.html" %}
+
+{#
+CUSTOM MATERIAL THEME OVERRIDE
+Adds profile section to top of navigation while preserving Material's layout
+#}
+
+{# Override the primary navigation to add profile section before the nav #}
+{% block site_nav %}
+<nav class="md-nav md-nav--primary" data-md-component="navigation">
+  <!-- Profile Section -->
+  <div class="profile-section">
+    <img src="{{ base_url }}/image/Supratim_Haldar.jpg" alt="Profile Photo" class="profile-photo"
+      onerror="this.style.display='none'">
+    <div class="profile-name">Supratim Haldar</div>
+    <div class="profile-title">AI / Data / Product</div>
+    <div class="profile-subtitle">📍 Bengaluru, India</div>
+  </div>
+
+  <!-- Main Navigation from nav config -->
+  {% include "partials/nav.html" %}
+
+  <!-- Recent Posts Quick Links -->
+  <!-- <div class="sidebar-section">
+      <div class="sidebar-section-title">📝 Recent Posts</div>
+      <ul class="sidebar-section-list">
+        <li><a href="blog/2026-01-15-production-ml/" title="Production ML">Production ML</a></li>
+        <li><a href="blog/2026-01-10-data-pipeline/" title="Data Pipelines">Data Pipelines</a></li>
+        <li><a href="blog/" title="All Posts" class="sidebar-link-more">All Posts →</a></li>
+      </ul>
+    </div> -->
+
+  <!-- Contact Quick Links -->
+  <!-- <div class="sidebar-section">
+    <div class="sidebar-section-title">📬 Contact</div>
+    <ul class="sidebar-section-list">
+      <li><a href="contact/" title="Get in Touch">Get in Touch →</a></li>
+    </ul>
+  </div> -->
+</nav>
+{% endblock %}

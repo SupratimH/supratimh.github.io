@@ -1,0 +1,175 @@
+# ============================================================
+# PROJECT INFORMATION
+# ============================================================
+# Basic site metadata and author information
+site_name: Supratim Haldar
+site_url: https://supratimh.github.io
+site_author: Supratim Haldar
+site_description: Personal website of Supratim Haldar - AI, Data & Product Expert
+
+# repo_name: supratimh/supratimh.github.io
+# repo_url: https://github.com/supratimh/supratimh.github.io
+copyright: "Copyright &copy; 2026 Supratim Haldar"
+
+# ============================================================
+# BUILD CONFIGURATION
+# ============================================================
+docs_dir: docs
+site_dir: site
+
+# ============================================================
+# MARKDOWN EXTENSIONS
+# ============================================================
+# Enhanced markdown support for rich content
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+      toc_depth: 2-3
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      use_pygments: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: python
+          class: python
+          # validator: !!python/name:pymdownx.superfences.fence_code_validator
+
+# ============================================================
+# THEME CONFIGURATION
+# ============================================================
+# Material Design theme with custom customizations
+theme:
+  name: material
+  
+  # Theme customization overrides
+  custom_dir: overrides
+  
+  # Color scheme configuration
+  palette:
+    # Light mode theme
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      accent: yellow
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    
+    # Dark mode theme
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: yellow
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  
+  font:
+    text: Lato
+    code: Roboto Mono
+
+  # Language and branding
+  language: en
+  logo: image/logo_sh.png
+  favicon: image/logo_sh.png
+  
+  # Essential Material theme features
+  features:
+    # Navigation tabs on top and sticky
+    - navigation.tabs
+    - navigation.tabs.sticky
+    
+    # Allow linking between tabs
+    - content.tabs.link
+    
+    # Keep header always visible (don't hide on scroll)
+    # - header.autohide  # DISABLED - keep header always visible
+    
+    # Navigation expansion control
+    - navigation.expand
+    
+    # TOC stays on the right side (default), keeping left sidebar stable
+    # - toc.integrate  # DISABLED - causes sidebar width to shift per page
+    
+    # Instant loading for faster navigation
+    - navigation.instant
+    
+    # Track which link is currently viewed
+    - navigation.tracking
+
+# ============================================================
+# PLUGINS
+# ============================================================
+# Extended functionality for the site
+plugins:
+  # Search functionality
+  - search:
+      lang: en
+      separator: '[\s\-_,:!=\[\]()"`/]+'
+      
+  # Blog functionality (categories, tags, and archive auto-generated)
+  - blog:
+      blog_dir: blog
+      blog_toc: true
+      categories_allowed:
+        - Data Science
+        - Machine Learning
+        - Artificial Intelligence
+        - Product
+        - Engineering
+        - Technical Deep Dive
+  - tags
+
+# ============================================================
+# EXTRA CSS
+# ============================================================
+# Custom styling for the website
+extra_css:
+  - css/custom.css
+
+# ============================================================
+# NAVIGATION STRUCTURE
+# ============================================================
+# Main sidebar navigation - automatically appears as tabs on top
+nav:
+  - About: index.md
+  - Work: work.md
+  - Projects:
+    - Overview: project.md
+  - Blog:
+    - blog/index.md
+  - Contact: contact.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/supratim-haldar-232bb16/
+      name: LinkedIn
+    
+    - icon: fontawesome/brands/github
+      link: https://github.com/supratimh
+      name: GitHub
+
+    - icon: fontawesome/brands/stack-overflow
+      link: https://stackoverflow.com/users/6239947/supratim-haldar
+      name: Stack Overflow
+
+    - icon: fontawesome/brands/kaggle
+      link: https://www.kaggle.com/supratimhaldar
+      name: Kaggle
+
+    - icon: fontawesome/brands/500px
+      link: https://500px.com/p/supxyz
+      name: 500px
+
+    - icon: fontawesome/solid/envelope
+      link: mailto:surpatimh@gmail.com
+      name: Email
