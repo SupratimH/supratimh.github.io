@@ -1,13 +1,15 @@
 ---
-title: About Me
+title: Supratim Haldar — Data Scientist, AI Builder, Product Thinker
 description: Supratim Haldar — Data Scientist, AI Builder, Product Thinker
+hide:
+  - toc
 ---
 
 # Hello, I'm Supratim 👋
 
 > **Data Scientist · AI Product Builder · System Thinker**
 >
-> Two decades turning data into decisions and ideas into intelligent products.
+> Two decades of turning data into decisions and ideas into intelligent products.
 
 ---
 

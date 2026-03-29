@@ -17,25 +17,38 @@ Adds profile section to top of navigation while preserving Material's layout
     <div class="profile-subtitle">📍 Bengaluru, India</div>
   </div>
 
+  <!-- Top nav links duplicated in sidebar -->
+  <nav class="md-nav" style="padding: 0.5rem;">
+    <ul class="md-nav__list">
+      <li class="md-nav__item"><a href="{{ base_url }}/" class="md-nav__link">About</a></li>
+      <li class="md-nav__item"><a href="{{ base_url }}/work/" class="md-nav__link">Work</a></li>
+      <li class="md-nav__item"><a href="{{ base_url }}/project/" class="md-nav__link">Projects</a></li>
+      <li class="md-nav__item"><a href="{{ base_url }}/blog/" class="md-nav__link">Blog</a></li>
+      <li class="md-nav__item"><a href="{{ base_url }}/contact/" class="md-nav__link">Contact</a></li>
+    </ul>
+  </nav>
+
   <!-- Main Navigation from nav config -->
   {% include "partials/nav.html" %}
 
-  <!-- Recent Posts Quick Links -->
-  <!-- <div class="sidebar-section">
-      <div class="sidebar-section-title">📝 Recent Posts</div>
-      <ul class="sidebar-section-list">
-        <li><a href="blog/2026-01-15-production-ml/" title="Production ML">Production ML</a></li>
-        <li><a href="blog/2026-01-10-data-pipeline/" title="Data Pipelines">Data Pipelines</a></li>
-        <li><a href="blog/" title="All Posts" class="sidebar-link-more">All Posts →</a></li>
-      </ul>
-    </div> -->
+  <!-- Blog tree (archive, categories) only on blog pages -->
+  <!-- {% if page and page.url and "blog/" in page.url %}
+    {% include "partials/nav.html" %}
+  {% endif %} -->
 
-  <!-- Contact Quick Links -->
-  <!-- <div class="sidebar-section">
-    <div class="sidebar-section-title">📬 Contact</div>
-    <ul class="sidebar-section-list">
-      <li><a href="contact/" title="Get in Touch">Get in Touch →</a></li>
-    </ul>
-  </div> -->
 </nav>
+
+<!-- Secondary sidebar (right TOC) — must be included here -->
+{% if "toc.integrate" not in features %}
+  {% if page and "toc" not in (page.meta.hide | default([])) %}
+    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          {% include "partials/toc.html" %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endif %}
+
 {% endblock %}

@@ -26,12 +26,13 @@ markdown_extensions:
   - md_in_html
   - admonition
   - pymdownx.details
+  - pymdownx.blocks.caption
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - toc:
       permalink: false
-      toc_depth: 3
+      toc_depth: 4
   - pymdownx.tabbed:
       alternate_style: true
   - pymdownx.highlight:
@@ -86,6 +87,10 @@ theme:
     # Navigation tabs on top and sticky
     - navigation.tabs
     - navigation.tabs.sticky
+    - navigation.indexes
+    - navigation.instant # Instant loading for faster navigation
+    # - navigation.expand # Navigation expansion control
+    - navigation.tracking # Track which link is currently viewed
     
     # Allow linking between tabs
     - content.tabs.link
@@ -93,17 +98,9 @@ theme:
     # Keep header always visible (don't hide on scroll)
     # - header.autohide  # DISABLED - keep header always visible
     
-    # Navigation expansion control
-    - navigation.expand
-    
     # TOC stays on the right side (default), keeping left sidebar stable
     # - toc.integrate  # DISABLED - causes sidebar width to shift per page
-    
-    # Instant loading for faster navigation
-    - navigation.instant
-    
-    # Track which link is currently viewed
-    - navigation.tracking
+    - toc.follow        # TOC follows scroll
 
 # ============================================================
 # PLUGINS
@@ -129,11 +126,14 @@ plugins:
   - tags
 
 # ============================================================
-# EXTRA CSS
+# EXTRA CSS and JavaScript
 # ============================================================
 # Custom styling for the website
 extra_css:
   - css/custom.css
+
+# extra_javascript:
+#   - javascripts/extra.js
 
 # ============================================================
 # NAVIGATION STRUCTURE

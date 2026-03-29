@@ -1,3 +1,10 @@
+---
+title: Contact Me
+description: Ways to contact Supratim Haldar
+hide:
+  - toc
+---
+
 # Get In Touch
 
 I am always interested in connecting with people working on interesting problems in AI, data, products and solutions, or new ideas.
