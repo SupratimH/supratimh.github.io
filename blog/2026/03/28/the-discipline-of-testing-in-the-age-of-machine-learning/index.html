@@ -273,6 +273,8 @@
           
   
   
+    
+  
   Blog
 
         </a>
@@ -324,6 +326,17 @@
     <div class="profile-title">AI / Data / Product</div>
     <div class="profile-subtitle">📍 Bengaluru, India</div>
   </div>
+
+  <!-- Top nav links duplicated in sidebar -->
+  <nav class="md-nav" style="padding: 0.5rem;">
+    <ul class="md-nav__list">
+      <li class="md-nav__item"><a href="../../../../../" class="md-nav__link">About</a></li>
+      <li class="md-nav__item"><a href="../../../../../work/" class="md-nav__link">Work</a></li>
+      <li class="md-nav__item"><a href="../../../../../project/" class="md-nav__link">Projects</a></li>
+      <li class="md-nav__item"><a href="../../../../../blog/" class="md-nav__link">Blog</a></li>
+      <li class="md-nav__item"><a href="../../../../../contact/" class="md-nav__link">Contact</a></li>
+    </ul>
+  </nav>
 
   <!-- Main Navigation from nav config -->
   
@@ -435,6 +448,16 @@
   
     
     
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
     
     
       
@@ -451,8 +474,9 @@
         <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
         
           
-          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="">
-            
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../../" class="md-nav__link ">
+              
   
   
   <span class="md-ellipsis">
@@ -466,8 +490,14 @@
   
   
 
-            <span class="md-nav__icon md-icon"></span>
-          </label>
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
         
         <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
           <label class="md-nav__title" for="__nav_4">
@@ -481,36 +511,6 @@
           <ul class="md-nav__list" data-md-scrollfix>
             
               
-                
-  
-  
-    
-  
-  
-    
-  
-  
-    <li class="md-nav__item md-nav__item--active">
-      <a href="../../../../" class="md-nav__link">
-        
-  
-  
-  <span class="md-ellipsis">
-    
-  
-    Blog
-  
-
-    
-  </span>
-  
-  
-
-      </a>
-    </li>
-  
-
-              
             
               
                 
@@ -519,6 +519,18 @@
   
   
     
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
     
     
     
@@ -530,9 +542,7 @@
       
         
         
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4_2" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
         
           
           <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
@@ -730,6 +740,18 @@
   
     
     
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
     
     
       
@@ -740,9 +762,7 @@
       
         
         
-          
-        
-        <input class="md-nav__toggle md-toggle md-toggle--indeterminate" type="checkbox" id="__nav_4_3" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
         
           
           <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
@@ -969,24 +989,758 @@
   </ul>
 </nav>
 
-  <!-- Recent Posts Quick Links -->
-  <!-- <div class="sidebar-section">
-      <div class="sidebar-section-title">📝 Recent Posts</div>
-      <ul class="sidebar-section-list">
-        <li><a href="blog/2026-01-15-production-ml/" title="Production ML">Production ML</a></li>
-        <li><a href="blog/2026-01-10-data-pipeline/" title="Data Pipelines">Data Pipelines</a></li>
-        <li><a href="blog/" title="All Posts" class="sidebar-link-more">All Posts →</a></li>
-      </ul>
-    </div> -->
+  <!-- Blog tree (archive, categories) only on blog pages -->
+  <!-- 
+    
 
-  <!-- Contact Quick Links -->
-  <!-- <div class="sidebar-section">
-    <div class="sidebar-section-title">📬 Contact</div>
-    <ul class="sidebar-section-list">
-      <li><a href="contact/" title="Get in Touch">Get in Touch →</a></li>
-    </ul>
-  </div> -->
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../../../.." title="Supratim Haldar" class="md-nav__button md-logo" aria-label="Supratim Haldar" data-md-component="logo">
+      
+  <img src="../../../../../image/logo_sh.png" alt="logo">
+
+    </a>
+    Supratim Haldar
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    About
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../work/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Work
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../project/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Projects
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+          
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" checked>
+        
+          
+          <div class="md-nav__link md-nav__container">
+            <a href="../../../../" class="md-nav__link ">
+              
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Blog
+  
+
+    
+  </span>
+  
+  
+
+            </a>
+            
+              
+              <label class="md-nav__link " for="__nav_4" id="__nav_4_label" tabindex="">
+                <span class="md-nav__icon md-icon"></span>
+              </label>
+            
+          </div>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Blog
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_2" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_2" id="__nav_4_2_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Archive
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_2_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_2">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Archive
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2026/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2026
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2024/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2024
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2021/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2021
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2020/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2020
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../archive/2019/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2019
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4_3" >
+        
+          
+          <label class="md-nav__link" for="__nav_4_3" id="__nav_4_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Categories
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_4_3_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Categories
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../category/data-science/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Data Science
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../category/machine-learning/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Machine Learning
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../category/product--solution/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Product &amp; Solution
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../category/software-engineering/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Software Engineering
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+    
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../category/technical-deep-dive/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Technical Deep Dive
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../../../contact/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Contact
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
 </nav>
+   -->
+
+</nav>
+
+<!-- Secondary sidebar (right TOC) — must be included here -->
+
+  
+    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#when-testing-was-non-negotiable" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        When Testing Was Non-Negotiable
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="When Testing Was Non-Negotiable">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#the-contract-is-clear" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Contract Is Clear
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#how-ml-tests-and-where-it-falls-short" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        How ML Tests — And Where It Falls Short
+      
+    </span>
+  </a>
+  
+    <nav class="md-nav" aria-label="How ML Tests — And Where It Falls Short">
+      <ul class="md-nav__list">
+        
+          <li class="md-nav__item">
+  <a href="#when-there-is-no-right-answer" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        When There Is No Right Answer
+      
+    </span>
+  </a>
+  
+</li>
+        
+      </ul>
+    </nav>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#the-discipline-will-come-it-always-does" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        The Discipline Will Come — It Always Does
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+        </div>
+      </div>
+    </div>
+  
+
+
 
           
   <div class="md-content md-content--post" data-md-component="content">
@@ -1040,7 +1794,7 @@
                           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a8 8 0 0 0 8-8 8 8 0 0 0-8-8 8 8 0 0 0-8 8 8 8 0 0 0 8 8m0-18a10 10 0 0 1 10 10 10 10 0 0 1-10 10C6.47 22 2 17.5 2 12A10 10 0 0 1 12 2m.5 5v5.25l4.5 2.67-.75 1.23L11 13V7z"/></svg>
                           <span class="md-ellipsis">
                             
-                              2 min read
+                              3 min read
                             
                           </span>
                         </div>
@@ -1096,13 +1850,23 @@
 <p>Back in 1975, Fred Brooks, in his seminal work "The Mythical Man-Month" wrote - dedicate half the schedule for "testing". His was not a suggestion, but a rule of thumb from decades of hard experience building real software.</p>
 <!-- more -->
 
-<p><img alt="The importance of testing, from The Mythical Man Month" src="../../../../images/mythical_man_month_testing_ml.jpg" /></p>
-<p>Early in my career as a software engineer, even though we were always attracted toward the exciting part of development i.e. "coding", we gradually realized the importance of the importance of designing and executing tests, along with good documentation. It wasn't the most glamorous work, but it was the work that determined whether you could trust what you built.</p>
+<figure>
+<p><img align="center" alt="The importance of testing, from The Mythical Man Month" src="../../../../images/2026-03-28-testing-in-machine-learning_01.jpg" width="50%" /></p>
+<figcaption>
+<p><em>Fred Brooks' rule of thumb for scheduling — The Mythical Man-Month (1975)</em></p>
+</figcaption>
+</figure>
+<h2 id="when-testing-was-non-negotiable">When Testing Was Non-Negotiable</h2>
+<p>Early in my career as a software engineer, even though we were always attracted toward the exciting part of development i.e. "coding", we gradually realized the importance of designing and executing tests, along with good documentation. It wasn't the most glamorous work, but it was the work that determined whether you could trust what you built.</p>
 <p>That rigor is largely missing in machine learning. Not because people don't care, but because the problem is genuinely harder than anything Brooks was describing.</p>
+<h3 id="the-contract-is-clear">The Contract Is Clear</h3>
 <p>In traditional software, the logic is explicit. You write a function, you know what it should return, and you test against that. If it does not work, you debug and fix the logic. In ML, the behavior is learned, not written. The model encodes patterns from data in ways that even its creators don't fully understand. There is no fixed output to assert against - only probabilities, distributions, and behavior that can quietly shift when the underlying world does.</p>
+<h2 id="how-ml-tests-and-where-it-falls-short">How ML Tests — And Where It Falls Short</h2>
 <p>So ML found its own version of testing - hold out some data the model hasn't seen, measure accuracy (and other metrics relevant to the problem), and try to estimate what that means for the business. It definitely works up to a point. But out-of-time sample performance is a proxy, not a guarantee. And business impact is even harder to pin down, because models can look right on every metric and still move the wrong needle in production.</p>
+<h3 id="when-there-is-no-right-answer">When There Is No Right Answer</h3>
 <p>Benchmarks, adversarial testing, drift detection - these are serious attempts at a hard problem. But they are still uneven and nowhere close to the shared discipline that software engineering has built over decades.</p>
 <p>With systems built on LLMs the problem goes even further, because there is often no single correct output to benchmark against at all. Building that benchmark is a big challenge in itself. So it is often just degrees of better or worse. And that is a whole new level of unsolved!</p>
+<h2 id="the-discipline-will-come-it-always-does">The Discipline Will Come — It Always Does</h2>
 <p>I think that discipline in software engineering did not emerge because the industry was thoughtful, rather because enough things broke in production, badly enough that there was no longer a choice. Predictive models has been in production long enough, and the pain is real. Perhaps we are finally beginning to take seriously what Brooks told us half a century ago.</p>
 
 
@@ -1217,7 +1981,7 @@
     
       
       
-      <script id="__config" type="application/json">{"annotate": null, "base": "../../../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "content.tabs.link", "navigation.expand", "navigation.instant", "navigation.tracking"], "search": "../../../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"annotate": null, "base": "../../../../..", "features": ["navigation.tabs", "navigation.tabs.sticky", "navigation.indexes", "navigation.instant", "navigation.tracking", "content.tabs.link", "toc.follow"], "search": "../../../../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
       <script src="../../../../../assets/javascripts/bundle.79ae519e.min.js"></script>
