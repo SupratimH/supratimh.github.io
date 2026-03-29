@@ -6,12 +6,17 @@ categories:
 tags:
   - machine learning
   - testing
+  - software engineering
   - the mythical man month
 ---
 
 # The Discipline of Testing in the Age of Machine Learning
 
-> What Fred Brooks knew that machine learning is still learning
+*Published · March 28, 2026*{.post-date}
+
+---
+
+> _What Fred Brooks knew that machine learning is still learning_
 
 Back in 1975, Fred Brooks, in his seminal work "The Mythical Man-Month" wrote - dedicate half the schedule for "testing". His was not a suggestion, but a rule of thumb from decades of hard experience building real software.
 
@@ -32,7 +37,7 @@ That rigor is largely missing in machine learning. Not because people don't care
 
 In traditional software, the logic is explicit. You write a function, you know what it should return, and you test against that. If it does not work, you debug and fix the logic. In ML, the behavior is learned, not written. The model encodes patterns from data in ways that even its creators don't fully understand. There is no fixed output to assert against - only probabilities, distributions, and behavior that can quietly shift when the underlying world does.
 
-## How ML Tests — And Where It Falls Short
+## How ML Tests - And Where It Falls Short
 
 So ML found its own version of testing - hold out some data the model hasn't seen, measure accuracy (and other metrics relevant to the problem), and try to estimate what that means for the business. It definitely works up to a point. But out-of-time sample performance is a proxy, not a guarantee. And business impact is even harder to pin down, because models can look right on every metric and still move the wrong needle in production.
 
@@ -42,6 +47,6 @@ Benchmarks, adversarial testing, drift detection - these are serious attempts at
 
 With systems built on LLMs the problem goes even further, because there is often no single correct output to benchmark against at all. Building that benchmark is a big challenge in itself. So it is often just degrees of better or worse. And that is a whole new level of unsolved!
 
-## The Discipline Will Come — It Always Does
+## The Discipline Will Come - It Always Does
 
 I think that discipline in software engineering did not emerge because the industry was thoughtful, rather because enough things broke in production, badly enough that there was no longer a choice. Predictive models has been in production long enough, and the pain is real. Perhaps we are finally beginning to take seriously what Brooks told us half a century ago.
