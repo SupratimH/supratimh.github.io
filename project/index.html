@@ -319,29 +319,35 @@
       <main class="md-main" data-md-component="main">
         <div class="md-main__inner md-grid">
           
-<nav class="md-nav md-nav--primary" data-md-component="navigation">
-  <!-- Profile Section -->
-  <div class="profile-section">
-    <img src="../image/Supratim_Haldar.jpg" alt="Profile Photo" class="profile-photo"
-      onerror="this.style.display='none'">
-    <div class="profile-name">Supratim Haldar</div>
-    <div class="profile-title">AI / Data / Product</div>
-    <div class="profile-subtitle">📍 Bengaluru, India</div>
-  </div>
 
-  <!-- Top nav links duplicated in sidebar - hidden on mobile -->
-  <nav class="md-nav desktop-nav-links" style="padding: 0.5rem;">
-    <ul class="md-nav__list">
-      <li class="md-nav__item"><a href="../" class="md-nav__link">About</a></li>
-      <li class="md-nav__item"><a href="../work/" class="md-nav__link">Work</a></li>
-      <li class="md-nav__item"><a href="../project/" class="md-nav__link">Projects</a></li>
-      <li class="md-nav__item"><a href="../blog/" class="md-nav__link">Blog</a></li>
-      <li class="md-nav__item"><a href="../contact/" class="md-nav__link">Contact</a></li>
-    </ul>
-  </nav>
 
-  <!-- Main Navigation from nav config -->
-  
+
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+  <div class="md-sidebar__scrollwrap">
+    <div class="md-sidebar__inner">
+
+      
+      <div class="profile-section">
+        <img src="../image/Supratim_Haldar.jpg" alt="Profile Photo" class="profile-photo"
+          onerror="this.style.display='none'">
+        <div class="profile-name">Supratim Haldar</div>
+        <div class="profile-title">AI / Data / Product</div>
+        <div class="profile-subtitle">📍 Bengaluru, India</div>
+      </div>
+
+      
+      <nav class="desktop-nav-links" style="padding: 0.5rem;">
+        <ul class="md-nav__list">
+          <li class="md-nav__item"><a href="../" class="md-nav__link">About</a></li>
+          <li class="md-nav__item"><a href="../work/" class="md-nav__link">Work</a></li>
+          <li class="md-nav__item"><a href="../project/" class="md-nav__link">Projects</a></li>
+          <li class="md-nav__item"><a href="../blog/" class="md-nav__link">Blog</a></li>
+          <li class="md-nav__item"><a href="../contact/" class="md-nav__link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <!-- Main Navigation from nav config -->
+      
 
 
   
@@ -996,12 +1002,11 @@
   </ul>
 </nav>
 
-  <!-- Blog tree (archive, categories) only on blog pages -->
-  <!--  -->
+    </div>
+  </div>
+</div>
 
-</nav>
 
-<!-- Secondary sidebar (right TOC) — must be included here -->
 
 
 <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
@@ -1020,7 +1025,6 @@
     </div>
   </div>
 </div>
-
 
 
 
