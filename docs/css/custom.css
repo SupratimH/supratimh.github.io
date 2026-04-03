@@ -3,7 +3,7 @@
    ============================================================ */
 
 :root {
-  --md-sidebar-width: 16rem;
+  --md-sidebar-width: 12rem;
 }
 
 /* ============================================================
@@ -41,49 +41,54 @@
   min-width: 0;
 }
 
-/* .md-sidebar {
-  width: var(--md-sidebar-width);
-  min-width: var(--md-sidebar-width);
-  max-width: var(--md-sidebar-width);
-  flex-shrink: 0;
+/* Fixed sidebar width — visible on tablet and desktop (>=768px).
+   On mobile (<768px), Material handles the sidebar as a toggleable drawer. */
+@media (min-width: 48em) {
+  .md-sidebar--primary {
+    width: var(--md-sidebar-width);
+    min-width: var(--md-sidebar-width);
+    max-width: var(--md-sidebar-width);
+    flex-shrink: 0;
+  }
+
+  .md-sidebar--primary .md-sidebar__scrollwrap {
+    width: var(--md-sidebar-width);
+    overflow-x: hidden;
+  }
+
+  .md-sidebar--primary .md-nav {
+    width: 100%;
+    max-width: var(--md-sidebar-width);
+    overflow-x: hidden;
+  }
 }
 
-.md-sidebar__scrollwrap {
-  width: var(--md-sidebar-width);
-  overflow-x: hidden;
-} */
+/* Override Material's drawer behavior on tablet (768px–1220px).
+   Keep the sidebar visible and static instead of a hamburger drawer. */
+@media screen and (min-width: 48em) and (max-width: 76.1875em) {
+  .md-sidebar--primary {
+    position: static !important;
+    height: auto !important;
+    transform: none !important;
+    z-index: auto !important;
+  }
 
-.md-sidebar--primary {
-  width: var(--md-sidebar-width);
-  min-width: var(--md-sidebar-width);
-  max-width: var(--md-sidebar-width);
-  flex-shrink: 0;
+  /* Hide hamburger toggle — sidebar is already visible */
+  label[for="__drawer"] {
+    display: none !important;
+  }
+
+  /* Hide backdrop overlay */
+  .md-overlay {
+    display: none !important;
+  }
 }
 
-.md-sidebar--primary .md-sidebar__scrollwrap {
-  width: var(--md-sidebar-width);
-  overflow-x: hidden;
-}
-
-.md-nav__list {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-/* ============================================================
-   LEFT SIDEBAR - PRIMARY NAV
-   ============================================================ */
-
-.md-nav--primary {
-  padding-top: 0;
-  border-bottom: 1px solid var(--md-default-fg-color--lightest);
-}
-
-.md-sidebar--primary .md-nav {
-  width: 100%;
-  max-width: var(--md-sidebar-width);
-  overflow-x: hidden;
+/* Desktop nav links — slightly larger text for readability */
+.desktop-nav-links .md-nav__link {
+  font-size: 0.75rem;
+  font-weight: 400;
+  padding: 0.05rem 0.5rem;
 }
 
 /* ============================================================
@@ -351,16 +356,13 @@ button:focus-visible {
 }
 
 /* ============================================================
-   RESPONSIVE - MOBILE
+   RESPONSIVE - MOBILE ONLY (<768px)
    ============================================================ */
 
-@media (max-width: 576px) {
-  .profile-section {
-    padding: 0.75rem 0.5rem;
-    margin: 0.25rem 0 0.75rem 0;
-  }
+@media (max-width: 47.9375em) {
 
-  .desktop-nav-links {
+  /* Hide profile card on mobile — hamburger drawer handles nav */
+  .profile-section {
     display: none;
   }
 

@@ -2,45 +2,48 @@
 
 {#
 CUSTOM MATERIAL THEME OVERRIDE
-Adds profile section to top of navigation while preserving Material's layout
+Adds profile section to top of navigation while preserving Material's layout.
+Uses proper sidebar wrapper for correct mobile drawer behavior.
 #}
 
-{# Override the primary navigation to add profile section before the nav #}
 {% block site_nav %}
-<nav class="md-nav md-nav--primary" data-md-component="navigation">
-  <!-- Profile Section -->
-  <div class="profile-section">
-    <img src="{{ base_url }}/image/Supratim_Haldar.jpg" alt="Profile Photo" class="profile-photo"
-      onerror="this.style.display='none'">
-    <div class="profile-name">Supratim Haldar</div>
-    <div class="profile-title">AI / Data / Product</div>
-    <div class="profile-subtitle">📍 Bengaluru, India</div>
+
+{# --- Primary sidebar (left navigation + profile) --- #}
+{% if nav %}
+<div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+  <div class="md-sidebar__scrollwrap">
+    <div class="md-sidebar__inner">
+
+      {# Profile card — hidden on mobile via CSS #}
+      <div class="profile-section">
+        <img src="{{ base_url }}/image/Supratim_Haldar.jpg" alt="Profile Photo" class="profile-photo"
+          onerror="this.style.display='none'">
+        <div class="profile-name">Supratim Haldar</div>
+        <div class="profile-title">AI / Data / Product</div>
+        <div class="profile-subtitle">📍 Bengaluru, India</div>
+      </div>
+
+      {# Quick nav links — visible on laptop & tablet, hidden on mobile #}
+      <nav class="desktop-nav-links" style="padding: 0.5rem;">
+        <ul class="md-nav__list">
+          <li class="md-nav__item"><a href="{{ base_url }}/" class="md-nav__link">About</a></li>
+          <li class="md-nav__item"><a href="{{ base_url }}/work/" class="md-nav__link">Work</a></li>
+          <li class="md-nav__item"><a href="{{ base_url }}/project/" class="md-nav__link">Projects</a></li>
+          <li class="md-nav__item"><a href="{{ base_url }}/blog/" class="md-nav__link">Blog</a></li>
+          <li class="md-nav__item"><a href="{{ base_url }}/contact/" class="md-nav__link">Contact</a></li>
+        </ul>
+      </nav>
+
+      <!-- Main Navigation from nav config -->
+      {% include "partials/nav.html" %}
+
+    </div>
   </div>
+</div>
+{% endif %}
 
-  <!-- Top nav links duplicated in sidebar - hidden on mobile -->
-  <nav class="md-nav desktop-nav-links" style="padding: 0.5rem;">
-    <ul class="md-nav__list">
-      <li class="md-nav__item"><a href="{{ base_url }}/" class="md-nav__link">About</a></li>
-      <li class="md-nav__item"><a href="{{ base_url }}/work/" class="md-nav__link">Work</a></li>
-      <li class="md-nav__item"><a href="{{ base_url }}/project/" class="md-nav__link">Projects</a></li>
-      <li class="md-nav__item"><a href="{{ base_url }}/blog/" class="md-nav__link">Blog</a></li>
-      <li class="md-nav__item"><a href="{{ base_url }}/contact/" class="md-nav__link">Contact</a></li>
-    </ul>
-  </nav>
-
-  <!-- Main Navigation from nav config -->
-  {% include "partials/nav.html" %}
-
-  <!-- Blog tree (archive, categories) only on blog pages -->
-  <!-- {% if page and page.url and "blog/" in page.url %}
-    {% include "partials/nav.html" %}
-  {% endif %} -->
-
-</nav>
-
-<!-- Secondary sidebar (right TOC) — must be included here -->
-{% if "toc.integrate" not in features %}
-{% if page and "toc" not in (page.meta.hide | default([])) %}
+{# --- Secondary sidebar (right TOC) --- #}
+{% if page and page.toc and "toc" not in (page.meta.hide | default([])) %}
 <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
   <div class="md-sidebar__scrollwrap">
     <div class="md-sidebar__inner">
@@ -48,7 +51,6 @@ Adds profile section to top of navigation while preserving Material's layout
     </div>
   </div>
 </div>
-{% endif %}
 {% endif %}
 
 {% endblock %}
