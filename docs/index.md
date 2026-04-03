@@ -15,17 +15,17 @@ hide:
 
 ## What I Do
 
-I build **AI-driven products and platforms** that solve real problems at scale — from predictive analytics engines to enterprise ML pipelines. My strength is bridging **strategy and execution** across data science, engineering, and product.
+I build **AI-driven products and platforms** that solve real problems at scale - from predictive analytics engines to enterprise ML pipelines. My strength is bridging **strategy and execution** across AI, engineering, and product.
 
 <div class="highlight-cards" markdown>
 
-:material-brain: **AI & Machine Learning**
-Models that move the needle - Genrative and Agentic AI, preditictive and propensity models, recommendation systems, and more.
+:material-brain: **AI and Machine Learning**<br>
+Models that move the needle and create an impact - Generative and Agentic AI, predictive and propensity models, recommendation systems, and more.
 
-:material-chart-bar: **Data Science at Scale**
+:material-chart-bar: **Data Science at Scale**<br>
 End-to-end pipelines, experimentation frameworks, and analytics that drive decisions.
 
-:material-lightbulb-on: **Product Thinking**
+:material-lightbulb-on: **Product Thinking**<br>
 Turning ambiguous problems into packaged and shipped solutions.
 
 </div>
