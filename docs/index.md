@@ -7,7 +7,7 @@ hide:
 
 # Hello, I'm Supratim 👋
 
-> **Data Scientist · AI Product Builder · System Thinker**
+> **Data Science and AI Leader · Product and System Thinker**
 >
 > Two decades of turning data into decisions and ideas into intelligent products.
 
@@ -20,13 +20,13 @@ I build **AI-driven products and platforms** that solve real problems at scale �
 <div class="highlight-cards" markdown>
 
 :material-brain: **AI & Machine Learning**
-Models that move the needle — forecasting, NLP, recommendations, and more.
+Models that move the needle - Genrative and Agentic AI, preditictive and propensity models, recommendation systems, and more.
 
 :material-chart-bar: **Data Science at Scale**
 End-to-end pipelines, experimentation frameworks, and analytics that drive decisions.
 
 :material-lightbulb-on: **Product Thinking**
-Turning ambiguous problems into shipped, measurable solutions.
+Turning ambiguous problems into packaged and shipped solutions.
 
 </div>
 
@@ -36,9 +36,9 @@ Turning ambiguous problems into shipped, measurable solutions.
 
 | | |
 |---|---|
-| :material-bank: **Commonwealth Bank** | Leading AI initiatives in Data & Decision Science — making banking brighter for millions |
-| :material-cricket: **Cricket.com** | Built **Criclytics** — a prediction engine delivering industry-leading match forecasting accuracy |
-| :material-cloud: **Oracle** | Architected hybrid cloud + predictive analytics solutions across telecom clients globally |
+| :material-bank: **Commonwealth Bank** | Leading AI initiatives in Data & Decision Science - making banking brighter for millions |
+| :material-cricket: **Cricket.com** | Built **Criclytics** - a prediction engine delivering industry-leading match forecasting accuracy |
+| :material-cloud: **Oracle** | Architected hybrid cloud + billing, order and revenue management, and predictive analytics solutions across telecom clients globally |
 | :material-office-building: **Amdocs** | Led engineering teams shipping activation and revenue management products |
 
 [:material-arrow-right: View Full Experience](work.md){ .md-button }

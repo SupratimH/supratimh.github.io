@@ -18,4 +18,4 @@ Often, when training a very deep neural network, we want to stop training once t
 
 This tutorial walks through how to implement custom callbacks to gain fine-grained control over your training loop.
 
-[:material-arrow-right: Read the full tutorial](https://medium.com/@supratim.haldar/neural-network-with-tensorflow-how-to-stop-training-using-callback-5c8d575c18a9){ .md-button .md-button--primary }
+[:material-arrow-right: Read the full tutorial](https://medium.com/@supratim.haldar/neural-network-with-tensorflow-how-to-stop-training-using-callback-5c8d575c18a9){target="_blank" .md-button .md-button--primary}

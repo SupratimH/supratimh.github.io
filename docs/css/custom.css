@@ -360,6 +360,10 @@ button:focus-visible {
     margin: 0.25rem 0 0.75rem 0;
   }
 
+  .desktop-nav-links {
+    display: none;
+  }
+
   .profile-photo {
     width: 80px;
     height: 80px;

@@ -17,4 +17,4 @@ A gist of what I learnt over the years from executing many projects in data scie
 
 Data science is as much about execution as it is about algorithms. This post distills the key lessons I've picked up from years of building and shipping data science projects — from scoping and stakeholder management to model deployment and iteration.
 
-[:material-arrow-right: Read the full article](https://medium.com/@supratim.haldar/6-key-lessons-from-execution-of-projects-on-data-science-a198c0f95732){ .md-button .md-button--primary }
+[:material-arrow-right: Read the full article](https://medium.com/@supratim.haldar/6-key-lessons-from-execution-of-projects-on-data-science-a198c0f95732){target="_blank" .md-button .md-button--primary}

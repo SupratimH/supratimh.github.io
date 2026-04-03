@@ -16,4 +16,4 @@ A mathematical analysis of batsmen performances in the Caribbean Premier League 
 
 A mathematical analysis throws up some interesting results on how CPL batsmen can be grouped based on their performance metrics. Using clustering algorithms, we uncover distinct playing styles and identify which cluster a batsman belongs to.
 
-[:material-arrow-right: Read the full article](https://www.cricket.com/news/batsmen-in-cpl-a-cluster-analysis-1597752051575){ .md-button .md-button--primary }
+[:material-arrow-right: Read the full article](https://www.cricket.com/news/batsmen-in-cpl-a-cluster-analysis-1597752051575){target="_blank" .md-button .md-button--primary}

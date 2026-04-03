@@ -17,8 +17,8 @@ Adds profile section to top of navigation while preserving Material's layout
     <div class="profile-subtitle">📍 Bengaluru, India</div>
   </div>
 
-  <!-- Top nav links duplicated in sidebar -->
-  <nav class="md-nav" style="padding: 0.5rem;">
+  <!-- Top nav links duplicated in sidebar - hidden on mobile -->
+  <nav class="md-nav desktop-nav-links" style="padding: 0.5rem;">
     <ul class="md-nav__list">
       <li class="md-nav__item"><a href="{{ base_url }}/" class="md-nav__link">About</a></li>
       <li class="md-nav__item"><a href="{{ base_url }}/work/" class="md-nav__link">Work</a></li>
@@ -40,15 +40,15 @@ Adds profile section to top of navigation while preserving Material's layout
 
 <!-- Secondary sidebar (right TOC) — must be included here -->
 {% if "toc.integrate" not in features %}
-  {% if page and "toc" not in (page.meta.hide | default([])) %}
-    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
-      <div class="md-sidebar__scrollwrap">
-        <div class="md-sidebar__inner">
-          {% include "partials/toc.html" %}
-        </div>
-      </div>
+{% if page and "toc" not in (page.meta.hide | default([])) %}
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+  <div class="md-sidebar__scrollwrap">
+    <div class="md-sidebar__inner">
+      {% include "partials/toc.html" %}
     </div>
-  {% endif %}
+  </div>
+</div>
+{% endif %}
 {% endif %}
 
 {% endblock %}

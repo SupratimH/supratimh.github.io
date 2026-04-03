@@ -16,4 +16,4 @@ A visual analysis of traffic-related incidents on the roads of Bangalore — unc
 
 This post explores accident data on Bangalore's roads, using data analysis and visualization techniques to understand where, when, and why traffic incidents occur most frequently.
 
-[:material-arrow-right: Read the full article](https://medium.com/@supratim.haldar/whats-happening-on-the-roads-of-bangalore-2fd5b7a6c54c){ .md-button .md-button--primary }
+[:material-arrow-right: Read the full article](https://medium.com/@supratim.haldar/whats-happening-on-the-roads-of-bangalore-2fd5b7a6c54c){target="_blank" .md-button .md-button--primary}
