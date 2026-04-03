@@ -329,8 +329,8 @@
     <div class="profile-subtitle">📍 Bengaluru, India</div>
   </div>
 
-  <!-- Top nav links duplicated in sidebar -->
-  <nav class="md-nav" style="padding: 0.5rem;">
+  <!-- Top nav links duplicated in sidebar - hidden on mobile -->
+  <nav class="md-nav desktop-nav-links" style="padding: 0.5rem;">
     <ul class="md-nav__list">
       <li class="md-nav__item"><a href="../../../../../" class="md-nav__link">About</a></li>
       <li class="md-nav__item"><a href="../../../../../work/" class="md-nav__link">Work</a></li>
@@ -1648,11 +1648,11 @@
 
 <!-- Secondary sidebar (right TOC) — must be included here -->
 
-  
-    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
-      <div class="md-sidebar__scrollwrap">
-        <div class="md-sidebar__inner">
-          
+
+<div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+  <div class="md-sidebar__scrollwrap">
+    <div class="md-sidebar__inner">
+      
 
 <nav class="md-nav md-nav--secondary" aria-label="Table of contents">
   
@@ -1662,10 +1662,10 @@
   
   
 </nav>
-        </div>
-      </div>
     </div>
-  
+  </div>
+</div>
+
 
 
 
@@ -1775,7 +1775,7 @@
 
 <p>Often, when training a very deep neural network, we want to stop training once the model reaches a target accuracy or when the loss stops improving. TensorFlow provides a clean mechanism for this via <strong>callbacks</strong>.</p>
 <p>This tutorial walks through how to implement custom callbacks to gain fine-grained control over your training loop.</p>
-<p><a class="md-button md-button--primary" href="https://medium.com/@supratim.haldar/neural-network-with-tensorflow-how-to-stop-training-using-callback-5c8d575c18a9"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span> Read the full tutorial</a></p>
+<p><a class="md-button md-button--primary" href="https://medium.com/@supratim.haldar/neural-network-with-tensorflow-how-to-stop-training-using-callback-5c8d575c18a9" target="_blank"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11z"/></svg></span> Read the full tutorial</a></p>
 
 
 
