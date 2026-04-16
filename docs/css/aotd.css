@@ -43,6 +43,24 @@
   transition: border-color 0.15s;
 }
 
+/* Highlight card when targeted via URL hash */
+.aotd-card:target {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 0 0 2px var(--md-accent-fg-color);
+}
+
+/* Smooth scroll back into view when highlighted */
+html {
+  scroll-behavior: smooth;
+}
+
+/* Add a subtle background highlight animation */
+.aotd-card:target {
+  border-color: var(--md-accent-fg-color);
+  box-shadow: 0 0 0 2px var(--md-accent-fg-color);
+  background: var(--md-code-bg-color); /* Optional: subtle bg highlight */
+}
+
 .aotd-card:hover {
   border-color: var(--md-default-fg-color--lighter);
 }
