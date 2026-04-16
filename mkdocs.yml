@@ -87,7 +87,8 @@ theme:
     # Navigation tabs on top and sticky
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.indexes
+    # - navigation.sections # makes subsections expand as dropdowns
+    - navigation.indexes # allows section to have its own landing page
     - navigation.instant # Instant loading for faster navigation
     # - navigation.expand # Navigation expansion control
     - navigation.tracking # Track which link is currently viewed
@@ -131,6 +132,10 @@ plugins:
 # Custom styling for the website
 extra_css:
   - css/custom.css
+  - css/aotd.css
+
+extra_head:
+  - '<meta name="twitter:card" content="summary_large_image">'
 
 # extra_javascript:
 #   - javascripts/extra.js
@@ -142,13 +147,19 @@ extra_css:
 nav:
   - About: index.md
   - Work: work.md
-  - Projects: project.md
+  - Article of the Day: article_of_the_day/index.md
   - Blog:
     - blog/index.md
+  # - Project:
+  #   - Overview: project.md
+  #   - Criclytics: projects/criclytics.md
+    # - Article of the Day: projects/article_of_the_day/index.md
   - Contact: contact.md
 
 extra:
   social:
+    # - og_image: assets/aotd-social.png
+
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/supratim-haldar-232bb16/
       name: LinkedIn
@@ -172,3 +183,4 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:surpatimh@gmail.com
       name: Email
+
