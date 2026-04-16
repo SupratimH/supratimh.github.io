@@ -1,0 +1,218 @@
+/* ============================================================
+   ARTICLE OF THE DAY — STYLESHEET
+   ============================================================
+   All colours use MkDocs Material CSS variables for automatic
+   light/dark mode support. Only source badge tints use hardcoded
+   hex with explicit dark mode overrides.
+   ============================================================ */
+
+/* ---- Pill navigation ---- */
+
+.aotd-pill-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 2rem;
+}
+
+.aotd-pill {
+  border-radius: 999px;
+  padding: 5px 14px;
+  font-size: 13px;
+  border: 1px solid var(--md-default-fg-color--lighter);
+  color: var(--md-default-fg-color--light);
+  text-decoration: none;
+  transition: border-color 0.15s, color 0.15s, background 0.15s;
+}
+
+.aotd-pill:hover {
+  border-color: var(--md-default-fg-color);
+  color: var(--md-default-fg-color);
+  background: var(--md-default-fg-color--lightest);
+}
+
+/* ---- Article card ---- */
+
+.aotd-card {
+  display: block;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  padding: 1rem 1.25rem;
+  margin-bottom: 12px;
+  background: var(--md-default-bg-color);
+  transition: border-color 0.15s;
+}
+
+.aotd-card:hover {
+  border-color: var(--md-default-fg-color--lighter);
+}
+
+/* ---- Typography inside cards ---- */
+
+.aotd-rank {
+  font-size: 11px;
+  color: var(--md-default-fg-color--light);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 6px;
+}
+
+.aotd-title {
+  display: block;
+  font-size: 15px;
+  font-weight: 500;
+  color: var(--md-typeset-a-color);
+  line-height: 1.4;
+  margin-bottom: 8px;
+  text-decoration: none;
+}
+
+.aotd-title:hover {
+  text-decoration: underline;
+}
+
+/* ---- Meta badges row ---- */
+
+.aotd-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.aotd-badge {
+  font-size: 11px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color--light);
+  background: var(--md-default-fg-color--lightest);
+}
+
+/* Source badge tints — light mode */
+
+.aotd-badge--hn {
+  background: #fef3e2;
+  color: #854f0b;
+  border-color: #f5c97a;
+}
+
+.aotd-badge--devto {
+  background: #edf4fb;
+  color: #185fa5;
+  border-color: #aecfef;
+}
+
+.aotd-badge--reddit {
+  background: #fdecea;
+  color: #a32d2d;
+  border-color: #f0a0a0;
+}
+
+/* Source badge tints — dark mode */
+
+[data-md-color-scheme="slate"] .aotd-badge--hn {
+  background: #3a2a00;
+  color: #f5c97a;
+  border-color: #5a4200;
+}
+
+[data-md-color-scheme="slate"] .aotd-badge--devto {
+  background: #0a1e33;
+  color: #7bb8ec;
+  border-color: #1a3a5c;
+}
+
+[data-md-color-scheme="slate"] .aotd-badge--reddit {
+  background: #2d0a0a;
+  color: #f09595;
+  border-color: #5a1a1a;
+}
+
+/* ---- Summary text ---- */
+
+.aotd-summary {
+  font-size: 13px;
+  color: var(--md-default-fg-color--light);
+  line-height: 1.6;
+  margin-bottom: 10px;
+}
+
+/* ---- Share row ---- */
+
+.aotd-share {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  flex-wrap: wrap;
+}
+
+.aotd-share-label {
+  font-size: 11px;
+  color: var(--md-default-fg-color--lighter);
+}
+
+.aotd-share-btn {
+  font-size: 11px;
+  padding: 3px 9px;
+  border-radius: 4px;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  color: var(--md-default-fg-color--light);
+  background: transparent;
+  text-decoration: none;
+  transition: all 0.15s;
+}
+
+.aotd-share-btn:hover {
+  background: var(--md-default-fg-color--lightest);
+  border-color: var(--md-default-fg-color--lighter);
+}
+
+/* Platform colour on hover (text only) */
+
+.aotd-share-btn--wa:hover {
+  color: #128c7e;
+}
+
+.aotd-share-btn--li:hover {
+  color: #0a66c2;
+}
+
+.aotd-share-btn--x:hover {
+  color: var(--md-default-fg-color);
+}
+
+/* ---- Footer ---- */
+
+.aotd-footer {
+  font-size: 13px;
+  color: var(--md-default-fg-color--lighter);
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+  padding-top: 1rem;
+  margin-top: 2rem;
+}
+
+/* ---- Attribution ---- */
+
+.aotd-attribution {
+  font-size: 12px;
+  color: var(--md-default-fg-color--lighter);
+  margin-top: 0.5rem;
+}
+
+/* ---- Responsive — mobile ---- */
+
+@media (max-width: 600px) {
+  .aotd-card {
+    padding: 0.875rem 1rem;
+  }
+
+  .aotd-title {
+    font-size: 14px;
+  }
+
+  .aotd-share {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}
