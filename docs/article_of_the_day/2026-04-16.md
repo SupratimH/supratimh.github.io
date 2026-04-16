@@ -1,6 +1,6 @@
 ---
 title: "Article of the Day — 16 Apr 2026"
-description: "Today's top pick: The local LLM ecosystem doesn’t need Ollama. Plus 11 more curated long-reads across AI / ML · Data Science · Sports Analytics · Crypto Analytics."
+description: "Today's top pick: Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All. Plus 11 more curated long-reads across AI / ML / Gen & Agentic AI · Data Science · Sports Analytics · Crypto Analytics."
 date: 2026-04-16
 ---
 
@@ -9,87 +9,95 @@ date: 2026-04-16
 Read the best articles of today, from around the globe, curated at one place for you!
 
 <div class="aotd-pill-nav">
-  <a class="aotd-pill" href="#ai-ml">AI / ML</a>
+  <a class="aotd-pill" href="#ai-ml-gen-agentic-ai">AI / ML / Gen & Agentic AI</a>
   <a class="aotd-pill" href="#data-science">Data Science</a>
   <a class="aotd-pill" href="#sports-analytics">Sports Analytics</a>
   <a class="aotd-pill" href="#crypto-analytics">Crypto Analytics</a>
 </div>
 
-## AI / ML { #ai-ml }
+## AI / ML / Gen & Agentic AI { #ai-ml-gen-agentic-ai }
 
-<div class="aotd-card" id="pick-1-ai-ml">
+<div class="aotd-card" id="pick-1-ai-ml-gen-agentic-ai">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://sleepingrobots.com/dreams/stop-using-ollama/" target="_blank" rel="noopener">
-    The local LLM ecosystem doesn’t need Ollama
+  <a class="aotd-title" href="https://qwen.ai/blog?id=qwen3.6-35b-a3b" target="_blank" rel="noopener">
+    Qwen3.6-35B-A3B: Agentic Coding Power, Now Open to All
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">13 min read</span>
-    <span class="aotd-badge">553 points</span>
+    <span class="aotd-badge">427 points</span>
   </div>
-  <p class="aotd-summary">Ollama gained traction by being the first easy llama.cpp wrapper, then spent years dodging attribution, misleading users, and pivoting to cloud, all while riding VC money earned on someone else&#x27;s engine. Here&#x27;s the full history, and why the alternatives are better.</p>
+  <p class="aotd-summary">Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20-%20%22The%20local%20LLM%20ecosystem%20doesn%E2%80%99t%20need%20Ollama%22%3A%20Ollama%20gained%20traction%20by%20being%20the%20first%20easy%20llama.cpp%20wrapper%2C%20then%20spent%20years%20dodging%20attribution%2C%20misleading%20users%2C%20and%20pivoting%20to%20cloud%2C%20all%20while%20riding%20VC%20money%20earned%20on%20someone%20else%27s%20engine.%20Here%27s%20the%20full%20history%2C%20and%20why%20the%20alternatives%20are%20better.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-ml"
+       href="https://wa.me/?text=Today%27s%20read%20-%20%22Qwen3.6-35B-A3B%3A%20Agentic%20Coding%20Power%2C%20Now%20Open%20to%20All%22%3A%20Qwen%20Studio%20offers%20comprehensive%20functionality%20spanning%20chatbot%2C%20image%20and%20video%20understanding%2C%20image%20generation%2C%20document%20processing%2C%20web%20search%20integration%2C%20tool%20utilization%2C%20and%20artifacts.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-ml-gen-agentic-ai"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-ml&summary=Today%27s%20read%20-%20%22The%20local%20LLM%20ecosystem%20doesn%E2%80%99t%20need%20Ollama%22%3A%20Ollama%20gained%20traction%20by%20being%20the%20first%20easy%20llama.cpp%20wrapper%2C%20then%20spent%20years%20dodging%20attribution%2C%20misleading%20users%2C%20and%20pivoting%20to%20cloud%2C%20all%20while%20riding%20VC%20money%20earned%20on%20someone%20else%27s%20engine.%20Here%27s%20the%20full%20history%2C%20and%20why%20the%20alternatives%20are%20better."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-ml-gen-agentic-ai&summary=Today%27s%20read%20-%20%22Qwen3.6-35B-A3B%3A%20Agentic%20Coding%20Power%2C%20Now%20Open%20to%20All%22%3A%20Qwen%20Studio%20offers%20comprehensive%20functionality%20spanning%20chatbot%2C%20image%20and%20video%20understanding%2C%20image%20generation%2C%20document%20processing%2C%20web%20search%20integration%2C%20tool%20utilization%2C%20and%20artifacts."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22The%20local%20LLM%20ecosystem%20doesn%E2%80%99t%20need%20Ollama%22%3A%20Ollama%20gained%20traction%20by%20being%20the%20first%20easy%20llama.cpp%20wrapper%2C%20then%20spent%20years%20dodging%20attribution%2C%20misleading%20users%2C%20and%20pivoting%20to%20cloud%2C%20all%20while%20riding%20VC%20money%20earned%20on%20someone%20else%27s%20engine.%20Here%27s%20the%20full%20history%2C%20and%20why%20the%20alternatives%20are%20better.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-ml"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Qwen3.6-35B-A3B%3A%20Agentic%20Coding%20Power%2C%20Now%20Open%20to%20All%22%3A%20Qwen%20Studio%20offers%20comprehensive%20functionality%20spanning%20chatbot%2C%20image%20and%20video%20understanding%2C%20image%20generation%2C%20document%20processing%2C%20web%20search%20integration%2C%20tool%20utilization%2C%20and%20artifacts.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-ml-gen-agentic-ai"
        target="_blank" rel="noopener">X / Twitter</a>
   </div>
 </div>
 
 
-<div class="aotd-card" id="pick-2-ai-ml">
+<div class="aotd-card" id="pick-2-ai-ml-gen-agentic-ai">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://dev.to/aws/lost-in-the-ai-hype-i-started-small-2a72" target="_blank" rel="noopener">
-    Lost in the AI Hype, I Started Small
+  <a class="aotd-title" href="https://i.redd.it/g6edjlxt0kvg1.jpeg" target="_blank" rel="noopener">
+    Qwen3.6-35B-A3B released!
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">7 min read</span>
-    <span class="aotd-badge">34 reactions</span>
+    <span class="aotd-badge aotd-badge--reddit">Reddit</span>
+    <span class="aotd-badge">972 upvotes</span>
   </div>
-  <p class="aotd-summary">And it helped me get back into tech without drowning    TL;DR at the end     Coming back to...</p>
+  <p class="aotd-summary">Meet Qwen3.6-35B-A3B：Now Open-Source！🚀🚀
+
+A sparse MoE model, 35B total params, 3B active. Apache 2.0 license.
+
+\- Agentic coding on par with models 10x its active size
+
+\-  Strong multimodal perception and reasoning ability
+
+\- Multimodal thinking + non-thinking modes
+
+Efficient. Powerful. Versatile</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20-%20%22Lost%20in%20the%20AI%20Hype%2C%20I%20Started%20Small%22%3A%20And%20it%20helped%20me%20get%20back%20into%20tech%20without%20drowning%20%20%20%20TL%3BDR%20at%20the%20end%20%20%20%20%20Coming%20back%20to...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-ml"
+       href="https://wa.me/?text=Today%27s%20read%20-%20%22Qwen3.6-35B-A3B%20released%21%22%3A%20Meet%20Qwen3.6-35B-A3B%EF%BC%9ANow%20Open-Source%EF%BC%81%F0%9F%9A%80%F0%9F%9A%80%0A%0AA%20sparse%20MoE%20model%2C%2035B%20total%20params%2C%203B%20active.%20Apache%202.0%20license.%0A%0A%5C-%20Agentic%20coding%20on%20par%20with%20models%2010x%20its%20active%20size%0A%0A%5C-%20%20Strong%20multimodal%20perception%20and%20reasoning%20ability%0A%0A%5C-%20Multimodal%20thinking%20%2B%20non-thinking%20modes%0A%0AEfficient.%20Powerful.%20Versatile%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-ml-gen-agentic-ai"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-ml&summary=Today%27s%20read%20-%20%22Lost%20in%20the%20AI%20Hype%2C%20I%20Started%20Small%22%3A%20And%20it%20helped%20me%20get%20back%20into%20tech%20without%20drowning%20%20%20%20TL%3BDR%20at%20the%20end%20%20%20%20%20Coming%20back%20to..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-ml-gen-agentic-ai&summary=Today%27s%20read%20-%20%22Qwen3.6-35B-A3B%20released%21%22%3A%20Meet%20Qwen3.6-35B-A3B%EF%BC%9ANow%20Open-Source%EF%BC%81%F0%9F%9A%80%F0%9F%9A%80%0A%0AA%20sparse%20MoE%20model%2C%2035B%20total%20params%2C%203B%20active.%20Apache%202.0%20license.%0A%0A%5C-%20Agentic%20coding%20on%20par%20with%20models%2010x%20its%20active%20size%0A%0A%5C-%20%20Strong%20multimodal%20perception%20and%20reasoning%20ability%0A%0A%5C-%20Multimodal%20thinking%20%2B%20non-thinking%20modes%0A%0AEfficient.%20Powerful.%20Versatile"
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Lost%20in%20the%20AI%20Hype%2C%20I%20Started%20Small%22%3A%20And%20it%20helped%20me%20get%20back%20into%20tech%20without%20drowning%20%20%20%20TL%3BDR%20at%20the%20end%20%20%20%20%20Coming%20back%20to...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-ml"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Qwen3.6-35B-A3B%20released%21%22%3A%20Meet%20Qwen3.6-35B-A3B%EF%BC%9ANow%20Open-Source%EF%BC%81%F0%9F%9A%80%F0%9F%9A%80%0A%0AA%20sparse%20MoE%20model%2C%2035B%20total%20params%2C%203B%20active.%20Apache%202.0%20license.%0A%0A%5C-%20Agentic%20coding%20on%20par%20with%20models%2010x%20its%20active%20size%0A%0A%5C-%20%20Strong%20multimodal%20perception%20and%20reasoning%20ability%0A%0A%5C-%20Multimodal%20thinking%20%2B%20non-thinking%20modes%0A%0AEfficient.%20Powerful.%20Versatile&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-ml-gen-agentic-ai"
        target="_blank" rel="noopener">X / Twitter</a>
   </div>
 </div>
 
 
-<div class="aotd-card" id="pick-3-ai-ml">
+<div class="aotd-card" id="pick-3-ai-ml-gen-agentic-ai">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://dev.to/googleai/how-to-prompt-gemini-31s-new-text-to-speech-model-24bb" target="_blank" rel="noopener">
-    How to prompt Gemini 3.1&#x27;s new text to speech model
+  <a class="aotd-title" href="https://dev.to/prince_raj/part-1-what-we-built-a-tiny-ai-system-for-support-ticket-classification-4ihl" target="_blank" rel="noopener">
+    Part 1: What We Built - A Tiny AI System for Support Ticket Classification
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">7 min read</span>
-    <span class="aotd-badge">33 reactions</span>
+    <span class="aotd-badge">5 min read</span>
+    <span class="aotd-badge">5 reactions</span>
   </div>
-  <p class="aotd-summary">Gemini 3.1 Flash text to speech (TTS) is a new model that you can direct to get the precise audio...</p>
+  <p class="aotd-summary">Why this series exists   If you are a backend engineer, you already know how to build...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20-%20%22How%20to%20prompt%20Gemini%203.1%27s%20new%20text%20to%20speech%20model%22%3A%20Gemini%203.1%20Flash%20text%20to%20speech%20%28TTS%29%20is%20a%20new%20model%20that%20you%20can%20direct%20to%20get%20the%20precise%20audio...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-ml"
+       href="https://wa.me/?text=Today%27s%20read%20-%20%22Part%201%3A%20What%20We%20Built%20-%20A%20Tiny%20AI%20System%20for%20Support%20Ticket%20Classification%22%3A%20Why%20this%20series%20exists%20%20%20If%20you%20are%20a%20backend%20engineer%2C%20you%20already%20know%20how%20to%20build...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-ml-gen-agentic-ai"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-ml&summary=Today%27s%20read%20-%20%22How%20to%20prompt%20Gemini%203.1%27s%20new%20text%20to%20speech%20model%22%3A%20Gemini%203.1%20Flash%20text%20to%20speech%20%28TTS%29%20is%20a%20new%20model%20that%20you%20can%20direct%20to%20get%20the%20precise%20audio..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-ml-gen-agentic-ai&summary=Today%27s%20read%20-%20%22Part%201%3A%20What%20We%20Built%20-%20A%20Tiny%20AI%20System%20for%20Support%20Ticket%20Classification%22%3A%20Why%20this%20series%20exists%20%20%20If%20you%20are%20a%20backend%20engineer%2C%20you%20already%20know%20how%20to%20build..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22How%20to%20prompt%20Gemini%203.1%27s%20new%20text%20to%20speech%20model%22%3A%20Gemini%203.1%20Flash%20text%20to%20speech%20%28TTS%29%20is%20a%20new%20model%20that%20you%20can%20direct%20to%20get%20the%20precise%20audio...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-ml"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Part%201%3A%20What%20We%20Built%20-%20A%20Tiny%20AI%20System%20for%20Support%20Ticket%20Classification%22%3A%20Why%20this%20series%20exists%20%20%20If%20you%20are%20a%20backend%20engineer%2C%20you%20already%20know%20how%20to%20build...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-ml-gen-agentic-ai"
        target="_blank" rel="noopener">X / Twitter</a>
   </div>
 </div>
@@ -105,7 +113,7 @@ Read the best articles of today, from around the globe, curated at one place for
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
     <span class="aotd-badge">13 min read</span>
-    <span class="aotd-badge">2 reactions</span>
+    <span class="aotd-badge">21 reactions</span>
   </div>
   <p class="aotd-summary">Traditionally, charts that visualize data over time are horizontal. But sometimes a vertical layout...</p>
   <div class="aotd-share">
@@ -125,25 +133,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-2-data-science">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://dev.to/arnab500th/rapid-interest-shifts-in-recommender-systems-a-case-study-on-instagram-reels-1eh1" target="_blank" rel="noopener">
-    Rapid Interest Shifts in Recommender Systems: A Case Study on Instagram Reels
+  <a class="aotd-title" href="https://www.interviewquery.com/p/stanford-ai-index-2026" target="_blank" rel="noopener">
+    Stanford AI Index 2026: Why Fundamentals Still Matter in Data Interviews
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">8 min read</span>
-    <span class="aotd-badge">1 reactions</span>
+    <span class="aotd-badge aotd-badge--reddit">Reddit</span>
+    <span class="aotd-badge">5 min read</span>
+    <span class="aotd-badge">8 upvotes</span>
   </div>
-  <p class="aotd-summary">A late-night experiment revealing how fast recommendation systems actually adapt   An...</p>
+  <p class="aotd-summary">Stanford’s 2026 AI Index shows agentic AI hiring is surging, but data science interviews still focus on SQL, statistics, and core fundamentals.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20-%20%22Rapid%20Interest%20Shifts%20in%20Recommender%20Systems%3A%20A%20Case%20Study%20on%20Instagram%20Reels%22%3A%20A%20late-night%20experiment%20revealing%20how%20fast%20recommendation%20systems%20actually%20adapt%20%20%20An...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-data-science"
+       href="https://wa.me/?text=Today%27s%20read%20-%20%22Stanford%20AI%20Index%202026%3A%20Why%20Fundamentals%20Still%20Matter%20in%20Data%20Interviews%22%3A%20Stanford%E2%80%99s%202026%20AI%20Index%20shows%20agentic%20AI%20hiring%20is%20surging%2C%20but%20data%20science%20interviews%20still%20focus%20on%20SQL%2C%20statistics%2C%20and%20core%20fundamentals.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-data-science"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-data-science&summary=Today%27s%20read%20-%20%22Rapid%20Interest%20Shifts%20in%20Recommender%20Systems%3A%20A%20Case%20Study%20on%20Instagram%20Reels%22%3A%20A%20late-night%20experiment%20revealing%20how%20fast%20recommendation%20systems%20actually%20adapt%20%20%20An..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-data-science&summary=Today%27s%20read%20-%20%22Stanford%20AI%20Index%202026%3A%20Why%20Fundamentals%20Still%20Matter%20in%20Data%20Interviews%22%3A%20Stanford%E2%80%99s%202026%20AI%20Index%20shows%20agentic%20AI%20hiring%20is%20surging%2C%20but%20data%20science%20interviews%20still%20focus%20on%20SQL%2C%20statistics%2C%20and%20core%20fundamentals."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Rapid%20Interest%20Shifts%20in%20Recommender%20Systems%3A%20A%20Case%20Study%20on%20Instagram%20Reels%22%3A%20A%20late-night%20experiment%20revealing%20how%20fast%20recommendation%20systems%20actually%20adapt%20%20%20An...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-data-science"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Stanford%20AI%20Index%202026%3A%20Why%20Fundamentals%20Still%20Matter%20in%20Data%20Interviews%22%3A%20Stanford%E2%80%99s%202026%20AI%20Index%20shows%20agentic%20AI%20hiring%20is%20surging%2C%20but%20data%20science%20interviews%20still%20focus%20on%20SQL%2C%20statistics%2C%20and%20core%20fundamentals.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-data-science"
        target="_blank" rel="noopener">X / Twitter</a>
   </div>
 </div>
@@ -151,25 +159,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-3-data-science">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://www.interviewquery.com/p/stanford-ai-index-2026" target="_blank" rel="noopener">
-    Stanford AI Index 2026: Why Fundamentals Still Matter in Data Interviews
+  <a class="aotd-title" href="https://www.zatanna.ai/kampala" target="_blank" rel="noopener">
+    Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--reddit">Reddit</span>
-    <span class="aotd-badge">5 min read</span>
-    <span class="aotd-badge">7 upvotes</span>
+    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
+    <span class="aotd-badge">1 min read</span>
+    <span class="aotd-badge">22 points</span>
   </div>
-  <p class="aotd-summary">Stanford’s 2026 AI Index shows agentic AI hiring is surging, but data science interviews still focus on SQL, statistics, and core fundamentals.</p>
+  <p class="aotd-summary">Zatanna maps human-only software workflows and exposes them as reliable APIs your AI agents and internal tools can call in production. No browser automation scripts to maintain.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20-%20%22Stanford%20AI%20Index%202026%3A%20Why%20Fundamentals%20Still%20Matter%20in%20Data%20Interviews%22%3A%20Stanford%E2%80%99s%202026%20AI%20Index%20shows%20agentic%20AI%20hiring%20is%20surging%2C%20but%20data%20science%20interviews%20still%20focus%20on%20SQL%2C%20statistics%2C%20and%20core%20fundamentals.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-data-science"
+       href="https://wa.me/?text=Today%27s%20read%20-%20%22Launch%20HN%3A%20Kampala%20%28YC%20W26%29%20%E2%80%93%20Reverse-Engineer%20Apps%20into%20APIs%22%3A%20Zatanna%20maps%20human-only%20software%20workflows%20and%20exposes%20them%20as%20reliable%20APIs%20your%20AI%20agents%20and%20internal%20tools%20can%20call%20in%20production.%20No%20browser%20automation%20scripts%20to%20maintain.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-data-science"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-data-science&summary=Today%27s%20read%20-%20%22Stanford%20AI%20Index%202026%3A%20Why%20Fundamentals%20Still%20Matter%20in%20Data%20Interviews%22%3A%20Stanford%E2%80%99s%202026%20AI%20Index%20shows%20agentic%20AI%20hiring%20is%20surging%2C%20but%20data%20science%20interviews%20still%20focus%20on%20SQL%2C%20statistics%2C%20and%20core%20fundamentals."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-data-science&summary=Today%27s%20read%20-%20%22Launch%20HN%3A%20Kampala%20%28YC%20W26%29%20%E2%80%93%20Reverse-Engineer%20Apps%20into%20APIs%22%3A%20Zatanna%20maps%20human-only%20software%20workflows%20and%20exposes%20them%20as%20reliable%20APIs%20your%20AI%20agents%20and%20internal%20tools%20can%20call%20in%20production.%20No%20browser%20automation%20scripts%20to%20maintain."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Stanford%20AI%20Index%202026%3A%20Why%20Fundamentals%20Still%20Matter%20in%20Data%20Interviews%22%3A%20Stanford%E2%80%99s%202026%20AI%20Index%20shows%20agentic%20AI%20hiring%20is%20surging%2C%20but%20data%20science%20interviews%20still%20focus%20on%20SQL%2C%20statistics%2C%20and%20core%20fundamentals.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-data-science"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Launch%20HN%3A%20Kampala%20%28YC%20W26%29%20%E2%80%93%20Reverse-Engineer%20Apps%20into%20APIs%22%3A%20Zatanna%20maps%20human-only%20software%20workflows%20and%20exposes%20them%20as%20reliable%20APIs%20your%20AI%20agents%20and%20internal%20tools%20can%20call%20in%20production.%20No%20browser%20automation%20scripts%20to%20maintain.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-data-science"
        target="_blank" rel="noopener">X / Twitter</a>
   </div>
 </div>
@@ -179,25 +187,24 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-1-sports-analytics">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://dev.to/manveer_chawla_64a7283d5a/are-clickhouse-joins-slow-a-2026-pr-by-pr-analysis-21e8" target="_blank" rel="noopener">
-    Are ClickHouse JOINs Slow? A 2026 PR-by-PR Analysis
+  <a class="aotd-title" href="https://i.redd.it/i2yyk0zc5fvg1.jpeg" target="_blank" rel="noopener">
+    Harry Kane hits 50 goals in one season for the first time in his career
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">18 min read</span>
-    <span class="aotd-badge">5 reactions</span>
+    <span class="aotd-badge aotd-badge--reddit">Reddit</span>
+    <span class="aotd-badge">7,862 upvotes</span>
   </div>
-  <p class="aotd-summary">TL;DR   The narrative that &quot;ClickHouse can&#x27;t do JOINs&quot; is outdated by four years and 50+...</p>
+  <p class="aotd-summary">Read this Reddit article from i.redd.it.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20-%20%22Are%20ClickHouse%20JOINs%20Slow%3F%20A%202026%20PR-by-PR%20Analysis%22%3A%20TL%3BDR%20%20%20The%20narrative%20that%20%22ClickHouse%20can%27t%20do%20JOINs%22%20is%20outdated%20by%20four%20years%20and%2050%2B...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-sports-analytics"
+       href="https://wa.me/?text=Today%27s%20read%20-%20%22Harry%20Kane%20hits%2050%20goals%20in%20one%20season%20for%20the%20first%20time%20in%20his%20career%22%3A%20Read%20this%20Reddit%20article%20from%20i.redd.it.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-sports-analytics"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-sports-analytics&summary=Today%27s%20read%20-%20%22Are%20ClickHouse%20JOINs%20Slow%3F%20A%202026%20PR-by-PR%20Analysis%22%3A%20TL%3BDR%20%20%20The%20narrative%20that%20%22ClickHouse%20can%27t%20do%20JOINs%22%20is%20outdated%20by%20four%20years%20and%2050%2B..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-sports-analytics&summary=Today%27s%20read%20-%20%22Harry%20Kane%20hits%2050%20goals%20in%20one%20season%20for%20the%20first%20time%20in%20his%20career%22%3A%20Read%20this%20Reddit%20article%20from%20i.redd.it."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Are%20ClickHouse%20JOINs%20Slow%3F%20A%202026%20PR-by-PR%20Analysis%22%3A%20TL%3BDR%20%20%20The%20narrative%20that%20%22ClickHouse%20can%27t%20do%20JOINs%22%20is%20outdated%20by%20four%20years%20and%2050%2B...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-sports-analytics"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Harry%20Kane%20hits%2050%20goals%20in%20one%20season%20for%20the%20first%20time%20in%20his%20career%22%3A%20Read%20this%20Reddit%20article%20from%20i.redd.it.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-sports-analytics"
        target="_blank" rel="noopener">X / Twitter</a>
   </div>
 </div>
@@ -205,24 +212,24 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-2-sports-analytics">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://www.reddit.com/gallery/1sm6zrz" target="_blank" rel="noopener">
-    [OC] Are tennis surfaces really converging? I built a scrollytelling piece to find out
+  <a class="aotd-title" href="https://streamin.link/v/dd3a0ce0" target="_blank" rel="noopener">
+    Bayern Munich 0 - [1] Real Madrid - A. Güler 1&#x27;
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--reddit">Reddit</span>
-    <span class="aotd-badge">3 upvotes</span>
+    <span class="aotd-badge">4,541 upvotes</span>
   </div>
-  <p class="aotd-summary">Read this Reddit article from reddit.com.</p>
+  <p class="aotd-summary">Video Bayern Munich 0 - [1] Real Madrid - A. Güler 1&#x27; was uploaded to Streamin.me on Apr 15, 2026.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20-%20%22%5BOC%5D%20Are%20tennis%20surfaces%20really%20converging%3F%20I%20built%20a%20scrollytelling%20piece%20to%20find%20out%22%3A%20Read%20this%20Reddit%20article%20from%20reddit.com.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-sports-analytics"
+       href="https://wa.me/?text=Today%27s%20read%20-%20%22Bayern%20Munich%200%20-%20%5B1%5D%20Real%20Madrid%20-%20A.%20G%C3%BCler%201%27%22%3A%20Video%20Bayern%20Munich%200%20-%20%5B1%5D%20Real%20Madrid%20-%20A.%20G%C3%BCler%201%27%20was%20uploaded%20to%20Streamin.me%20on%20Apr%2015%2C%202026.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-sports-analytics"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-sports-analytics&summary=Today%27s%20read%20-%20%22%5BOC%5D%20Are%20tennis%20surfaces%20really%20converging%3F%20I%20built%20a%20scrollytelling%20piece%20to%20find%20out%22%3A%20Read%20this%20Reddit%20article%20from%20reddit.com."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-sports-analytics&summary=Today%27s%20read%20-%20%22Bayern%20Munich%200%20-%20%5B1%5D%20Real%20Madrid%20-%20A.%20G%C3%BCler%201%27%22%3A%20Video%20Bayern%20Munich%200%20-%20%5B1%5D%20Real%20Madrid%20-%20A.%20G%C3%BCler%201%27%20was%20uploaded%20to%20Streamin.me%20on%20Apr%2015%2C%202026."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22%5BOC%5D%20Are%20tennis%20surfaces%20really%20converging%3F%20I%20built%20a%20scrollytelling%20piece%20to%20find%20out%22%3A%20Read%20this%20Reddit%20article%20from%20reddit.com.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-sports-analytics"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Bayern%20Munich%200%20-%20%5B1%5D%20Real%20Madrid%20-%20A.%20G%C3%BCler%201%27%22%3A%20Video%20Bayern%20Munich%200%20-%20%5B1%5D%20Real%20Madrid%20-%20A.%20G%C3%BCler%201%27%20was%20uploaded%20to%20Streamin.me%20on%20Apr%2015%2C%202026.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-sports-analytics"
        target="_blank" rel="noopener">X / Twitter</a>
   </div>
 </div>
@@ -230,24 +237,24 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-3-sports-analytics">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://www.theverge.com/streaming/912898/youtube-shorts-feed-limit-zero-minutes" target="_blank" rel="noopener">
-    YouTube users get option to set their Shorts time limit to zero minutes
+  <a class="aotd-title" href="https://www.goal.com/en/lists/maybe-he-s-man-enough-to-admit-it-bayern-star-josip-stanisic-levels-serious-accusations-against-real-madrid-s-antonio-ruediger/blt11724d8caf0f0942" target="_blank" rel="noopener">
+    Stanisic says Rudiger insulted him &quot;He sees me coming and just charges straight into me. What happened while I was on the ground, you can ask him, but in my opinion it&#x27;s completely unacceptable. Just one word, used twice. You can ask him yourself. Maybe he&#x27;s man enough to admit it.&quot;
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">293 points</span>
+    <span class="aotd-badge aotd-badge--reddit">Reddit</span>
+    <span class="aotd-badge">3,760 upvotes</span>
   </div>
-  <p class="aotd-summary">Limit your Shorts scrolling to zero minutes per day.</p>
+  <p class="aotd-summary">Josip Stanisic is crunched by Antonio Rüdiger just before half-time; the referee keeps his whistle silent, and Real Madrid pounce to make it 3–2. After Bayern win, Stanisic hits back verbally at the German.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20-%20%22YouTube%20users%20get%20option%20to%20set%20their%20Shorts%20time%20limit%20to%20zero%20minutes%22%3A%20Limit%20your%20Shorts%20scrolling%20to%20zero%20minutes%20per%20day.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-sports-analytics"
+       href="https://wa.me/?text=Today%27s%20read%20-%20%22Stanisic%20says%20Rudiger%20insulted%20him%20%22He%20sees%20me%20coming%20and%20just%20charges%20straight%20into%20me.%20What%20happened%20while%20I%20was%20on%20the%20ground%2C%20you%20can%20ask%20him%2C%20but%20in%20my%20opinion%20it%27s%20completely%20unacceptable.%20Just%20one%20word%2C%20used%20twice.%20You%20can%20ask%20him%20yourself.%20Maybe%20he%27s%20man%20enough%20to%20admit%20it.%22%22%3A%20Josip%20Stanisic%20is%20crunched%20by%20Antonio%20R%C3%BCdiger%20just%20before%20half-time%3B%20the%20referee%20keeps%20his%20whistle%20silent%2C%20and%20Real%20Madrid%20pounce%20to%20make%20it%203%E2%80%932.%20After%20Bayern%20win%2C%20Stanisic%20hits%20back%20verbally%20at%20the%20German.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-sports-analytics"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-sports-analytics&summary=Today%27s%20read%20-%20%22YouTube%20users%20get%20option%20to%20set%20their%20Shorts%20time%20limit%20to%20zero%20minutes%22%3A%20Limit%20your%20Shorts%20scrolling%20to%20zero%20minutes%20per%20day."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-sports-analytics&summary=Today%27s%20read%20-%20%22Stanisic%20says%20Rudiger%20insulted%20him%20%22He%20sees%20me%20coming%20and%20just%20charges%20straight%20into%20me.%20What%20happened%20while%20I%20was%20on%20the%20ground%2C%20you%20can%20ask%20him%2C%20but%20in%20my%20opinion%20it%27s%20completely%20unacceptable.%20Just%20one%20word%2C%20used%20twice.%20You%20can%20ask%20him%20yourself.%20Maybe%20he%27s%20man%20enough%20to%20admit%20it.%22%22%3A%20Josip%20Stanisic%20is%20crunched%20by%20Antonio%20R%C3%BCdiger%20just%20before%20half-time%3B%20the%20referee%20keeps%20his%20whistle%20silent%2C%20and%20Real%20Madrid%20pounce%20to%20make%20it%203%E2%80%932.%20After%20Bayern%20win%2C%20Stanisic%20hits%20back%20verbally%20at%20the%20German."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22YouTube%20users%20get%20option%20to%20set%20their%20Shorts%20time%20limit%20to%20zero%20minutes%22%3A%20Limit%20your%20Shorts%20scrolling%20to%20zero%20minutes%20per%20day.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-sports-analytics"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Stanisic%20says%20Rudiger%20insulted%20him%20%22He%20sees%20me%20coming%20and%20just%20charges%20straight%20into%20me.%20What%20happened%20while%20I%20was%20on%20the%20ground%2C%20you%20can%20ask%20him%2C%20but%20in%20my%20opinion%20it%27s%20completely%20unacceptable.%20Just%20one%20word%2C%20used%20twice.%20You%20can%20ask%20him%20yourself.%20Maybe%20he%27s%20man%20enough%20to%20admit%20it.%22%22%3A%20Josip%20Stanisic%20is%20crunched%20by%20Antonio%20R%C3%BCdiger%20just%20before%20half-time%3B%20the%20referee%20keeps%20his%20whistle%20silent%2C%20and%20Real%20Madrid%20pounce%20to%20make%20it%203%E2%80%932.%20After%20Bayern%20win%2C%20Stanisic%20hits%20back%20verbally%20at%20the%20German.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-sports-analytics"
        target="_blank" rel="noopener">X / Twitter</a>
   </div>
 </div>
@@ -257,24 +264,24 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-1-crypto-analytics">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://www.afr.com/technology/atlassian-defends-firing-engineer-for-suggesting-ceo-is-rich-jerk-20260317-p5ob1w" target="_blank" rel="noopener">
-    Atlassian defends firing engineer for suggesting CEO is &#x27;rich jerk&#x27;
+  <a class="aotd-title" href="https://blog.cloudflare.com/ai-platform/" target="_blank" rel="noopener">
+    Cloudflare&#x27;s AI Platform: an inference layer designed for agents
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">62 points</span>
+    <span class="aotd-badge">94 points</span>
   </div>
-  <p class="aotd-summary">Read this Hacker News article from afr.com.</p>
+  <p class="aotd-summary">We&#x27;re building AI Gateway into a unified inference layer for AI, letting developers call models from 14+ providers. New features include Workers AI binding integration and an expanded catalog with multimodal models.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20-%20%22Atlassian%20defends%20firing%20engineer%20for%20suggesting%20CEO%20is%20%27rich%20jerk%27%22%3A%20Read%20this%20Hacker%20News%20article%20from%20afr.com.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-crypto-analytics"
+       href="https://wa.me/?text=Today%27s%20read%20-%20%22Cloudflare%27s%20AI%20Platform%3A%20an%20inference%20layer%20designed%20for%20agents%22%3A%20We%27re%20building%20AI%20Gateway%20into%20a%20unified%20inference%20layer%20for%20AI%2C%20letting%20developers%20call%20models%20from%2014%2B%20providers.%20New%20features%20include%20Workers%20AI%20binding%20integration%20and%20an%20expanded%20catalog%20with%20multimodal%20models.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-crypto-analytics"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-crypto-analytics&summary=Today%27s%20read%20-%20%22Atlassian%20defends%20firing%20engineer%20for%20suggesting%20CEO%20is%20%27rich%20jerk%27%22%3A%20Read%20this%20Hacker%20News%20article%20from%20afr.com."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-crypto-analytics&summary=Today%27s%20read%20-%20%22Cloudflare%27s%20AI%20Platform%3A%20an%20inference%20layer%20designed%20for%20agents%22%3A%20We%27re%20building%20AI%20Gateway%20into%20a%20unified%20inference%20layer%20for%20AI%2C%20letting%20developers%20call%20models%20from%2014%2B%20providers.%20New%20features%20include%20Workers%20AI%20binding%20integration%20and%20an%20expanded%20catalog%20with%20multimodal%20models."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Atlassian%20defends%20firing%20engineer%20for%20suggesting%20CEO%20is%20%27rich%20jerk%27%22%3A%20Read%20this%20Hacker%20News%20article%20from%20afr.com.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-crypto-analytics"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Cloudflare%27s%20AI%20Platform%3A%20an%20inference%20layer%20designed%20for%20agents%22%3A%20We%27re%20building%20AI%20Gateway%20into%20a%20unified%20inference%20layer%20for%20AI%2C%20letting%20developers%20call%20models%20from%2014%2B%20providers.%20New%20features%20include%20Workers%20AI%20binding%20integration%20and%20an%20expanded%20catalog%20with%20multimodal%20models.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-crypto-analytics"
        target="_blank" rel="noopener">X / Twitter</a>
   </div>
 </div>
@@ -282,24 +289,29 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-2-crypto-analytics">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://i.redd.it/6perrukp8ivg1.png" target="_blank" rel="noopener">
-    True Love
+  <a class="aotd-title" href="https://bitcoinmagazine.com/news/bitcoin-developers-propose-quantum-plan" target="_blank" rel="noopener">
+    Bitcoin Quantum Migration Plan That Would Freeze Legacy Coins - BIP 361 Discussion
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--reddit">Reddit</span>
-    <span class="aotd-badge">2,858 upvotes</span>
+    <span class="aotd-badge">103 upvotes</span>
   </div>
-  <p class="aotd-summary">Read this Reddit article from i.redd.it.</p>
+  <p class="aotd-summary">This was proposed for some time, getting more attention currently. I&#x27;m personally not a fan of freezing any coins, just trying to inform the masses. Hopefully u/statoshi will join us and explain the options. 
+
+
+https://github.com/bitcoin/bips/blob/master/bip-0361.mediawiki
+
+There&#x27;s an alternative pr</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20-%20%22True%20Love%22%3A%20Read%20this%20Reddit%20article%20from%20i.redd.it.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-crypto-analytics"
+       href="https://wa.me/?text=Today%27s%20read%20-%20%22Bitcoin%20Quantum%20Migration%20Plan%20That%20Would%20Freeze%20Legacy%20Coins%20-%20BIP%20361%20Discussion%22%3A%20This%20was%20proposed%20for%20some%20time%2C%20getting%20more%20attention%20currently.%20I%27m%20personally%20not%20a%20fan%20of%20freezing%20any%20coins%2C%20just%20trying%20to%20inform%20the%20masses.%20Hopefully%20u/statoshi%20will%20join%20us%20and%20explain%20the%20options.%20%0A%0A%0Ahttps%3A//github.com/bitcoin/bips/blob/master/bip-0361.mediawiki%0A%0AThere%27s%20an%20alternative%20pr%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-crypto-analytics"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-crypto-analytics&summary=Today%27s%20read%20-%20%22True%20Love%22%3A%20Read%20this%20Reddit%20article%20from%20i.redd.it."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-crypto-analytics&summary=Today%27s%20read%20-%20%22Bitcoin%20Quantum%20Migration%20Plan%20That%20Would%20Freeze%20Legacy%20Coins%20-%20BIP%20361%20Discussion%22%3A%20This%20was%20proposed%20for%20some%20time%2C%20getting%20more%20attention%20currently.%20I%27m%20personally%20not%20a%20fan%20of%20freezing%20any%20coins%2C%20just%20trying%20to%20inform%20the%20masses.%20Hopefully%20u/statoshi%20will%20join%20us%20and%20explain%20the%20options.%20%0A%0A%0Ahttps%3A//github.com/bitcoin/bips/blob/master/bip-0361.mediawiki%0A%0AThere%27s%20an%20alternative%20pr"
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22True%20Love%22%3A%20Read%20this%20Reddit%20article%20from%20i.redd.it.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-crypto-analytics"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20-%20%22Bitcoin%20Quantum%20Migration%20Plan%20That%20Would%20Freeze%20Legacy%20Coins%20-%20BIP%20361%20Discussion%22%3A%20This%20was%20proposed%20for%20some%20time%2C%20getting%20more%20attention%20currently.%20I%27m%20personally%20not%20a%20fan%20of%20freezing%20any%20coins%2C%20just%20trying%20to%20inform%20the%20masses.%20Hopefully%20u/statoshi%20will%20join%20us%20and%20explain%20the%20options.%20%0A%0A%0Ahttps%3A//github.com/bitcoin/bips/blob/master/bip-0361.mediawiki%0A%0AThere%27s%20an%20alternative%20pr&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-crypto-analytics"
        target="_blank" rel="noopener">X / Twitter</a>
   </div>
 </div>
@@ -332,10 +344,9 @@ Read the best articles of today, from around the globe, curated at one place for
 
 
 <div class="aotd-footer">
-  Auto-generated by Article-of-the-Day.bot on 16-Apr-2026 at 14:07 UTC &nbsp;·&nbsp;
-  <a href="archive.md">View archive →</a>
+  Auto-generated by Article-of-the-Day.bot on 16-Apr-2026 at 16:34 UTC &nbsp;·&nbsp;
 </div>
 
 <div class="aotd-attribution">
-  <p><i>Developed with love by <strong>Supratim Haldar</strong></i></p>
+  <p><i>Developed with <i class="fa fa-heart-o" aria-hidden="true"></i> by <strong>Supratim Haldar</strong></i></p>
 </div>
