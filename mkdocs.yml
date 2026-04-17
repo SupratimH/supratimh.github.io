@@ -133,6 +133,7 @@ plugins:
 extra_css:
   - css/custom.css
   - css/aotd.css
+  - https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto+Mono:wght@400;700&display=swap
 
 extra_head:
   - '<meta name="twitter:card" content="summary_large_image">'
