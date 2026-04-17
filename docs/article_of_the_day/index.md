@@ -23,7 +23,7 @@ Read the best articles of today, from around the globe, curated at one place for
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">1,003 points</span>
+    <span class="aotd-badge">1,042 points</span>
   </div>
   <p class="aotd-summary">Qwen Studio offers comprehensive functionality spanning chatbot, image and video understanding, image generation, document processing, web search integration, tool utilization, and artifacts.</p>
   <div class="aotd-share">
@@ -69,25 +69,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-3-ai-data">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://dev.to/jigjoy/why-agent-frameworks-end-up-as-sdk-wrappers-and-how-to-overcome-it-51j9" target="_blank" rel="noopener">
-    Why Agent Frameworks End Up As SDK Wrappers - And How To Overcome It
+  <a class="aotd-title" href="https://dev.to/prince_raj/part-1-what-we-built-a-tiny-ai-system-for-support-ticket-classification-4ihl" target="_blank" rel="noopener">
+    Part 1: What We Built - A Tiny AI System for Support Ticket Classification
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">4 min read</span>
-    <span class="aotd-badge">12 reactions</span>
+    <span class="aotd-badge">5 min read</span>
+    <span class="aotd-badge">6 reactions</span>
   </div>
-  <p class="aotd-summary">Today, most frameworks for building AI agents are missing something fundamental. If you look closely...</p>
+  <p class="aotd-summary">Why this series exists   If you are a backend engineer, you already know how to build...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data&summary=Today%27s%20read%20@%20%22Why%20Agent%20Frameworks%20End%20Up%20As%20SDK%20Wrappers%20-%20And%20How%20To%20Overcome%20It%22%3A%20Today%2C%20most%20frameworks%20for%20building%20AI%20agents%20are%20missing%20something%20fundamental.%20If%20you%20look%20closely..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data&summary=Today%27s%20read%20@%20%22Part%201%3A%20What%20We%20Built%20-%20A%20Tiny%20AI%20System%20for%20Support%20Ticket%20Classification%22%3A%20Why%20this%20series%20exists%20%20%20If%20you%20are%20a%20backend%20engineer%2C%20you%20already%20know%20how%20to%20build..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Why%20Agent%20Frameworks%20End%20Up%20As%20SDK%20Wrappers%20-%20And%20How%20To%20Overcome%20It%22%3A%20Today%2C%20most%20frameworks%20for%20building%20AI%20agents%20are%20missing%20something%20fundamental.%20If%20you%20look%20closely...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Part%201%3A%20What%20We%20Built%20-%20A%20Tiny%20AI%20System%20for%20Support%20Ticket%20Classification%22%3A%20Why%20this%20series%20exists%20%20%20If%20you%20are%20a%20backend%20engineer%2C%20you%20already%20know%20how%20to%20build...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Why%20Agent%20Frameworks%20End%20Up%20As%20SDK%20Wrappers%20-%20And%20How%20To%20Overcome%20It%22%3A%20Today%2C%20most%20frameworks%20for%20building%20AI%20agents%20are%20missing%20something%20fundamental.%20If%20you%20look%20closely...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Part%201%3A%20What%20We%20Built%20-%20A%20Tiny%20AI%20System%20for%20Support%20Ticket%20Classification%22%3A%20Why%20this%20series%20exists%20%20%20If%20you%20are%20a%20backend%20engineer%2C%20you%20already%20know%20how%20to%20build...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -97,25 +97,24 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-1-product">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://dev.to/javz/dont-let-ai-do-your-thinking-a-practical-guide-for-engineers-58e0" target="_blank" rel="noopener">
-    Don’t let AI do your thinking: a practical guide for engineers
+  <a class="aotd-title" href="https://twitter.com/_iainmartin/status/2044758204773486925" target="_blank" rel="noopener">
+    AI companies are buying the Slack data of failed startups
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">5 min read</span>
-    <span class="aotd-badge">37 reactions</span>
+    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
+    <span class="aotd-badge">24 points</span>
   </div>
-  <p class="aotd-summary">I designed a &quot;Thinking Guide&quot; for engineers building with AI. And looking for your feedback.  We’re...</p>
+  <p class="aotd-summary">AI labs are paying hundreds of thousands of dollars to buy email, Slack and Jira threads from dead startups as feedstock for ‘reinforcement learning gyms,’ which specialize in using defunct company data to build simulated work environments https://t.co/QuCk36wAPY</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-product&summary=Today%27s%20read%20@%20%22Don%E2%80%99t%20let%20AI%20do%20your%20thinking%3A%20a%20practical%20guide%20for%20engineers%22%3A%20I%20designed%20a%20%22Thinking%20Guide%22%20for%20engineers%20building%20with%20AI.%20And%20looking%20for%20your%20feedback.%20%20We%E2%80%99re..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-product&summary=Today%27s%20read%20@%20%22AI%20companies%20are%20buying%20the%20Slack%20data%20of%20failed%20startups%22%3A%20AI%20labs%20are%20paying%20hundreds%20of%20thousands%20of%20dollars%20to%20buy%20email%2C%20Slack%20and%20Jira%20threads%20from%20dead%20startups%20as%20feedstock%20for%20%E2%80%98reinforcement%20learning%20gyms%2C%E2%80%99%20which%20specialize%20in%20using%20defunct%20company%20data%20to%20build%20simulated%20work%20environments%20https%3A//t.co/QuCk36wAPY"
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Don%E2%80%99t%20let%20AI%20do%20your%20thinking%3A%20a%20practical%20guide%20for%20engineers%22%3A%20I%20designed%20a%20%22Thinking%20Guide%22%20for%20engineers%20building%20with%20AI.%20And%20looking%20for%20your%20feedback.%20%20We%E2%80%99re...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-product"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22AI%20companies%20are%20buying%20the%20Slack%20data%20of%20failed%20startups%22%3A%20AI%20labs%20are%20paying%20hundreds%20of%20thousands%20of%20dollars%20to%20buy%20email%2C%20Slack%20and%20Jira%20threads%20from%20dead%20startups%20as%20feedstock%20for%20%E2%80%98reinforcement%20learning%20gyms%2C%E2%80%99%20which%20specialize%20in%20using%20defunct%20company%20data%20to%20build%20simulated%20work%20environments%20https%3A//t.co/QuCk36wAPY&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-product"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Don%E2%80%99t%20let%20AI%20do%20your%20thinking%3A%20a%20practical%20guide%20for%20engineers%22%3A%20I%20designed%20a%20%22Thinking%20Guide%22%20for%20engineers%20building%20with%20AI.%20And%20looking%20for%20your%20feedback.%20%20We%E2%80%99re...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-product"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22AI%20companies%20are%20buying%20the%20Slack%20data%20of%20failed%20startups%22%3A%20AI%20labs%20are%20paying%20hundreds%20of%20thousands%20of%20dollars%20to%20buy%20email%2C%20Slack%20and%20Jira%20threads%20from%20dead%20startups%20as%20feedstock%20for%20%E2%80%98reinforcement%20learning%20gyms%2C%E2%80%99%20which%20specialize%20in%20using%20defunct%20company%20data%20to%20build%20simulated%20work%20environments%20https%3A//t.co/QuCk36wAPY%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-product"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -123,25 +122,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-2-product">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://dev.to/markosmilja/beyond-marker-clustering-1jmj" target="_blank" rel="noopener">
-    Beyond Marker Clustering
+  <a class="aotd-title" href="https://dev.to/javz/dont-let-ai-do-your-thinking-a-practical-guide-for-engineers-58e0" target="_blank" rel="noopener">
+    Don’t let AI do your thinking: a practical guide for engineers
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">3 min read</span>
-    <span class="aotd-badge">40 reactions</span>
+    <span class="aotd-badge">5 min read</span>
+    <span class="aotd-badge">38 reactions</span>
   </div>
-  <p class="aotd-summary">Learn about a better way to manage thousands of map markers by using priority-based ranking instead of traditional clustering.</p>
+  <p class="aotd-summary">I designed a &quot;Thinking Guide&quot; for engineers building with AI. And looking for your feedback.  We’re...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-product&summary=Today%27s%20read%20@%20%22Beyond%20Marker%20Clustering%22%3A%20Learn%20about%20a%20better%20way%20to%20manage%20thousands%20of%20map%20markers%20by%20using%20priority-based%20ranking%20instead%20of%20traditional%20clustering."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-product&summary=Today%27s%20read%20@%20%22Don%E2%80%99t%20let%20AI%20do%20your%20thinking%3A%20a%20practical%20guide%20for%20engineers%22%3A%20I%20designed%20a%20%22Thinking%20Guide%22%20for%20engineers%20building%20with%20AI.%20And%20looking%20for%20your%20feedback.%20%20We%E2%80%99re..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Beyond%20Marker%20Clustering%22%3A%20Learn%20about%20a%20better%20way%20to%20manage%20thousands%20of%20map%20markers%20by%20using%20priority-based%20ranking%20instead%20of%20traditional%20clustering.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-product"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Don%E2%80%99t%20let%20AI%20do%20your%20thinking%3A%20a%20practical%20guide%20for%20engineers%22%3A%20I%20designed%20a%20%22Thinking%20Guide%22%20for%20engineers%20building%20with%20AI.%20And%20looking%20for%20your%20feedback.%20%20We%E2%80%99re...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-product"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Beyond%20Marker%20Clustering%22%3A%20Learn%20about%20a%20better%20way%20to%20manage%20thousands%20of%20map%20markers%20by%20using%20priority-based%20ranking%20instead%20of%20traditional%20clustering.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-product"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Don%E2%80%99t%20let%20AI%20do%20your%20thinking%3A%20a%20practical%20guide%20for%20engineers%22%3A%20I%20designed%20a%20%22Thinking%20Guide%22%20for%20engineers%20building%20with%20AI.%20And%20looking%20for%20your%20feedback.%20%20We%E2%80%99re...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-product"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -149,25 +148,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-3-product">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://dev.to/maxmoffa/android-desktop-mode-features-device-support-and-the-oled-screen-burn-in-problem-5a40" target="_blank" rel="noopener">
-    Android desktop mode: features, device support, and the OLED screen burn-in problem
+  <a class="aotd-title" href="https://dev.to/harsh2644/vibe-coding-is-making-us-worse-developers-39bd" target="_blank" rel="noopener">
+    I Coded Without AI for 30 Days. The Results Were Embarrassing — And Eye-Opening
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">7 min read</span>
-    <span class="aotd-badge">23 reactions</span>
+    <span class="aotd-badge">5 min read</span>
+    <span class="aotd-badge">30 reactions</span>
   </div>
-  <p class="aotd-summary">A true &quot;PC in your pocket&quot; closer to reality</p>
+  <p class="aotd-summary">How I Got There   It started with a number that scared me.  I was curious one week — how...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product&summary=Today%27s%20read%20@%20%22Android%20desktop%20mode%3A%20features%2C%20device%20support%2C%20and%20the%20OLED%20screen%20burn-in%20problem%22%3A%20A%20true%20%22PC%20in%20your%20pocket%22%20closer%20to%20reality"
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product&summary=Today%27s%20read%20@%20%22I%20Coded%20Without%20AI%20for%2030%20Days.%20The%20Results%20Were%20Embarrassing%20%E2%80%94%20And%20Eye-Opening%22%3A%20How%20I%20Got%20There%20%20%20It%20started%20with%20a%20number%20that%20scared%20me.%20%20I%20was%20curious%20one%20week%20%E2%80%94%20how..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Android%20desktop%20mode%3A%20features%2C%20device%20support%2C%20and%20the%20OLED%20screen%20burn-in%20problem%22%3A%20A%20true%20%22PC%20in%20your%20pocket%22%20closer%20to%20reality&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22I%20Coded%20Without%20AI%20for%2030%20Days.%20The%20Results%20Were%20Embarrassing%20%E2%80%94%20And%20Eye-Opening%22%3A%20How%20I%20Got%20There%20%20%20It%20started%20with%20a%20number%20that%20scared%20me.%20%20I%20was%20curious%20one%20week%20%E2%80%94%20how...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Android%20desktop%20mode%3A%20features%2C%20device%20support%2C%20and%20the%20OLED%20screen%20burn-in%20problem%22%3A%20A%20true%20%22PC%20in%20your%20pocket%22%20closer%20to%20reality%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22I%20Coded%20Without%20AI%20for%2030%20Days.%20The%20Results%20Were%20Embarrassing%20%E2%80%94%20And%20Eye-Opening%22%3A%20How%20I%20Got%20There%20%20%20It%20started%20with%20a%20number%20that%20scared%20me.%20%20I%20was%20curious%20one%20week%20%E2%80%94%20how...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -209,7 +208,7 @@ Read the best articles of today, from around the globe, curated at one place for
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
     <span class="aotd-badge">8 min read</span>
-    <span class="aotd-badge">21 reactions</span>
+    <span class="aotd-badge">22 reactions</span>
   </div>
   <p class="aotd-summary">Agents are all the rage these days.  Claude Code was one of the first, and perhaps still the most...</p>
   <div class="aotd-share">
@@ -229,32 +228,32 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-3-programming">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://www.zatanna.ai/kampala" target="_blank" rel="noopener">
-    Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs
+  <a class="aotd-title" href="https://dev.to/om_shree_0709/gh-skill-githubs-new-cli-command-turns-agent-skills-into-installable-packages-2p82" target="_blank" rel="noopener">
+    `gh skill`: GitHub&#x27;s New CLI Command Turns Agent Skills Into Installable Packages
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">1 min read</span>
-    <span class="aotd-badge">84 points</span>
+    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
+    <span class="aotd-badge">3 min read</span>
+    <span class="aotd-badge">31 reactions</span>
   </div>
-  <p class="aotd-summary">Zatanna maps human-only software workflows and exposes them as reliable APIs your AI agents and internal tools can call in production. No browser automation scripts to maintain.</p>
+  <p class="aotd-summary">I&#x27;ve been using SKILL.md files in my local Claude Code setup for months. Custom instructions for...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming&summary=Today%27s%20read%20@%20%22Launch%20HN%3A%20Kampala%20%28YC%20W26%29%20%E2%80%93%20Reverse-Engineer%20Apps%20into%20APIs%22%3A%20Zatanna%20maps%20human-only%20software%20workflows%20and%20exposes%20them%20as%20reliable%20APIs%20your%20AI%20agents%20and%20internal%20tools%20can%20call%20in%20production.%20No%20browser%20automation%20scripts%20to%20maintain."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming&summary=Today%27s%20read%20@%20%22%60gh%20skill%60%3A%20GitHub%27s%20New%20CLI%20Command%20Turns%20Agent%20Skills%20Into%20Installable%20Packages%22%3A%20I%27ve%20been%20using%20SKILL.md%20files%20in%20my%20local%20Claude%20Code%20setup%20for%20months.%20Custom%20instructions%20for..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Launch%20HN%3A%20Kampala%20%28YC%20W26%29%20%E2%80%93%20Reverse-Engineer%20Apps%20into%20APIs%22%3A%20Zatanna%20maps%20human-only%20software%20workflows%20and%20exposes%20them%20as%20reliable%20APIs%20your%20AI%20agents%20and%20internal%20tools%20can%20call%20in%20production.%20No%20browser%20automation%20scripts%20to%20maintain.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22%60gh%20skill%60%3A%20GitHub%27s%20New%20CLI%20Command%20Turns%20Agent%20Skills%20Into%20Installable%20Packages%22%3A%20I%27ve%20been%20using%20SKILL.md%20files%20in%20my%20local%20Claude%20Code%20setup%20for%20months.%20Custom%20instructions%20for...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Launch%20HN%3A%20Kampala%20%28YC%20W26%29%20%E2%80%93%20Reverse-Engineer%20Apps%20into%20APIs%22%3A%20Zatanna%20maps%20human-only%20software%20workflows%20and%20exposes%20them%20as%20reliable%20APIs%20your%20AI%20agents%20and%20internal%20tools%20can%20call%20in%20production.%20No%20browser%20automation%20scripts%20to%20maintain.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22%60gh%20skill%60%3A%20GitHub%27s%20New%20CLI%20Command%20Turns%20Agent%20Skills%20Into%20Installable%20Packages%22%3A%20I%27ve%20been%20using%20SKILL.md%20files%20in%20my%20local%20Claude%20Code%20setup%20for%20months.%20Custom%20instructions%20for...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
 
 
 <div class="aotd-footer">
-  Auto-generated by Article-of-the-Day.bot on 17-Apr-2026 at 05:48 UTC &nbsp;·&nbsp;
+  Auto-generated by Article-of-the-Day.bot on 17-Apr-2026 at 07:50 UTC &nbsp;·&nbsp;
 </div>
 
 <div class="aotd-attribution">
