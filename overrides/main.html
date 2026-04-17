@@ -6,6 +6,11 @@ Adds profile section to top of navigation while preserving Material's layout.
 Uses proper sidebar wrapper for correct mobile drawer behavior.
 #}
 
+{% block extrahead %}
+  {{ super() }}
+  {% include "partials/extrahead.html" %}
+{% endblock %}
+
 {% block site_nav %}
 
 {# --- Primary sidebar (left navigation + profile) --- #}
