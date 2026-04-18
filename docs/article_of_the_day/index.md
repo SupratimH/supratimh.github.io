@@ -1,6 +1,6 @@
 ---
 title: "Article of the Day | 18 Apr 2026"
-description: "Today's top pick: Best AI Gateway Tools in 2026 for Scalable LLM Applications. Plus 8 more curated long-reads across AI & Data · Product · Programming."
+description: "Today's top pick: Understanding Transformers Part 9: Stacking Self-Attention Layers. Plus 8 more curated long-reads across AI & Data · Product · Programming."
 date: 2026-04-18
 ---
 
@@ -18,25 +18,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-1-ai-data">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://dev.to/lightningdev123/best-ai-gateway-tools-in-2026-for-scalable-llm-applications-4dg" target="_blank" rel="noopener">
-    Best AI Gateway Tools in 2026 for Scalable LLM Applications
+  <a class="aotd-title" href="https://dev.to/rijultp/understanding-transformers-part-9-stacking-self-attention-layers-3gg3" target="_blank" rel="noopener">
+    Understanding Transformers Part 9: Stacking Self-Attention Layers
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">5 min read</span>
-    <span class="aotd-badge">5 reactions</span>
+    <span class="aotd-badge">2 min read</span>
+    <span class="aotd-badge">10 reactions</span>
   </div>
-  <p class="aotd-summary">When you begin building with large language models, calling providers like OpenAI, Anthropic, or...</p>
+  <p class="aotd-summary">In the previous article, we explored how the weights are shared in self-attention.  Now we will see...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-data&summary=Today%27s%20read%20@%20%22Best%20AI%20Gateway%20Tools%20in%202026%20for%20Scalable%20LLM%20Applications%22%3A%20When%20you%20begin%20building%20with%20large%20language%20models%2C%20calling%20providers%20like%20OpenAI%2C%20Anthropic%2C%20or..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-data&summary=Today%27s%20read%20@%20%22Understanding%20Transformers%20Part%209%3A%20Stacking%20Self-Attention%20Layers%22%3A%20In%20the%20previous%20article%2C%20we%20explored%20how%20the%20weights%20are%20shared%20in%20self-attention.%20%20Now%20we%20will%20see..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Best%20AI%20Gateway%20Tools%20in%202026%20for%20Scalable%20LLM%20Applications%22%3A%20When%20you%20begin%20building%20with%20large%20language%20models%2C%20calling%20providers%20like%20OpenAI%2C%20Anthropic%2C%20or...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-data"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Understanding%20Transformers%20Part%209%3A%20Stacking%20Self-Attention%20Layers%22%3A%20In%20the%20previous%20article%2C%20we%20explored%20how%20the%20weights%20are%20shared%20in%20self-attention.%20%20Now%20we%20will%20see...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-data"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Best%20AI%20Gateway%20Tools%20in%202026%20for%20Scalable%20LLM%20Applications%22%3A%20When%20you%20begin%20building%20with%20large%20language%20models%2C%20calling%20providers%20like%20OpenAI%2C%20Anthropic%2C%20or...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-data"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Understanding%20Transformers%20Part%209%3A%20Stacking%20Self-Attention%20Layers%22%3A%20In%20the%20previous%20article%2C%20we%20explored%20how%20the%20weights%20are%20shared%20in%20self-attention.%20%20Now%20we%20will%20see...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-ai-data"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -44,32 +44,6 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-2-ai-data">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://dev.to/lovanaut55/running-llm-classification-after-the-response-nextjs-after-openrouter-at-00002-per-call-2efh" target="_blank" rel="noopener">
-    Running LLM Classification After the Response: Next.js after() + OpenRouter at $0.0002 per Call
-  </a>
-  <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">8 min read</span>
-    <span class="aotd-badge">5 reactions</span>
-  </div>
-  <p class="aotd-summary">Platform: DEV.to (also cross-posted to Hashnode with canonical_url set to the DEV URL) Language:...</p>
-  <div class="aotd-share">
-    <span class="aotd-share-label">Share 🔗</span>
-    <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-data&summary=Today%27s%20read%20@%20%22Running%20LLM%20Classification%20After%20the%20Response%3A%20Next.js%20after%28%29%20%2B%20OpenRouter%20at%20%240.0002%20per%20Call%22%3A%20Platform%3A%20DEV.to%20%28also%20cross-posted%20to%20Hashnode%20with%20canonical_url%20set%20to%20the%20DEV%20URL%29%20Language%3A..."
-       target="_blank" rel="noopener">LinkedIn</a>
-    <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Running%20LLM%20Classification%20After%20the%20Response%3A%20Next.js%20after%28%29%20%2B%20OpenRouter%20at%20%240.0002%20per%20Call%22%3A%20Platform%3A%20DEV.to%20%28also%20cross-posted%20to%20Hashnode%20with%20canonical_url%20set%20to%20the%20DEV%20URL%29%20Language%3A...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-data"
-       target="_blank" rel="noopener">X / Twitter</a>
-    <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Running%20LLM%20Classification%20After%20the%20Response%3A%20Next.js%20after%28%29%20%2B%20OpenRouter%20at%20%240.0002%20per%20Call%22%3A%20Platform%3A%20DEV.to%20%28also%20cross-posted%20to%20Hashnode%20with%20canonical_url%20set%20to%20the%20DEV%20URL%29%20Language%3A...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-data"
-       target="_blank" rel="noopener">WhatsApp</a>
-  </div>
-</div>
-
-
-<div class="aotd-card" id="pick-3-ai-data">
-  <div class="aotd-rank">Pick #3</div>
   <a class="aotd-title" href="https://dev.to/aralroca/i-was-paying-anthropic-to-read-css-class-names-o2c" target="_blank" rel="noopener">
     I Was Paying Anthropic to Read CSS Class Names
   </a>
@@ -82,13 +56,39 @@ Read the best articles of today, from around the globe, curated at one place for
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data&summary=Today%27s%20read%20@%20%22I%20Was%20Paying%20Anthropic%20to%20Read%20CSS%20Class%20Names%22%3A%20I%20burned%20through%20176%20million%20Anthropic%20tokens%20last%20Wednesday.%20You%20can%20see%20the%20spike%20in%20the%20screenshot..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-data&summary=Today%27s%20read%20@%20%22I%20Was%20Paying%20Anthropic%20to%20Read%20CSS%20Class%20Names%22%3A%20I%20burned%20through%20176%20million%20Anthropic%20tokens%20last%20Wednesday.%20You%20can%20see%20the%20spike%20in%20the%20screenshot..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22I%20Was%20Paying%20Anthropic%20to%20Read%20CSS%20Class%20Names%22%3A%20I%20burned%20through%20176%20million%20Anthropic%20tokens%20last%20Wednesday.%20You%20can%20see%20the%20spike%20in%20the%20screenshot...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22I%20Was%20Paying%20Anthropic%20to%20Read%20CSS%20Class%20Names%22%3A%20I%20burned%20through%20176%20million%20Anthropic%20tokens%20last%20Wednesday.%20You%20can%20see%20the%20spike%20in%20the%20screenshot...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-data"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22I%20Was%20Paying%20Anthropic%20to%20Read%20CSS%20Class%20Names%22%3A%20I%20burned%20through%20176%20million%20Anthropic%20tokens%20last%20Wednesday.%20You%20can%20see%20the%20spike%20in%20the%20screenshot...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22I%20Was%20Paying%20Anthropic%20to%20Read%20CSS%20Class%20Names%22%3A%20I%20burned%20through%20176%20million%20Anthropic%20tokens%20last%20Wednesday.%20You%20can%20see%20the%20spike%20in%20the%20screenshot...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-ai-data"
+       target="_blank" rel="noopener">WhatsApp</a>
+  </div>
+</div>
+
+
+<div class="aotd-card" id="pick-3-ai-data">
+  <div class="aotd-rank">Pick #3</div>
+  <a class="aotd-title" href="https://dev.to/caisd/the-largest-sql-injection-breach-ever-how-77-million-psn-accounts-were-exposedpublished-3pk9" target="_blank" rel="noopener">
+    [EP.05] Broken Access Control Full Server Compromise — JWT Kid Injection
+  </a>
+  <div class="aotd-meta">
+    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
+    <span class="aotd-badge">3 min read</span>
+    <span class="aotd-badge">6 reactions</span>
+  </div>
+  <p class="aotd-summary">OWASP #1 most critical vulnerability. Watch how JWT Key ID (kid) SQL Injection + Path Traversal + Privilege Escalation chain together for complete server compromise. With real code examples and attack demo.</p>
+  <div class="aotd-share">
+    <span class="aotd-share-label">Share 🔗</span>
+    <a class="aotd-share-btn aotd-share-btn--li"
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data&summary=Today%27s%20read%20@%20%22%5BEP.05%5D%20Broken%20Access%20Control%20Full%20Server%20Compromise%20%E2%80%94%20JWT%20Kid%20Injection%22%3A%20OWASP%20%231%20most%20critical%20vulnerability.%20Watch%20how%20JWT%20Key%20ID%20%28kid%29%20SQL%20Injection%20%2B%20Path%20Traversal%20%2B%20Privilege%20Escalation%20chain%20together%20for%20complete%20server%20compromise.%20With%20real%20code%20examples%20and%20attack%20demo."
+       target="_blank" rel="noopener">LinkedIn</a>
+    <a class="aotd-share-btn aotd-share-btn--x"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22%5BEP.05%5D%20Broken%20Access%20Control%20Full%20Server%20Compromise%20%E2%80%94%20JWT%20Kid%20Injection%22%3A%20OWASP%20%231%20most%20critical%20vulnerability.%20Watch%20how%20JWT%20Key%20ID%20%28kid%29%20SQL%20Injection%20%2B%20Path%20Traversal%20%2B%20Privilege%20Escalation%20chain%20together%20for%20complete%20server%20compromise.%20With%20real%20code%20examples%20and%20attack%20demo.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data"
+       target="_blank" rel="noopener">X / Twitter</a>
+    <a class="aotd-share-btn aotd-share-btn--wa"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22%5BEP.05%5D%20Broken%20Access%20Control%20Full%20Server%20Compromise%20%E2%80%94%20JWT%20Kid%20Injection%22%3A%20OWASP%20%231%20most%20critical%20vulnerability.%20Watch%20how%20JWT%20Key%20ID%20%28kid%29%20SQL%20Injection%20%2B%20Path%20Traversal%20%2B%20Privilege%20Escalation%20chain%20together%20for%20complete%20server%20compromise.%20With%20real%20code%20examples%20and%20attack%20demo.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-ai-data"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -98,25 +98,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-1-product">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k" target="_blank" rel="noopener">
-    How We Built Our Own DNS Server
+  <a class="aotd-title" href="https://dev.to/adamthedeveloper/the-developer-who-reviews-everything-and-ships-nothing-1e28" target="_blank" rel="noopener">
+    The Developer Who Reviews Everything and Ships Nothing
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">6 min read</span>
-    <span class="aotd-badge">25 reactions</span>
+    <span class="aotd-badge">5 min read</span>
+    <span class="aotd-badge">3 reactions</span>
   </div>
-  <p class="aotd-summary">We wrote a production DNS server in ~1000 lines of Go, migrated thousands of records off Hetzner DNS,...</p>
+  <p class="aotd-summary">You&#x27;ve seen this person. Maybe you&#x27;ve worked with them for years.  They leave 40 comments on your PR....</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-product&summary=Today%27s%20read%20@%20%22How%20We%20Built%20Our%20Own%20DNS%20Server%22%3A%20We%20wrote%20a%20production%20DNS%20server%20in%20~1000%20lines%20of%20Go%2C%20migrated%20thousands%20of%20records%20off%20Hetzner%20DNS%2C..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-product&summary=Today%27s%20read%20@%20%22The%20Developer%20Who%20Reviews%20Everything%20and%20Ships%20Nothing%22%3A%20You%27ve%20seen%20this%20person.%20Maybe%20you%27ve%20worked%20with%20them%20for%20years.%20%20They%20leave%2040%20comments%20on%20your%20PR...."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22How%20We%20Built%20Our%20Own%20DNS%20Server%22%3A%20We%20wrote%20a%20production%20DNS%20server%20in%20~1000%20lines%20of%20Go%2C%20migrated%20thousands%20of%20records%20off%20Hetzner%20DNS%2C...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-product"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22The%20Developer%20Who%20Reviews%20Everything%20and%20Ships%20Nothing%22%3A%20You%27ve%20seen%20this%20person.%20Maybe%20you%27ve%20worked%20with%20them%20for%20years.%20%20They%20leave%2040%20comments%20on%20your%20PR....&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-product"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22How%20We%20Built%20Our%20Own%20DNS%20Server%22%3A%20We%20wrote%20a%20production%20DNS%20server%20in%20~1000%20lines%20of%20Go%2C%20migrated%20thousands%20of%20records%20off%20Hetzner%20DNS%2C...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-product"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22The%20Developer%20Who%20Reviews%20Everything%20and%20Ships%20Nothing%22%3A%20You%27ve%20seen%20this%20person.%20Maybe%20you%27ve%20worked%20with%20them%20for%20years.%20%20They%20leave%2040%20comments%20on%20your%20PR....%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-product"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -124,25 +124,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-2-product">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://www.anthropic.com/news/claude-design-anthropic-labs" target="_blank" rel="noopener">
-    Claude Design
+  <a class="aotd-title" href="https://dev.to/vientapps/i-replaced-usage-and-context-in-claude-code-with-a-single-statusline-7h9" target="_blank" rel="noopener">
+    I Replaced /usage and /context in Claude Code With a Single Statusline
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">3 min read</span>
-    <span class="aotd-badge">893 points</span>
+    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
+    <span class="aotd-badge">8 min read</span>
+    <span class="aotd-badge">3 reactions</span>
   </div>
-  <p class="aotd-summary">Read this Hacker News article from anthropic.com.</p>
+  <p class="aotd-summary">You already run /usage and /context all day. This bash statusline puts both, plus your 5h reset time...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-product&summary=Today%27s%20read%20@%20%22Claude%20Design%22%3A%20Read%20this%20Hacker%20News%20article%20from%20anthropic.com."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-product&summary=Today%27s%20read%20@%20%22I%20Replaced%20/usage%20and%20/context%20in%20Claude%20Code%20With%20a%20Single%20Statusline%22%3A%20You%20already%20run%20/usage%20and%20/context%20all%20day.%20This%20bash%20statusline%20puts%20both%2C%20plus%20your%205h%20reset%20time..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Claude%20Design%22%3A%20Read%20this%20Hacker%20News%20article%20from%20anthropic.com.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-product"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22I%20Replaced%20/usage%20and%20/context%20in%20Claude%20Code%20With%20a%20Single%20Statusline%22%3A%20You%20already%20run%20/usage%20and%20/context%20all%20day.%20This%20bash%20statusline%20puts%20both%2C%20plus%20your%205h%20reset%20time...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-product"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Claude%20Design%22%3A%20Read%20this%20Hacker%20News%20article%20from%20anthropic.com.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-product"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22I%20Replaced%20/usage%20and%20/context%20in%20Claude%20Code%20With%20a%20Single%20Statusline%22%3A%20You%20already%20run%20/usage%20and%20/context%20all%20day.%20This%20bash%20statusline%20puts%20both%2C%20plus%20your%205h%20reset%20time...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-product"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -150,25 +150,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-3-product">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://dev.to/buddingdeveloper/stop-calling-react-a-framework-its-embarrassing-4n62" target="_blank" rel="noopener">
-    Stop Calling React a Framework. It&#x27;s Embarrassing.
+  <a class="aotd-title" href="https://dev.to/chadders13/dyslexia-ai-the-ultimate-power-couple-1dbg" target="_blank" rel="noopener">
+    Dyslexia + AI: The Ultimate power couple
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">5 min read</span>
-    <span class="aotd-badge">9 reactions</span>
+    <span class="aotd-badge">2 min read</span>
+    <span class="aotd-badge">4 reactions</span>
   </div>
-  <p class="aotd-summary">My trainer asked  one simple question yesterday that stopped me mid-note.  &quot;Is that React is Library...</p>
+  <p class="aotd-summary">Have you ever hesitated to ask a question in a PR review or a daily standup because you knew it...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product&summary=Today%27s%20read%20@%20%22Stop%20Calling%20React%20a%20Framework.%20It%27s%20Embarrassing.%22%3A%20My%20trainer%20asked%20%20one%20simple%20question%20yesterday%20that%20stopped%20me%20mid-note.%20%20%22Is%20that%20React%20is%20Library..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product&summary=Today%27s%20read%20@%20%22Dyslexia%20%2B%20AI%3A%20The%20Ultimate%20power%20couple%22%3A%20Have%20you%20ever%20hesitated%20to%20ask%20a%20question%20in%20a%20PR%20review%20or%20a%20daily%20standup%20because%20you%20knew%20it..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Stop%20Calling%20React%20a%20Framework.%20It%27s%20Embarrassing.%22%3A%20My%20trainer%20asked%20%20one%20simple%20question%20yesterday%20that%20stopped%20me%20mid-note.%20%20%22Is%20that%20React%20is%20Library...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Dyslexia%20%2B%20AI%3A%20The%20Ultimate%20power%20couple%22%3A%20Have%20you%20ever%20hesitated%20to%20ask%20a%20question%20in%20a%20PR%20review%20or%20a%20daily%20standup%20because%20you%20knew%20it...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Stop%20Calling%20React%20a%20Framework.%20It%27s%20Embarrassing.%22%3A%20My%20trainer%20asked%20%20one%20simple%20question%20yesterday%20that%20stopped%20me%20mid-note.%20%20%22Is%20that%20React%20is%20Library...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Dyslexia%20%2B%20AI%3A%20The%20Ultimate%20power%20couple%22%3A%20Have%20you%20ever%20hesitated%20to%20ask%20a%20question%20in%20a%20PR%20review%20or%20a%20daily%20standup%20because%20you%20knew%20it...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -178,25 +178,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-1-programming">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://www.zatanna.ai/kampala" target="_blank" rel="noopener">
-    Launch HN: Kampala (YC W26) – Reverse-Engineer Apps into APIs
+  <a class="aotd-title" href="https://dev.to/mattiabandini1/selinux-avc-denied-stop-guessing-start-fixing-2oe9" target="_blank" rel="noopener">
+    SELinux AVC denied: stop guessing, start fixing
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">1 min read</span>
-    <span class="aotd-badge">94 points</span>
+    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
+    <span class="aotd-badge">4 min read</span>
+    <span class="aotd-badge">1 reactions</span>
   </div>
-  <p class="aotd-summary">Zatanna maps human-only software workflows and exposes them as reliable APIs your AI agents and internal tools can call in production. No browser automation scripts to maintain.</p>
+  <p class="aotd-summary">It happens more often than not. A web server gets installed, maybe a database, or perhaps a fresh...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-programming&summary=Today%27s%20read%20@%20%22Launch%20HN%3A%20Kampala%20%28YC%20W26%29%20%E2%80%93%20Reverse-Engineer%20Apps%20into%20APIs%22%3A%20Zatanna%20maps%20human-only%20software%20workflows%20and%20exposes%20them%20as%20reliable%20APIs%20your%20AI%20agents%20and%20internal%20tools%20can%20call%20in%20production.%20No%20browser%20automation%20scripts%20to%20maintain."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-programming&summary=Today%27s%20read%20@%20%22SELinux%20AVC%20denied%3A%20stop%20guessing%2C%20start%20fixing%22%3A%20It%20happens%20more%20often%20than%20not.%20A%20web%20server%20gets%20installed%2C%20maybe%20a%20database%2C%20or%20perhaps%20a%20fresh..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Launch%20HN%3A%20Kampala%20%28YC%20W26%29%20%E2%80%93%20Reverse-Engineer%20Apps%20into%20APIs%22%3A%20Zatanna%20maps%20human-only%20software%20workflows%20and%20exposes%20them%20as%20reliable%20APIs%20your%20AI%20agents%20and%20internal%20tools%20can%20call%20in%20production.%20No%20browser%20automation%20scripts%20to%20maintain.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-programming"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22SELinux%20AVC%20denied%3A%20stop%20guessing%2C%20start%20fixing%22%3A%20It%20happens%20more%20often%20than%20not.%20A%20web%20server%20gets%20installed%2C%20maybe%20a%20database%2C%20or%20perhaps%20a%20fresh...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-1-programming"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Launch%20HN%3A%20Kampala%20%28YC%20W26%29%20%E2%80%93%20Reverse-Engineer%20Apps%20into%20APIs%22%3A%20Zatanna%20maps%20human-only%20software%20workflows%20and%20exposes%20them%20as%20reliable%20APIs%20your%20AI%20agents%20and%20internal%20tools%20can%20call%20in%20production.%20No%20browser%20automation%20scripts%20to%20maintain.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-programming"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22SELinux%20AVC%20denied%3A%20stop%20guessing%2C%20start%20fixing%22%3A%20It%20happens%20more%20often%20than%20not.%20A%20web%20server%20gets%20installed%2C%20maybe%20a%20database%2C%20or%20perhaps%20a%20fresh...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-1-programming"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -204,25 +204,25 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-2-programming">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://dev.to/100daysofsolana/100-daily-challenges-to-learn-web3-and-solana-3g2i" target="_blank" rel="noopener">
-    100 Daily Challenges to Learn Web3 and Solana
+  <a class="aotd-title" href="https://victorpoughon.github.io/interval-calculator/" target="_blank" rel="noopener">
+    Show HN: I made a calculator that works over disjoint sets of intervals
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
+    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
     <span class="aotd-badge">2 min read</span>
-    <span class="aotd-badge">61 reactions</span>
+    <span class="aotd-badge">207 points</span>
   </div>
-  <p class="aotd-summary">Learn Web3 by building with Solana. A 100-day challenge for developers covering transactions, accounts, programs, and real applications.</p>
+  <p class="aotd-summary">Read this Hacker News article from victorpoughon.github.io.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-programming&summary=Today%27s%20read%20@%20%22100%20Daily%20Challenges%20to%20Learn%20Web3%20and%20Solana%22%3A%20Learn%20Web3%20by%20building%20with%20Solana.%20A%20100-day%20challenge%20for%20developers%20covering%20transactions%2C%20accounts%2C%20programs%2C%20and%20real%20applications."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-programming&summary=Today%27s%20read%20@%20%22Show%20HN%3A%20I%20made%20a%20calculator%20that%20works%20over%20disjoint%20sets%20of%20intervals%22%3A%20Read%20this%20Hacker%20News%20article%20from%20victorpoughon.github.io."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22100%20Daily%20Challenges%20to%20Learn%20Web3%20and%20Solana%22%3A%20Learn%20Web3%20by%20building%20with%20Solana.%20A%20100-day%20challenge%20for%20developers%20covering%20transactions%2C%20accounts%2C%20programs%2C%20and%20real%20applications.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-programming"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Show%20HN%3A%20I%20made%20a%20calculator%20that%20works%20over%20disjoint%20sets%20of%20intervals%22%3A%20Read%20this%20Hacker%20News%20article%20from%20victorpoughon.github.io.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-2-programming"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22100%20Daily%20Challenges%20to%20Learn%20Web3%20and%20Solana%22%3A%20Learn%20Web3%20by%20building%20with%20Solana.%20A%20100-day%20challenge%20for%20developers%20covering%20transactions%2C%20accounts%2C%20programs%2C%20and%20real%20applications.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-programming"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Show%20HN%3A%20I%20made%20a%20calculator%20that%20works%20over%20disjoint%20sets%20of%20intervals%22%3A%20Read%20this%20Hacker%20News%20article%20from%20victorpoughon.github.io.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-2-programming"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -230,32 +230,31 @@ Read the best articles of today, from around the globe, curated at one place for
 
 <div class="aotd-card" id="pick-3-programming">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://dev.to/codewithshahan/mastering-git-github-12-most-useful-git-commands-3l70" target="_blank" rel="noopener">
-    Mastering Git &amp; Github (12 most useful Git commands)
+  <a class="aotd-title" href="https://dev.to/harrison_guo_e01b4c8793a0/scale-up-vs-scale-out-why-every-language-wins-somewhere-3k6l" target="_blank" rel="noopener">
+    Scale-Up vs Scale-Out: Why Every Language Wins Somewhere
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">15 min read</span>
-    <span class="aotd-badge">4 reactions</span>
+    <span class="aotd-badge">7 min read</span>
   </div>
-  <p class="aotd-summary">🌱 Introduction   Most devs say they know Git.  I’ve seen the opposite.  They know just...</p>
+  <p class="aotd-summary">The &#x27;which language is fastest&#x27; benchmark wars miss the real question. Rust, Go, Java, and Python aren&#x27;t competing on the same axis. They&#x27;re tuned for different scaling strategies — and picking the wrong one costs you years.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming&summary=Today%27s%20read%20@%20%22Mastering%20Git%20%26%20Github%20%2812%20most%20useful%20Git%20commands%29%22%3A%20%F0%9F%8C%B1%20Introduction%20%20%20Most%20devs%20say%20they%20know%20Git.%20%20I%E2%80%99ve%20seen%20the%20opposite.%20%20They%20know%20just..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming&summary=Today%27s%20read%20@%20%22Scale-Up%20vs%20Scale-Out%3A%20Why%20Every%20Language%20Wins%20Somewhere%22%3A%20The%20%27which%20language%20is%20fastest%27%20benchmark%20wars%20miss%20the%20real%20question.%20Rust%2C%20Go%2C%20Java%2C%20and%20Python%20aren%27t%20competing%20on%20the%20same%20axis.%20They%27re%20tuned%20for%20different%20scaling%20strategies%20%E2%80%94%20and%20picking%20the%20wrong%20one%20costs%20you%20years."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Mastering%20Git%20%26%20Github%20%2812%20most%20useful%20Git%20commands%29%22%3A%20%F0%9F%8C%B1%20Introduction%20%20%20Most%20devs%20say%20they%20know%20Git.%20%20I%E2%80%99ve%20seen%20the%20opposite.%20%20They%20know%20just...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Scale-Up%20vs%20Scale-Out%3A%20Why%20Every%20Language%20Wins%20Somewhere%22%3A%20The%20%27which%20language%20is%20fastest%27%20benchmark%20wars%20miss%20the%20real%20question.%20Rust%2C%20Go%2C%20Java%2C%20and%20Python%20aren%27t%20competing%20on%20the%20same%20axis.%20They%27re%20tuned%20for%20different%20scaling%20strategies%20%E2%80%94%20and%20picking%20the%20wrong%20one%20costs%20you%20years.&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Mastering%20Git%20%26%20Github%20%2812%20most%20useful%20Git%20commands%29%22%3A%20%F0%9F%8C%B1%20Introduction%20%20%20Most%20devs%20say%20they%20know%20Git.%20%20I%E2%80%99ve%20seen%20the%20opposite.%20%20They%20know%20just...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Scale-Up%20vs%20Scale-Out%3A%20Why%20Every%20Language%20Wins%20Somewhere%22%3A%20The%20%27which%20language%20is%20fastest%27%20benchmark%20wars%20miss%20the%20real%20question.%20Rust%2C%20Go%2C%20Java%2C%20and%20Python%20aren%27t%20competing%20on%20the%20same%20axis.%20They%27re%20tuned%20for%20different%20scaling%20strategies%20%E2%80%94%20and%20picking%20the%20wrong%20one%20costs%20you%20years.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-programming"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
 
 
 <div class="aotd-footer">
-  Auto-generated by Article-of-the-Day.bot on 18-Apr-2026 at 09:06 IST &nbsp;·&nbsp;
+  Auto-generated by Article-of-the-Day.bot on 18-Apr-2026 at 19:09 IST &nbsp;·&nbsp;
 </div>
 
 <div class="aotd-attribution">
