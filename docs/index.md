@@ -1,34 +1,25 @@
 ---
-title: Supratim Haldar — Data Scientist, AI Builder, Product Thinker
-description: Supratim Haldar — Data Scientist, AI Builder, Product Thinker
+title: Supratim Haldar — Data Scientist, AI and Product Builder, System Thinker
+description: Supratim Haldar — Data Scientist, AI and Product Builder, System Thinker
 hide:
   - toc
 ---
 
-# Hello, I'm Supratim 👋
+# Hello, I'm Supratim!
 
-> **Data Science and AI Leader · Product and System Thinker**
->
-> Two decades of turning data into decisions and ideas into intelligent products.
+> For over two decades, I have worked across **AI, data science, engineering, and software products** - designing and building systems, leading teams, and delivering software that works in the real world.
 
 ---
 
 ## What I Do
 
-I build **AI-driven products and platforms** that solve real problems at scale - from predictive analytics engines to enterprise ML pipelines. My strength is bridging **strategy and execution** across AI, engineering, and product.
+I design and build AI-driven products and platforms - from predictive models to production-grade ML systems. My work spans strategy, architecture, and execution, connecting data science, engineering, and product thinking into cohesive systems that solve meaningful problems.
 
-<div class="highlight-cards" markdown>
+This work includes:
 
-:material-brain: **AI and Machine Learning**<br>
-Models that move the needle and create an impact - Generative and Agentic AI, predictive and propensity models, recommendation systems, and more.
-
-:material-chart-bar: **Data Science at Scale**<br>
-End-to-end pipelines, experimentation frameworks, and analytics that drive decisions.
-
-:material-lightbulb-on: **Product Thinking**<br>
-Turning ambiguous problems into packaged and shipped solutions.
-
-</div>
+- Applied machine learning, including generative and agentic AI
+- Data platforms, pipelines, and experimentation systems at scale
+- Translating ambiguous problems into well-designed, working software
 
 ---
 
@@ -36,24 +27,33 @@ Turning ambiguous problems into packaged and shipped solutions.
 
 | | |
 |---|---|
-| :material-bank: **Commonwealth Bank** | Leading AI initiatives in Data & Decision Science - making banking brighter for millions |
-| :material-cricket: **Cricket.com** | Built **Criclytics** - a prediction engine delivering industry-leading match forecasting accuracy |
-| :material-cloud: **Oracle** | Architected hybrid cloud + billing, order and revenue management, and predictive analytics solutions across telecom clients globally |
-| :material-office-building: **Amdocs** | Led engineering teams shipping activation and revenue management products |
+| **Commonwealth Bank** | Leading AI, Data and Decision Science initiatives across verticals |
+| **Cricket.com** | Built **Criclytics** - a prediction engine delivering industry-leading match forecasting accuracy |
+| **Oracle** | Architected hybrid cloud + billing, order and revenue management, and predictive analytics solutions across telecom clients globally |
+| **Amdocs** | Led engineering teams shipping activation and revenue management products |
 
 [:material-arrow-right: View Full Experience](work.md){ .md-button }
-[:material-puzzle: See My Projects](project.md){ .md-button .md-button--primary }
 
 ---
 
 ## Domains
 
-`Banking` · `Sports Analytics` · `Telecommunications` · `Cloud` · `Online Retail` · `Gaming`
+`Banking` · `Finance` · `Sports Analytics` · `Telecommunications` · `Online Retail` · `Gaming`
+
+---
+
+## Writing
+
+I write about software, AI, systems thinking, and lessons from building real products over many years. The blog is a place where I think in public and document what experience has taught me.
+
+New posts are added as ideas and experiences accumulate.
+
+[:material-arrow-right: Blog](blog/index.md){ .md-button }
 
 ---
 
 ## Let's Connect
 
-I'm always happy to chat about AI, data, products and solutions, or new ideas.
+If you are working on interesting problems in AI, data, or systems, or simply want to exchange ideas - please feel free to reach out.
 
 [:material-email: Get in Touch](contact.md){ .md-button }

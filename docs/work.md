@@ -11,10 +11,12 @@ description: Professional career journey of Supratim Haldar
 
 ## :material-bank: Commonwealth Bank of Australia
 
-**Senior Manager — Data & Decision Science** · _Dec 2021 – Present_
-{ .role-header }
+> :material-calendar-range: _Dec 2021 – Present_
 
-:material-map-marker: Bengaluru, India
+> :material-map-marker: _Bengaluru, India_
+
+**Senior Manager - Data & Decision Science** · _Dec 2021 – Present_
+{ .role-header }
 
 One of the earliest members of the Data & Decision Science team at CBA India. My key contributions:
 
@@ -26,9 +28,11 @@ One of the earliest members of the Data & Decision Science team at CBA India. My
 
 ---
 
-## :material-cricket: Head Digital Works Pvt. Ltd.
+## :material-cricket: Head Digital Works Pvt. Ltd. (Cricket.com)
 
-> _Cricket.com · Sep 2019 – Dec 2021_ · :material-map-marker: Bengaluru, India
+> :material-calendar-range: _Sep 2019 – Dec 2021_
+
+> :material-map-marker: _Bengaluru, India_
 
 !!! note
     Due to regulatory guidelines, few products including cricket.com has shut down its operations in late 2025.
@@ -47,7 +51,9 @@ One of the earliest members of the Data & Decision Science team at CBA India. My
 
 ## :material-cloud: Oracle
 
-> _10 yrs 6 mos_ · :material-map-marker: Bengaluru · New York · St. Louis
+> :material-calendar-range: _Apr 2009 – Sep 2019_
+
+> :material-map-marker: _Bengaluru · New York · St. Louis_
 
 **Consulting Technical Manager** · _Mar 2019 – Sep 2019_
 
@@ -70,9 +76,11 @@ One of the earliest members of the Data & Decision Science team at CBA India. My
 
 ## :material-office-building: Amdocs
 
-**Senior Programming Subject Matter Expert** · _Jul 2005 – Mar 2009_
+> :material-calendar-range: _Jul 2005 – Mar 2009_
 
-:material-map-marker: Limassol, Cyprus
+> :material-map-marker: _Limassol, Cyprus_
+
+**Senior Programming Subject Matter Expert** · _Jul 2005 – Mar 2009_
 
 - Development Team Lead for Amdocs Engineering and Implementation Teams.
 - Worked on **Amdocs Activation Manager (AAM)** and **Partner Revenue Management (PRM)** products.
@@ -81,9 +89,11 @@ One of the earliest members of the Data & Decision Science team at CBA India. My
 
 ## :material-code-braces: UshaComm India Pvt. Ltd.
 
-**Software Developer** · _Jun 2003 – Jul 2005_
+> :material-calendar-range: _Jun 2003 – Jul 2005_
 
-:material-map-marker: Kolkata, India
+> :material-map-marker: _Kolkata, India_
+
+**Software Developer** · _Jun 2003 – Jul 2005_
 
 - Core Development Team member for **Unicorn 6.0** product.
 - Focused on Inventory Management, Dealer Management, and System Administrator modules.
