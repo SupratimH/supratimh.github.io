@@ -103,7 +103,7 @@ Read the best articles of today, from around the globe, curated at one place for
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">382 points</span>
+    <span class="aotd-badge">383 points</span>
   </div>
   <p class="aotd-summary">every public Notion page is leaking the email addresses of everyone who edited it.
 
@@ -153,25 +153,25 @@ your company wiki is public? every employee&#x27;s email is</p>
 
 <div class="aotd-card" id="pick-3-product">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih" target="_blank" rel="noopener">
-    Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini
+  <a class="aotd-title" href="https://dev.to/konark_13/it-might-already-be-too-late-to-fix-this-1a4m" target="_blank" rel="noopener">
+    It Might Already Be Too Late to Fix This
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">6 min read</span>
-    <span class="aotd-badge">17 reactions</span>
+    <span class="aotd-badge">4 min read</span>
+    <span class="aotd-badge">26 reactions</span>
   </div>
-  <p class="aotd-summary">Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard +...</p>
+  <p class="aotd-summary">This is a submission for Weekend Challenge: Earth Day Edition  It might already be too late to fix...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product&summary=Today%27s%20read%20@%20%22Every%20climate%20chatbot%20is%20amnesiac.%20So%20I%20built%20Aura%20%E2%80%94%20a%20stateful%20climate%20coach%20on%20Backboard%20%2B%20Gemini%22%3A%20Every%20climate%20chatbot%20is%20amnesiac.%20So%20I%20built%20Aura%20%E2%80%94%20a%20stateful%20climate%20coach%20on%20Backboard%20%2B..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product&summary=Today%27s%20read%20@%20%22It%20Might%20Already%20Be%20Too%20Late%20to%20Fix%20This%22%3A%20This%20is%20a%20submission%20for%20Weekend%20Challenge%3A%20Earth%20Day%20Edition%20%20It%20might%20already%20be%20too%20late%20to%20fix..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Every%20climate%20chatbot%20is%20amnesiac.%20So%20I%20built%20Aura%20%E2%80%94%20a%20stateful%20climate%20coach%20on%20Backboard%20%2B%20Gemini%22%3A%20Every%20climate%20chatbot%20is%20amnesiac.%20So%20I%20built%20Aura%20%E2%80%94%20a%20stateful%20climate%20coach%20on%20Backboard%20%2B...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22It%20Might%20Already%20Be%20Too%20Late%20to%20Fix%20This%22%3A%20This%20is%20a%20submission%20for%20Weekend%20Challenge%3A%20Earth%20Day%20Edition%20%20It%20might%20already%20be%20too%20late%20to%20fix...&url=https%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Every%20climate%20chatbot%20is%20amnesiac.%20So%20I%20built%20Aura%20%E2%80%94%20a%20stateful%20climate%20coach%20on%20Backboard%20%2B%20Gemini%22%3A%20Every%20climate%20chatbot%20is%20amnesiac.%20So%20I%20built%20Aura%20%E2%80%94%20a%20stateful%20climate%20coach%20on%20Backboard%20%2B...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22It%20Might%20Already%20Be%20Too%20Late%20to%20Fix%20This%22%3A%20This%20is%20a%20submission%20for%20Weekend%20Challenge%3A%20Earth%20Day%20Edition%20%20It%20might%20already%20be%20too%20late%20to%20fix...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/%23pick-3-product"
        target="_blank" rel="noopener">WhatsApp</a>
   </div>
 </div>
@@ -213,7 +213,7 @@ your company wiki is public? every employee&#x27;s email is</p>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--hn">Hacker News</span>
     <span class="aotd-badge">1 min read</span>
-    <span class="aotd-badge">88 points</span>
+    <span class="aotd-badge">91 points</span>
   </div>
   <p class="aotd-summary">Introducing ggsql, a grammar of graphics for SQL that lets you describe visualizations directly inside SQL queries.</p>
   <div class="aotd-share">
@@ -258,7 +258,7 @@ your company wiki is public? every employee&#x27;s email is</p>
 
 
 <div class="aotd-footer">
-  Auto-generated by Article-of-the-Day.bot on 20-Apr-2026 at 19:48 IST &nbsp;·&nbsp;
+  Auto-generated by Article-of-the-Day.bot on 20-Apr-2026 at 19:53 IST &nbsp;·&nbsp;
 </div>
 
 <div class="aotd-attribution">
