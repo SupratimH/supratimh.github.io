@@ -1,4 +1,5 @@
-{% set safe_title = page.meta.title if (page and page.meta and 'title' in page.meta) else (page.title if (page and page.title) else config.site_name) %}
+{% set safe_title = page.meta.title if (page and page.meta and 'title' in page.meta) else (page.title if (page and
+page.title) else config.site_name) %}
 {% set safe_desc = (page.meta.get('description', config.site_description) if (page and page.meta) else
 config.site_description) %}
 {% set safe_url = page.canonical_url if (page and page.canonical_url) else config.site_url %}
@@ -59,3 +60,6 @@ config.site_description) %}
 }
 </script>
 {% endif %}
+
+<!-- Google Search Console Verification -->
+<meta name="google-site-verification" content="1c_Bp7h9hnn08rLATJxtE4CTv--jdJHKBi78xwwa3pU" />
