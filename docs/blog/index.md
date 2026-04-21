@@ -1,6 +1,6 @@
 ---
-title: Blog
-description: Articles and tutorials on data science, AI, and software engineering
+title: Blogs and Articles | Supratim Haldar - Data Science, AI and ML Products and Systems
+description:  Articles by Supratim Haldar on AI, data science, software engineering, systems thinking, and lessons from building real-world products over two decades.
 ---
 
 # Blogs and Articles

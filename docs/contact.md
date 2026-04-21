@@ -1,6 +1,6 @@
 ---
-title: Contact Me
-description: Ways to contact Supratim Haldar
+title: Contact | Supratim Haldar - Data Science, AI and ML Products and Systems
+description: Contact Supratim Haldar for discussions on AI, data science, ML systems, product engineering, and collaborative opportunities.
 hide:
   - toc
 ---
@@ -22,10 +22,10 @@ I am always interested in connecting with people working on interesting problems
 Whether you have questions, project opportunities, or just want to discuss AI, data science, or products and solutions, feel free to reach out.
 
 ### Topics I'm Interested In:
-- 🤖 AI/ML Product Development
-- 📊 Data Science & Analytics
-- 🏆 Sports Analytics
-- 🏢 Enterprise AI Solutions
-- 🔗 Startups & Innovation
+- AI/ML Product Development
+- Data Science & Analytics
+- Sports Analytics
+- Enterprise AI Solutions
+- Startups & Innovation
 
 ---

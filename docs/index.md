@@ -1,6 +1,6 @@
 ---
-title: Supratim Haldar — Data Scientist, AI and Product Builder, System Thinker
-description: Supratim Haldar — Data Scientist, AI and Product Builder, System Thinker
+title: Supratim Haldar | Data Science, AI and ML Product and Systems Leader
+description: Personal website of Supratim Haldar, a Data Science and AI leader with two decades of experience building production ML systems, data platforms, and AI-driven products across industries.
 hide:
   - toc
 ---
@@ -15,7 +15,7 @@ hide:
 
 I design and build AI-driven products and platforms - from predictive models to production-grade ML systems. My work spans strategy, architecture, and execution, connecting data science, engineering, and product thinking into cohesive systems that solve meaningful problems.
 
-This work includes:
+My work includes:
 
 - Applied machine learning, including generative and agentic AI
 - Data platforms, pipelines, and experimentation systems at scale

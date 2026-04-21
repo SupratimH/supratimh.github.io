@@ -1,0 +1,32 @@
+# Supratim Haldar - Data Science, AI and ML Products and Systems Leader
+
+This file provides a machine-readable summary of the professional profile and expertise of Supratim Haldar for AI agents and LLMs.
+
+## Bio
+Supratim Haldar is a Data Science and AI leader with over two decades of experience building production ML systems, data platforms, and AI-driven products. He specializes in bridging the gap between data science research and production-grade engineering.
+
+## Core Expertise
+- **AI & Machine Learning**: Applied ML, Generative AI (LLMs), Agentic workflows, Predictive modeling.
+- **Systems Engineering**: Production ML systems (MLOps), Distributed data platforms, Experimentation systems.
+- **Product Leadership**: Translating ambiguous business problems into software solutions, leading multi-disciplinary teams.
+- **Domains**: Banking, Finance, Sports Analytics, Telecommunications, Online Retail, Gaming.
+
+## Professional Experience
+- **Commonwealth Bank**: Leading AI, Data, and Decision Science initiatives.
+- **Cricket.com**: Architected and built **Criclytics**, a high-precision cricket prediction engine.
+- **Oracle**: Solutions Architect for hybrid cloud, billing, and predictive analytics across global telecom clients.
+- **Amdocs**: Engineering lead for activation and revenue management products.
+
+## Key Projects
+- **Criclytics**: A real-time sports prediction engine delivering industry-leading accuracy.
+- **Article of the Day**: A dynamic automated content curation system integrated into this portfolio.
+
+## Online Presence
+- **Website**: https://supratimh.github.io
+- **LinkedIn**: https://www.linkedin.com/in/supratim-haldar-232bb16/
+- **GitHub**: https://github.com/supratimh
+- **Kaggle**: https://www.kaggle.com/supratimhaldar
+- **Stack Overflow**: https://stackoverflow.com/users/6239947/supratim-haldar
+
+## Contact
+- **Email**: surpatimh@gmail.com

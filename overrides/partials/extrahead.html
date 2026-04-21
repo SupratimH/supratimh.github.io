@@ -1,1 +1,61 @@
+{% set safe_title = page.meta.title if (page and page.meta and 'title' in page.meta) else (page.title if (page and page.title) else config.site_name) %}
+{% set safe_desc = (page.meta.get('description', config.site_description) if (page and page.meta) else
+config.site_description) %}
+{% set safe_url = page.canonical_url if (page and page.canonical_url) else config.site_url %}
+{% set is_article_of_the_day = true if (page and page.url and "article_of_the_day" in page.url) else false %}
+
+<!-- Twitter Metadata -->
 <meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@supratim_h">
+<meta name="twitter:creator" content="@supratim_h">
+
+<!-- Open Graph metadata -->
+<meta property="og:title" content="{{ safe_title }}">
+<meta property="og:description" content="{{ safe_desc }}">
+<meta property="og:type" content="website">
+<meta property="og:url" content="{{ safe_url }}">
+<meta property="og:image" content="{{ config.site_url }}/image/Supratim_Haldar.jpg">
+<meta property="og:site_name" content="{{ config.site_name }}">
+
+<!-- Primary Schema.org metadata (Dynamic for all pages) -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "{{ safe_title }}",
+  "url": "{{ safe_url }}",
+  "description": "{{ safe_desc }}",
+  "author": {
+    "@type": "Person",
+    "name": "Supratim Haldar",
+    "givenName": "Supratim",
+    "familyName": "Haldar",
+    "url": "{{ config.site_url }}",
+    "jobTitle": "Data Science and AI Leader",
+    "sameAs": [
+      "https://linkedin.com/in/supratim-haldar-232bb16",
+      "https://github.com/supratimh",
+      "https://x.com/supratim_h"
+    ]
+  }
+}
+</script>
+
+<!-- Conditional Schema: CollectionPage only for Article of the Day -->
+{% if is_article_of_the_day %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "name": "Article of the Day",
+  "description": "Top 3 long-form articles curated daily across AI, Data Science, Product and Programming.",
+  "url": "{{ config.site_url }}/article_of_the_day/",
+  "author": {
+    "@type": "Person",
+    "name": "Supratim Haldar",
+    "url": "{{ config.site_url }}"
+  },
+  "updateFrequency": "Daily"
+}
+</script>
+{% endif %}

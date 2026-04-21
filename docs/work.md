@@ -1,6 +1,6 @@
 ---
-title: Work Experience
-description: Professional career journey of Supratim Haldar
+title: Work Experience | Supratim Haldar - Data Science, AI and ML Products and Systems
+description: Work experience of Supratim Haldar across banking, finance, sports-tech, retail and telecom, building AI platforms, data-driven products, and production ML systems over two decades.
 ---
 
 # Work Experience
