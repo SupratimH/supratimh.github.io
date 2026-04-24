@@ -50,7 +50,7 @@ New posts are added as ideas and experiences accumulate.
 
 [:material-arrow-right: Blog](blog/index.md){ .md-button }
 
-Some of my online footprint is also spread across my [LinkedIn](https://www.linkedin.com/in/supratim-haldar-232bb16/), [Github](https://github.com/supratimh), [Stack Overflow](https://stackoverflow.com/users/6239947/supratim-haldar) and [500px Photography Portfolio](https://500px.com/p/supxyz).
+Some of my online footprint is also spread across my [LinkedIn](https://www.linkedin.com/in/supratim-haldar-232bb16/){target="_blank"}, [Github](https://github.com/supratimh){target="_blank"}, [Stack Overflow](https://stackoverflow.com/users/6239947/supratim-haldar){target="_blank"} and [500px Photography Portfolio](https://500px.com/p/supxyz){target="_blank"}.
 
 ---
 
