@@ -133,7 +133,7 @@ plugins:
 extra_css:
   - css/custom.css
   - css/aotd.css
-  - https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto+Mono:wght@400;700&display=swap
+  # - https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto+Mono:wght@400;700&display=swap
 
 extra_head:
   - '<meta name="twitter:card" content="summary_large_image">'
@@ -173,6 +173,10 @@ extra:
       link: https://stackoverflow.com/users/6239947/supratim-haldar
       name: Stack Overflow
 
+    - icon: fontawesome/brands/medium
+      link: https://supratim-haldar.medium.com
+      name: Medium
+
     - icon: fontawesome/brands/kaggle
       link: https://www.kaggle.com/supratimhaldar
       name: Kaggle
@@ -182,6 +186,5 @@ extra:
       name: 500px
 
     - icon: fontawesome/solid/envelope
-      link: mailto:surpatimh@gmail.com
+      link: mailto:supratimh@gmail.com
       name: Email
-

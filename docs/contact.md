@@ -23,9 +23,9 @@ Whether you have questions, project opportunities, or just want to discuss AI, d
 
 ### Topics I'm Interested In:
 - AI/ML Product Development
-- Data Science & Analytics
+- Data Science
 - Sports Analytics
 - Enterprise AI Solutions
-- Startups & Innovation
+- Startups and Innovation
 
 ---
