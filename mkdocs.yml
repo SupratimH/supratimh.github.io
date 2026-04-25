@@ -42,6 +42,10 @@ markdown_extensions:
         - name: python
           class: python
           # validator: !!python/name:pymdownx.superfences.fence_code_validator
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
 
 # ============================================================
 # THEME CONFIGURATION
@@ -134,9 +138,6 @@ extra_css:
   - css/custom.css
   - css/aotd.css
   # - https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Roboto+Mono:wght@400;700&display=swap
-
-extra_head:
-  - '<meta name="twitter:card" content="summary_large_image">'
 
 # extra_javascript:
 #   - javascripts/extra.js
