@@ -116,6 +116,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://supratimh.github.io/blog/2026/04/25/predicting-outcomes-of-cricket-matches-using-machine-learning---overview-and-architecture/</loc>
+         <lastmod>2026-04-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://supratimh.github.io/projects/ai-product/</loc>
          <lastmod>2026-04-25</lastmod>
          <changefreq>daily</changefreq>
@@ -156,12 +161,17 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://supratimh.github.io/blog/category/software-engineering/</loc>
+         <loc>https://supratimh.github.io/blog/category/data-science/</loc>
          <lastmod>2026-04-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://supratimh.github.io/blog/category/product--solution/</loc>
+         <loc>https://supratimh.github.io/blog/category/machine-learning/</loc>
+         <lastmod>2026-04-25</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://supratimh.github.io/blog/category/artificial-intelligence/</loc>
          <lastmod>2026-04-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
@@ -171,12 +181,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://supratimh.github.io/blog/category/data-science/</loc>
+         <loc>https://supratimh.github.io/blog/category/software-engineering/</loc>
          <lastmod>2026-04-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://supratimh.github.io/blog/category/machine-learning/</loc>
+         <loc>https://supratimh.github.io/blog/category/product--solution/</loc>
          <lastmod>2026-04-25</lastmod>
          <changefreq>daily</changefreq>
     </url>
