@@ -1159,35 +1159,7 @@
 <p>Here is a look at the architecture that makes this possible.</p>
 <h2 id="the-machine-learning-pipeline">The Machine Learning Pipeline</h2>
 <p>The system is designed as a sequential pipeline with four main stages.</p>
-<pre class="mermaid"><code>graph LR
-    A[Raw Data Sources] --&gt; B(Data Ingestion)
-    B --&gt; C(Data Processing)
-    C --&gt; D(Feature Engineering)
-    D --&gt; E(Model Training and Prediction)
-
-    subgraph Sources
-    A1[ESPNcricinfo] --&gt; A
-    A2[Reliance ICC Rankings] --&gt; A
-    end
-
-    subgraph Ingestion
-    B1[Web Scrapers] --&gt; B
-    end
-
-    subgraph Processing
-    C1[Fuzzy Name Matching] --&gt; C
-    C2[Data Standardization] --&gt; C
-    end
-
-    subgraph Features
-    D1[Player Performance Metrics] --&gt; D
-    D2[Historical Win Ratios] --&gt; D
-    D3[Data Augmentation] --&gt; D
-    end
-
-    subgraph Modeling
-    E1[Random Forest Classifier] --&gt; E
-    end</code></pre>
+<p><img align="center" alt="The data preparation and model training pipeline" src="../../../../images/2026-04-25-my-cricket-prediction-model_flow.jpg" width="100%" /></p>
 <h2 id="data-ingestion">Data Ingestion</h2>
 <p>The first step is gathering the raw materials. The pipeline relies on custom web scrapers to pull historical match records from ESPNcricinfo. This includes venue details, toss outcomes, and playing squads.</p>
 <p>Simultaneously it fetches historical player rankings from the Reliance ICC Rankings database. A critical design decision here is to always pull a player ranking from the exact day before the match in question. If we use their ranking from after the match we introduce data leakage into the model, which artificially inflates its accuracy during testing but fails in real world scenarios.</p>
