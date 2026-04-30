@@ -35,37 +35,7 @@ Here is a look at the architecture that makes this possible.
 
 The system is designed as a sequential pipeline with four main stages.
 
-```mermaid
-graph LR
-    A[Raw Data Sources] --> B(Data Ingestion)
-    B --> C(Data Processing)
-    C --> D(Feature Engineering)
-    D --> E(Model Training and Prediction)
-
-    subgraph Sources
-    A1[ESPNcricinfo] --> A
-    A2[Reliance ICC Rankings] --> A
-    end
-
-    subgraph Ingestion
-    B1[Web Scrapers] --> B
-    end
-
-    subgraph Processing
-    C1[Fuzzy Name Matching] --> C
-    C2[Data Standardization] --> C
-    end
-
-    subgraph Features
-    D1[Player Performance Metrics] --> D
-    D2[Historical Win Ratios] --> D
-    D3[Data Augmentation] --> D
-    end
-
-    subgraph Modeling
-    E1[Random Forest Classifier] --> E
-    end
-```
+![The data preparation and model training pipeline](../images/2026-04-25-my-cricket-prediction-model_flow.jpg){ width="100%" align="center"}
 
 ## Data Ingestion
 
