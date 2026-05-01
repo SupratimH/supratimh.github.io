@@ -11,7 +11,7 @@ tags:
   - image classification
 ---
 
-# Identifying Artists from Their Paintings Using Deep Learning
+# Deep-Artist AI - Identifying Artists from Paintings Using Deep Learning
 
 *Published · Aptil 25, 2026*{.post-date}
 
