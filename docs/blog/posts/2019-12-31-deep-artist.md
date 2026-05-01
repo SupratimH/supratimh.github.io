@@ -13,7 +13,7 @@ tags:
 
 # Deep-Artist AI - Identifying Artists from Paintings Using Deep Learning
 
-*Published · Aptil 25, 2026*{.post-date}
+*Published · December 31, 2019*{.post-date}
 
 ---
 
