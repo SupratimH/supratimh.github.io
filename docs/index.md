@@ -28,7 +28,7 @@ My work includes:
 | | |
 |---|---|
 | **Commonwealth Bank** | Leading AI, Data and Decision Science initiatives across verticals |
-| **Cricket.com** | Built **Criclytics** - a prediction engine delivering industry-leading match forecasting accuracy |
+| **Cricket.com** | Built [**Criclytics**](blog/posts/2022-07-01-what-is-criclytics.md) - a prediction engine delivering industry-leading match forecasting accuracy |
 | **Oracle** | Architected hybrid cloud + billing, order and revenue management, and predictive analytics solutions across telecom clients globally |
 | **Amdocs** | Led engineering teams shipping activation and revenue management products |
 

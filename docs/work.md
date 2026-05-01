@@ -39,8 +39,8 @@ One of the earliest members of the Data & Decision Science team at CBA India. My
 
 **Lead Data Scientist** · _Sep 2019 – Dec 2021_
 
-- Established and led the Data Science team of [cricket.com](https://cricket.com).
-- Built **Criclytics** - an industry-leading prediction engine for match outcomes and real-time insights.
+- Established and led the Data Science team of _cricket.com_.
+- Built [**Criclytics**](blog/posts/2022-07-01-what-is-criclytics.md) - an industry-leading prediction engine for match outcomes and real-time insights.
 - Introduced the **Fantasy Research Centre** - automated and optimised fantasy team strategies using **Linear Optimisation**.
 - Developed models for performance forecasting, player and team Elo ratings, post-match analysis, and playoff simulations.
 - Created a **content recommendation system** - enhanceed user engagement by 40%.
