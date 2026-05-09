@@ -149,7 +149,9 @@ extra_css:
 nav:
   - About: index.md
   - Work: work.md
-  - Article of the Day: article_of_the_day/index.md
+  - Article of the Day:
+    - Today: article_of_the_day/index.md
+    - Archive: article_of_the_day/archive.md
   - Blog:
     - blog/index.md
   # - Project:

@@ -1,34 +1,53 @@
 ---
-title: Archive
+title: Article of the Day | Archive
+description: All the historical top pick articles of the day
 ---
 
 # Archive
 
-## May 2026
-- [2026-05-09](2026-05-09.md)
-- [2026-05-08](2026-05-08.md)
-- [2026-05-07](2026-05-07.md)
-- [2026-05-06](2026-05-06.md)
-- [2026-05-05](2026-05-05.md)
-- [2026-05-04](2026-05-04.md)
-- [2026-05-03](2026-05-03.md)
-- [2026-05-02](2026-05-02.md)
-- [2026-05-01](2026-05-01.md)
+## May 2026 { #may-2026 }
 
-## April 2026
-- [2026-04-30](2026-04-30.md)
-- [2026-04-29](2026-04-29.md)
-- [2026-04-28](2026-04-28.md)
-- [2026-04-27](2026-04-27.md)
-- [2026-04-26](2026-04-26.md)
-- [2026-04-25](2026-04-25.md)
-- [2026-04-24](2026-04-24.md)
-- [2026-04-23](2026-04-23.md)
-- [2026-04-22](2026-04-22.md)
-- [2026-04-21](2026-04-21.md)
-- [2026-04-20](2026-04-20.md)
-- [2026-04-19](2026-04-19.md)
-- [2026-04-18](2026-04-18.md)
-- [2026-04-17](2026-04-17.md)
-- [2026-04-16](2026-04-16.md)
-- [2026-04-15](2026-04-15.md)
+<div class="aotd-card" markdown="1">
+  <div class="aotd-pill-nav" markdown="1">
+[09 May](2026-05-09.md){ .aotd-pill }
+[08 May](2026-05-08.md){ .aotd-pill }
+[07 May](2026-05-07.md){ .aotd-pill }
+[06 May](2026-05-06.md){ .aotd-pill }
+[05 May](2026-05-05.md){ .aotd-pill }
+[04 May](2026-05-04.md){ .aotd-pill }
+[03 May](2026-05-03.md){ .aotd-pill }
+[02 May](2026-05-02.md){ .aotd-pill }
+[01 May](2026-05-01.md){ .aotd-pill }
+  </div>
+</div>
+
+## April 2026 { #april-2026 }
+
+<div class="aotd-card" markdown="1">
+  <div class="aotd-pill-nav" markdown="1">
+[30 Apr](2026-04-30.md){ .aotd-pill }
+[29 Apr](2026-04-29.md){ .aotd-pill }
+[28 Apr](2026-04-28.md){ .aotd-pill }
+[27 Apr](2026-04-27.md){ .aotd-pill }
+[26 Apr](2026-04-26.md){ .aotd-pill }
+[25 Apr](2026-04-25.md){ .aotd-pill }
+[24 Apr](2026-04-24.md){ .aotd-pill }
+[23 Apr](2026-04-23.md){ .aotd-pill }
+[22 Apr](2026-04-22.md){ .aotd-pill }
+[21 Apr](2026-04-21.md){ .aotd-pill }
+[20 Apr](2026-04-20.md){ .aotd-pill }
+[19 Apr](2026-04-19.md){ .aotd-pill }
+[18 Apr](2026-04-18.md){ .aotd-pill }
+[17 Apr](2026-04-17.md){ .aotd-pill }
+[16 Apr](2026-04-16.md){ .aotd-pill }
+[15 Apr](2026-04-15.md){ .aotd-pill }
+  </div>
+</div>
+
+<div class="aotd-footer" markdown="1">
+[← Back to Today's Picks](index.md)
+</div>
+
+<div class="aotd-attribution">
+  <p><i>Developed with</i> &#10084; <i>by <strong>Supratim Haldar</strong></i></p>
+</div>
