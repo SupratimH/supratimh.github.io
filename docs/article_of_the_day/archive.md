@@ -5,6 +5,14 @@ description: All the historical top pick articles of the day
 
 # Archive
 
+## August 2026 { #august-2026 }
+
+<div class="aotd-card" markdown="1">
+  <div class="aotd-pill-nav" markdown="1">
+[01 Aug](2026-08-01.md){ .aotd-pill }
+  </div>
+</div>
+
 ## July 2026 { #july-2026 }
 
 <div class="aotd-card" markdown="1">
