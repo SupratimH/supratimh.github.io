@@ -1,10 +1,10 @@
 ---
-title: "Article of the Day | 14 Oct 2026"
-description: "Today's top pick: Do You Actually Need an LLM?. Plus 8 more curated long-reads across AI & Data · Product · Programming."
-date: 2026-10-14
+title: "Article of the Day | 15 Oct 2026"
+description: "Today's top pick: Containment and monitoring failures are to blame for AI hacking reports: experts. Plus 8 more curated long-reads across AI & Data · Product · Programming."
+date: 2026-10-15
 ---
 
-# Top Articles of the Day | 14-Oct-2026
+# Top Articles of the Day | 15-Oct-2026
 
 Read the best articles of today, from around the globe, curated at one place for you!
 
@@ -16,272 +16,272 @@ Read the best articles of today, from around the globe, curated at one place for
 
 ## AI & Data { #ai-data }
 
-<div class="aotd-card" id="kenwalger-you-actually-need">
+<div class="aotd-card" id="4234854-agents-arent-going">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://dev.to/kenwalger/do-you-actually-need-an-llm-3n55" target="_blank" rel="noopener">
-    Do You Actually Need an LLM?
-  </a>
-  <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">14 min read</span>
-    <span class="aotd-badge">12 reactions</span>
-  </div>
-  <p class="aotd-summary">I spent a weekend running two small language models against three jobs I would normally hand to a...</p>
-  <div class="aotd-share">
-    <span class="aotd-share-label">Share 🔗</span>
-    <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23kenwalger-you-actually-need&summary=Today%27s%20read%20@%20%22Do%20You%20Actually%20Need%20an%20LLM%3F%22%3A%20I%20spent%20a%20weekend%20running%20two%20small%20language%20models%20against%20three%20jobs%20I%20would%20normally%20hand%20to%20a..."
-       target="_blank" rel="noopener">LinkedIn</a>
-    <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Do%20You%20Actually%20Need%20an%20LLM%3F%22%3A%20I%20spent%20a%20weekend%20running%20two%20small%20language%20models%20against%20three%20jobs%20I%20would%20normally%20hand%20to%20a...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23kenwalger-you-actually-need"
-       target="_blank" rel="noopener">X / Twitter</a>
-    <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Do%20You%20Actually%20Need%20an%20LLM%3F%22%3A%20I%20spent%20a%20weekend%20running%20two%20small%20language%20models%20against%20three%20jobs%20I%20would%20normally%20hand%20to%20a...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23kenwalger-you-actually-need"
-       target="_blank" rel="noopener">WhatsApp</a>
-    <a class="aotd-share-btn aotd-share-btn--copy"
-       href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-14/#kenwalger-you-actually-need').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
-  </div>
-</div>
-
-
-<div class="aotd-card" id="rudratosh-your-agent-said">
-  <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://dev.to/rudratosh/your-ai-agent-said-it-blocked-the-attack-i-read-the-source-of-5-tools-that-check-if-its-lying-l1n" target="_blank" rel="noopener">
-    Your AI agent said it blocked the attack. I read the source of 5 tools that check if it&#x27;s lying.
-  </a>
-  <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">8 min read</span>
-    <span class="aotd-badge">9 reactions</span>
-  </div>
-  <p class="aotd-summary">Here&#x27;s a failure your test suite probably can&#x27;t see.  An AI agent with a send_email tool summarizes a...</p>
-  <div class="aotd-share">
-    <span class="aotd-share-label">Share 🔗</span>
-    <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23rudratosh-your-agent-said&summary=Today%27s%20read%20@%20%22Your%20AI%20agent%20said%20it%20blocked%20the%20attack.%20I%20read%20the%20source%20of%205%20tools%20that%20check%20if%20it%27s%20lying.%22%3A%20Here%27s%20a%20failure%20your%20test%20suite%20probably%20can%27t%20see.%20%20An%20AI%20agent%20with%20a%20send_email%20tool%20summarizes%20a..."
-       target="_blank" rel="noopener">LinkedIn</a>
-    <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Your%20AI%20agent%20said%20it%20blocked%20the%20attack.%20I%20read%20the%20source%20of%205%20tools%20that%20check%20if%20it%27s%20lying.%22%3A%20Here%27s%20a%20failure%20your%20test%20suite%20probably%20can%27t%20see.%20%20An%20AI%20agent%20with%20a%20send_email%20tool%20summarizes%20a...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23rudratosh-your-agent-said"
-       target="_blank" rel="noopener">X / Twitter</a>
-    <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Your%20AI%20agent%20said%20it%20blocked%20the%20attack.%20I%20read%20the%20source%20of%205%20tools%20that%20check%20if%20it%27s%20lying.%22%3A%20Here%27s%20a%20failure%20your%20test%20suite%20probably%20can%27t%20see.%20%20An%20AI%20agent%20with%20a%20send_email%20tool%20summarizes%20a...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23rudratosh-your-agent-said"
-       target="_blank" rel="noopener">WhatsApp</a>
-    <a class="aotd-share-btn aotd-share-btn--copy"
-       href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-14/#rudratosh-your-agent-said').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
-  </div>
-</div>
-
-
-<div class="aotd-card" id="research-distributed-gpu-cloud">
-  <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://machinelearning.apple.com/research/distributed-gpu-cloud" target="_blank" rel="noopener">
-    A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices
+  <a class="aotd-title" href="https://www.csoonline.com/article/4234854/ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.html" target="_blank" rel="noopener">
+    Containment and monitoring failures are to blame for AI hacking reports: experts
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">2 min read</span>
-    <span class="aotd-badge">240 points</span>
+    <span class="aotd-badge">854 points</span>
   </div>
-  <p class="aotd-summary">The increasing demand for GPU-accelerated machine learning inference has exposed limitations in centralized GPU infrastructures, including…</p>
+  <p class="aotd-summary">Read this Hacker News article from csoonline.com.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23research-distributed-gpu-cloud&summary=Today%27s%20read%20@%20%22A%20Dynamic%20and%20Distributed%20Virtual%20GPU%20Cloud%20Built%20on%20Idle%20Apple%20Silicon%20Devices%22%3A%20The%20increasing%20demand%20for%20GPU-accelerated%20machine%20learning%20inference%20has%20exposed%20limitations%20in%20centralized%20GPU%20infrastructures%2C%20including%E2%80%A6"
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%234234854-agents-arent-going&summary=Today%27s%20read%20@%20%22Containment%20and%20monitoring%20failures%20are%20to%20blame%20for%20AI%20hacking%20reports%3A%C2%A0experts%22%3A%20Read%20this%20Hacker%20News%20article%20from%20csoonline.com."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22A%20Dynamic%20and%20Distributed%20Virtual%20GPU%20Cloud%20Built%20on%20Idle%20Apple%20Silicon%20Devices%22%3A%20The%20increasing%20demand%20for%20GPU-accelerated%20machine%20learning%20inference%20has%20exposed%20limitations%20in%20centralized%20GPU%20infrastructures%2C%20including%E2%80%A6&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23research-distributed-gpu-cloud"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Containment%20and%20monitoring%20failures%20are%20to%20blame%20for%20AI%20hacking%20reports%3A%C2%A0experts%22%3A%20Read%20this%20Hacker%20News%20article%20from%20csoonline.com.&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%234234854-agents-arent-going"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22A%20Dynamic%20and%20Distributed%20Virtual%20GPU%20Cloud%20Built%20on%20Idle%20Apple%20Silicon%20Devices%22%3A%20The%20increasing%20demand%20for%20GPU-accelerated%20machine%20learning%20inference%20has%20exposed%20limitations%20in%20centralized%20GPU%20infrastructures%2C%20including%E2%80%A6%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23research-distributed-gpu-cloud"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Containment%20and%20monitoring%20failures%20are%20to%20blame%20for%20AI%20hacking%20reports%3A%C2%A0experts%22%3A%20Read%20this%20Hacker%20News%20article%20from%20csoonline.com.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-15/%234234854-agents-arent-going"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-14/#research-distributed-gpu-cloud').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-15/#4234854-agents-arent-going').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+  </div>
+</div>
+
+
+<div class="aotd-card" id="koda2026-iam-built-indias">
+  <div class="aotd-rank">Pick #2</div>
+  <a class="aotd-title" href="https://dev.to/koda2026/iam-12-we-built-indias-ai-language-infrastructure-and-why-we-just-locked-it-down-178l" target="_blank" rel="noopener">
+    Iam 12 .We Built India’s AI Language Infrastructure (And Why We Just Locked It Down)
+  </a>
+  <div class="aotd-meta">
+    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
+    <span class="aotd-badge">3 min read</span>
+    <span class="aotd-badge">19 reactions</span>
+  </div>
+  <p class="aotd-summary">When you look at the current AI landscape, everyone is obsessed with the models. But there is a...</p>
+  <div class="aotd-share">
+    <span class="aotd-share-label">Share 🔗</span>
+    <a class="aotd-share-btn aotd-share-btn--li"
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23koda2026-iam-built-indias&summary=Today%27s%20read%20@%20%22Iam%2012%20.We%20Built%20India%E2%80%99s%20AI%20Language%20Infrastructure%20%28And%20Why%20We%20Just%20Locked%20It%20Down%29%22%3A%20When%20you%20look%20at%20the%20current%20AI%20landscape%2C%20everyone%20is%20obsessed%20with%20the%20models.%20But%20there%20is%20a..."
+       target="_blank" rel="noopener">LinkedIn</a>
+    <a class="aotd-share-btn aotd-share-btn--x"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Iam%2012%20.We%20Built%20India%E2%80%99s%20AI%20Language%20Infrastructure%20%28And%20Why%20We%20Just%20Locked%20It%20Down%29%22%3A%20When%20you%20look%20at%20the%20current%20AI%20landscape%2C%20everyone%20is%20obsessed%20with%20the%20models.%20But%20there%20is%20a...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23koda2026-iam-built-indias"
+       target="_blank" rel="noopener">X / Twitter</a>
+    <a class="aotd-share-btn aotd-share-btn--wa"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Iam%2012%20.We%20Built%20India%E2%80%99s%20AI%20Language%20Infrastructure%20%28And%20Why%20We%20Just%20Locked%20It%20Down%29%22%3A%20When%20you%20look%20at%20the%20current%20AI%20landscape%2C%20everyone%20is%20obsessed%20with%20the%20models.%20But%20there%20is%20a...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23koda2026-iam-built-indias"
+       target="_blank" rel="noopener">WhatsApp</a>
+    <a class="aotd-share-btn aotd-share-btn--copy"
+       href="javascript:void(0)"
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-15/#koda2026-iam-built-indias').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+  </div>
+</div>
+
+
+<div class="aotd-card" id="dailycontext-the-model-the">
+  <div class="aotd-rank">Pick #3</div>
+  <a class="aotd-title" href="https://dev.to/dailycontext/the-model-is-the-easy-part-19gh" target="_blank" rel="noopener">
+    The Model Is the Easy Part
+  </a>
+  <div class="aotd-meta">
+    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
+    <span class="aotd-badge">3 min read</span>
+    <span class="aotd-badge">19 reactions</span>
+  </div>
+  <p class="aotd-summary">We spent the past few months on a question that sounds simple: what does it actually take to move a...</p>
+  <div class="aotd-share">
+    <span class="aotd-share-label">Share 🔗</span>
+    <a class="aotd-share-btn aotd-share-btn--li"
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23dailycontext-the-model-the&summary=Today%27s%20read%20@%20%22The%20Model%20Is%20the%20Easy%20Part%22%3A%20We%20spent%20the%20past%20few%20months%20on%20a%20question%20that%20sounds%20simple%3A%20what%20does%20it%20actually%20take%20to%20move%20a..."
+       target="_blank" rel="noopener">LinkedIn</a>
+    <a class="aotd-share-btn aotd-share-btn--x"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22The%20Model%20Is%20the%20Easy%20Part%22%3A%20We%20spent%20the%20past%20few%20months%20on%20a%20question%20that%20sounds%20simple%3A%20what%20does%20it%20actually%20take%20to%20move%20a...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23dailycontext-the-model-the"
+       target="_blank" rel="noopener">X / Twitter</a>
+    <a class="aotd-share-btn aotd-share-btn--wa"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22The%20Model%20Is%20the%20Easy%20Part%22%3A%20We%20spent%20the%20past%20few%20months%20on%20a%20question%20that%20sounds%20simple%3A%20what%20does%20it%20actually%20take%20to%20move%20a...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23dailycontext-the-model-the"
+       target="_blank" rel="noopener">WhatsApp</a>
+    <a class="aotd-share-btn aotd-share-btn--copy"
+       href="javascript:void(0)"
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-15/#dailycontext-the-model-the').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
 ## Product { #product }
 
-<div class="aotd-card" id="james_anderson_h-people-are-vibe">
+<div class="aotd-card" id="sylwia-lask-your-browser">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://dev.to/james_anderson_h/people-are-vibe-coding-clones-of-every-paid-app-what-actually-survives-38ak" target="_blank" rel="noopener">
-    People Are Vibe-Coding Clones of Every Paid App. What Actually Survives?
+  <a class="aotd-title" href="https://dev.to/sylwia-lask/your-browser-can-do-what-5-ai-features-that-actually-work-1blb" target="_blank" rel="noopener">
+    Your Browser Can Do WHAT?! 5 AI Features That Actually Work
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">8 min read</span>
-    <span class="aotd-badge">40 reactions</span>
+    <span class="aotd-badge">12 min read</span>
+    <span class="aotd-badge">90 reactions</span>
   </div>
-  <p class="aotd-summary">Earlier this month, a developer in Atlanta got fed up with Adobe&#x27;s cancellation fees. So he used...</p>
+  <p class="aotd-summary">Are AI models running directly in the browser finally good enough to use in production? Let&#x27;s find...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23james_anderson_h-people-are-vibe&summary=Today%27s%20read%20@%20%22People%20Are%20Vibe-Coding%20Clones%20of%20Every%20Paid%20App.%20What%20Actually%20Survives%3F%22%3A%20Earlier%20this%20month%2C%20a%20developer%20in%20Atlanta%20got%20fed%20up%20with%20Adobe%27s%20cancellation%20fees.%20So%20he%20used..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23sylwia-lask-your-browser&summary=Today%27s%20read%20@%20%22Your%20Browser%20Can%20Do%20WHAT%3F%21%205%20AI%20Features%20That%20Actually%20Work%22%3A%20Are%20AI%20models%20running%20directly%20in%20the%20browser%20finally%20good%20enough%20to%20use%20in%20production%3F%20Let%27s%20find..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22People%20Are%20Vibe-Coding%20Clones%20of%20Every%20Paid%20App.%20What%20Actually%20Survives%3F%22%3A%20Earlier%20this%20month%2C%20a%20developer%20in%20Atlanta%20got%20fed%20up%20with%20Adobe%27s%20cancellation%20fees.%20So%20he%20used...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23james_anderson_h-people-are-vibe"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Your%20Browser%20Can%20Do%20WHAT%3F%21%205%20AI%20Features%20That%20Actually%20Work%22%3A%20Are%20AI%20models%20running%20directly%20in%20the%20browser%20finally%20good%20enough%20to%20use%20in%20production%3F%20Let%27s%20find...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23sylwia-lask-your-browser"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22People%20Are%20Vibe-Coding%20Clones%20of%20Every%20Paid%20App.%20What%20Actually%20Survives%3F%22%3A%20Earlier%20this%20month%2C%20a%20developer%20in%20Atlanta%20got%20fed%20up%20with%20Adobe%27s%20cancellation%20fees.%20So%20he%20used...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23james_anderson_h-people-are-vibe"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Your%20Browser%20Can%20Do%20WHAT%3F%21%205%20AI%20Features%20That%20Actually%20Work%22%3A%20Are%20AI%20models%20running%20directly%20in%20the%20browser%20finally%20good%20enough%20to%20use%20in%20production%3F%20Let%27s%20find...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23sylwia-lask-your-browser"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-14/#james_anderson_h-people-are-vibe').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-15/#sylwia-lask-your-browser').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
-<div class="aotd-card" id="jess-how-feel-about">
+<div class="aotd-card" id="banks-are-now-trying">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://dev.to/jess/how-i-feel-about-the-grace-hopper-celebration-getting-cancelled-3l2k" target="_blank" rel="noopener">
-    How I Feel about the Grace Hopper Celebration Getting Cancelled
-  </a>
-  <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">3 min read</span>
-    <span class="aotd-badge">46 reactions</span>
-  </div>
-  <p class="aotd-summary">The Grace Hopper Celebration has been around since 1994, and for a lot of people, it&#x27;s the event for...</p>
-  <div class="aotd-share">
-    <span class="aotd-share-label">Share 🔗</span>
-    <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23jess-how-feel-about&summary=Today%27s%20read%20@%20%22How%20I%20Feel%20about%20the%20Grace%20Hopper%20Celebration%20Getting%20Cancelled%22%3A%20The%20Grace%20Hopper%20Celebration%20has%20been%20around%20since%201994%2C%20and%20for%20a%20lot%20of%20people%2C%20it%27s%20the%20event%20for..."
-       target="_blank" rel="noopener">LinkedIn</a>
-    <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22How%20I%20Feel%20about%20the%20Grace%20Hopper%20Celebration%20Getting%20Cancelled%22%3A%20The%20Grace%20Hopper%20Celebration%20has%20been%20around%20since%201994%2C%20and%20for%20a%20lot%20of%20people%2C%20it%27s%20the%20event%20for...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23jess-how-feel-about"
-       target="_blank" rel="noopener">X / Twitter</a>
-    <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22How%20I%20Feel%20about%20the%20Grace%20Hopper%20Celebration%20Getting%20Cancelled%22%3A%20The%20Grace%20Hopper%20Celebration%20has%20been%20around%20since%201994%2C%20and%20for%20a%20lot%20of%20people%2C%20it%27s%20the%20event%20for...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23jess-how-feel-about"
-       target="_blank" rel="noopener">WhatsApp</a>
-    <a class="aotd-share-btn aotd-share-btn--copy"
-       href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-14/#jess-how-feel-about').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
-  </div>
-</div>
-
-
-<div class="aotd-card" id="2026-openai-engineer-arrested">
-  <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://sfstandard.com/2026/10/13/openai-engineer-arrested-alleged-bugging-executive-conference-room/" target="_blank" rel="noopener">
-    OpenAI engineer arrested in bugging of executive conference room
+  <a class="aotd-title" href="https://startupfortune.com/banks-are-now-trying-to-offload-the-ai-data-center-debt-they-just-underwrote/" target="_blank" rel="noopener">
+    Banks are now trying to offload the AI data center debt they just underwrote
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">1 min read</span>
-    <span class="aotd-badge">487 points</span>
+    <span class="aotd-badge">5 min read</span>
+    <span class="aotd-badge">346 points</span>
   </div>
-  <p class="aotd-summary">Federal prosecutors say an employee from Saudi Arabia planted an audio recorder and left another unattended in his bag.</p>
+  <p class="aotd-summary">Banks including JPMorgan and MUFG are shopping AI data center debt tied to Oracle as credit default swaps spike and bond order books thin out.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%232026-openai-engineer-arrested&summary=Today%27s%20read%20@%20%22OpenAI%20engineer%20arrested%20in%20bugging%20of%20executive%20conference%20room%22%3A%20Federal%20prosecutors%20say%20an%20employee%20from%20Saudi%20Arabia%20planted%20an%20audio%20recorder%20and%20left%20another%20unattended%20in%20his%20bag."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23banks-are-now-trying&summary=Today%27s%20read%20@%20%22Banks%20are%20now%20trying%20to%20offload%20the%20AI%20data%20center%20debt%20they%20just%20underwrote%22%3A%20Banks%20including%20JPMorgan%20and%20MUFG%20are%20shopping%20AI%20data%20center%20debt%20tied%20to%20Oracle%20as%20credit%20default%20swaps%20spike%20and%20bond%20order%20books%20thin%20out."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22OpenAI%20engineer%20arrested%20in%20bugging%20of%20executive%20conference%20room%22%3A%20Federal%20prosecutors%20say%20an%20employee%20from%20Saudi%20Arabia%20planted%20an%20audio%20recorder%20and%20left%20another%20unattended%20in%20his%20bag.&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%232026-openai-engineer-arrested"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Banks%20are%20now%20trying%20to%20offload%20the%20AI%20data%20center%20debt%20they%20just%20underwrote%22%3A%20Banks%20including%20JPMorgan%20and%20MUFG%20are%20shopping%20AI%20data%20center%20debt%20tied%20to%20Oracle%20as%20credit%20default%20swaps%20spike%20and%20bond%20order%20books%20thin%20out.&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23banks-are-now-trying"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22OpenAI%20engineer%20arrested%20in%20bugging%20of%20executive%20conference%20room%22%3A%20Federal%20prosecutors%20say%20an%20employee%20from%20Saudi%20Arabia%20planted%20an%20audio%20recorder%20and%20left%20another%20unattended%20in%20his%20bag.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-14/%232026-openai-engineer-arrested"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Banks%20are%20now%20trying%20to%20offload%20the%20AI%20data%20center%20debt%20they%20just%20underwrote%22%3A%20Banks%20including%20JPMorgan%20and%20MUFG%20are%20shopping%20AI%20data%20center%20debt%20tied%20to%20Oracle%20as%20credit%20default%20swaps%20spike%20and%20bond%20order%20books%20thin%20out.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23banks-are-now-trying"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-14/#2026-openai-engineer-arrested').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-15/#banks-are-now-trying').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+  </div>
+</div>
+
+
+<div class="aotd-card" id="nyaomaru-how-you-validate">
+  <div class="aotd-rank">Pick #3</div>
+  <a class="aotd-title" href="https://dev.to/nyaomaru/how-do-you-validate-unknown-in-typescript-without-a-schema-library-1a11" target="_blank" rel="noopener">
+    How Do You Validate `unknown` in TypeScript Without a Schema Library? 🛡️
+  </a>
+  <div class="aotd-meta">
+    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
+    <span class="aotd-badge">5 min read</span>
+    <span class="aotd-badge">45 reactions</span>
+  </div>
+  <p class="aotd-summary">Hoi hoi! 👋  I&#x27;m @nyaomaru, a frontend engineer who is obsessed with gamba. 😸🦐  Recently, I was...</p>
+  <div class="aotd-share">
+    <span class="aotd-share-label">Share 🔗</span>
+    <a class="aotd-share-btn aotd-share-btn--li"
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23nyaomaru-how-you-validate&summary=Today%27s%20read%20@%20%22How%20Do%20You%20Validate%20%60unknown%60%20in%20TypeScript%20Without%20a%20Schema%20Library%3F%20%F0%9F%9B%A1%EF%B8%8F%22%3A%20Hoi%20hoi%21%20%F0%9F%91%8B%20%20I%27m%20%40nyaomaru%2C%20a%20frontend%20engineer%20who%20is%20obsessed%20with%20gamba.%20%F0%9F%98%B8%F0%9F%A6%90%20%20Recently%2C%20I%20was..."
+       target="_blank" rel="noopener">LinkedIn</a>
+    <a class="aotd-share-btn aotd-share-btn--x"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22How%20Do%20You%20Validate%20%60unknown%60%20in%20TypeScript%20Without%20a%20Schema%20Library%3F%20%F0%9F%9B%A1%EF%B8%8F%22%3A%20Hoi%20hoi%21%20%F0%9F%91%8B%20%20I%27m%20%40nyaomaru%2C%20a%20frontend%20engineer%20who%20is%20obsessed%20with%20gamba.%20%F0%9F%98%B8%F0%9F%A6%90%20%20Recently%2C%20I%20was...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23nyaomaru-how-you-validate"
+       target="_blank" rel="noopener">X / Twitter</a>
+    <a class="aotd-share-btn aotd-share-btn--wa"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22How%20Do%20You%20Validate%20%60unknown%60%20in%20TypeScript%20Without%20a%20Schema%20Library%3F%20%F0%9F%9B%A1%EF%B8%8F%22%3A%20Hoi%20hoi%21%20%F0%9F%91%8B%20%20I%27m%20%40nyaomaru%2C%20a%20frontend%20engineer%20who%20is%20obsessed%20with%20gamba.%20%F0%9F%98%B8%F0%9F%A6%90%20%20Recently%2C%20I%20was...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23nyaomaru-how-you-validate"
+       target="_blank" rel="noopener">WhatsApp</a>
+    <a class="aotd-share-btn aotd-share-btn--copy"
+       href="javascript:void(0)"
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-15/#nyaomaru-how-you-validate').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
 ## Programming { #programming }
 
-<div class="aotd-card" id="smtahosin-github-isnt-just">
+<div class="aotd-card" id="surrealdb-are-replacing-rocksdb">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://dev.to/smtahosin/github-isnt-just-a-remote-git-server-how-spoke-clusters-fork-alternates-and-actions-runner-25ij" target="_blank" rel="noopener">
-    GitHub Isn&#x27;t Just a Remote Git Server: How Spoke Clusters, Fork Alternates, and Actions Runner Sandboxes Work Under the Hood
+  <a class="aotd-title" href="https://dev.to/surrealdb/we-are-replacing-rocksdb-with-surrealkv-10-4pi9" target="_blank" rel="noopener">
+    We are replacing RocksDB with SurrealKV 1.0
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">10 min read</span>
-    <span class="aotd-badge">22 reactions</span>
+    <span class="aotd-badge">5 min read</span>
+    <span class="aotd-badge">20 reactions</span>
   </div>
-  <p class="aotd-summary">A visual, 10-minute deep dive into GitHub distributed architecture. Learn how Spoke clusters replicate Git objects, how fork networks share terabytes via alternates, how secret refs/pull/ branches work, and how ephemeral Actions runners authenticate with keyless OIDC.</p>
+  <p class="aotd-summary">Author: Tobie Morgan Hitchcock  SurrealKV 1.0 is a new open source persistent storage engine for...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23smtahosin-github-isnt-just&summary=Today%27s%20read%20@%20%22GitHub%20Isn%27t%20Just%20a%20Remote%20Git%20Server%3A%20How%20Spoke%20Clusters%2C%20Fork%20Alternates%2C%20and%20Actions%20Runner%20Sandboxes%20Work%20Under%20the%20Hood%22%3A%20A%20visual%2C%2010-minute%20deep%20dive%20into%20GitHub%20distributed%20architecture.%20Learn%20how%20Spoke%20clusters%20replicate%20Git%20objects%2C%20how%20fork%20networks%20share%20terabytes%20via%20alternates%2C%20how%20secret%20refs/pull/%20branches%20work%2C%20and%20how%20ephemeral%20Actions%20runners%20authenticate%20with%20keyless%20OIDC."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23surrealdb-are-replacing-rocksdb&summary=Today%27s%20read%20@%20%22We%20are%20replacing%20RocksDB%20with%20SurrealKV%201.0%22%3A%20Author%3A%20Tobie%20Morgan%20Hitchcock%20%20SurrealKV%201.0%20is%20a%20new%20open%20source%20persistent%20storage%20engine%20for..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22GitHub%20Isn%27t%20Just%20a%20Remote%20Git%20Server%3A%20How%20Spoke%20Clusters%2C%20Fork%20Alternates%2C%20and%20Actions%20Runner%20Sandboxes%20Work%20Under%20the%20Hood%22%3A%20A%20visual%2C%2010-minute%20deep%20dive%20into%20GitHub%20distributed%20architecture.%20Learn%20how%20Spoke%20clusters%20replicate%20Git%20objects%2C%20how%20fork%20networks%20share%20terabytes%20via%20alternates%2C%20how%20secret%20refs/pull/%20branches%20work%2C%20and%20how%20ephemeral%20Actions%20runners%20authenticate%20with%20keyless%20OIDC.&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23smtahosin-github-isnt-just"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22We%20are%20replacing%20RocksDB%20with%20SurrealKV%201.0%22%3A%20Author%3A%20Tobie%20Morgan%20Hitchcock%20%20SurrealKV%201.0%20is%20a%20new%20open%20source%20persistent%20storage%20engine%20for...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23surrealdb-are-replacing-rocksdb"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22GitHub%20Isn%27t%20Just%20a%20Remote%20Git%20Server%3A%20How%20Spoke%20Clusters%2C%20Fork%20Alternates%2C%20and%20Actions%20Runner%20Sandboxes%20Work%20Under%20the%20Hood%22%3A%20A%20visual%2C%2010-minute%20deep%20dive%20into%20GitHub%20distributed%20architecture.%20Learn%20how%20Spoke%20clusters%20replicate%20Git%20objects%2C%20how%20fork%20networks%20share%20terabytes%20via%20alternates%2C%20how%20secret%20refs/pull/%20branches%20work%2C%20and%20how%20ephemeral%20Actions%20runners%20authenticate%20with%20keyless%20OIDC.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23smtahosin-github-isnt-just"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22We%20are%20replacing%20RocksDB%20with%20SurrealKV%201.0%22%3A%20Author%3A%20Tobie%20Morgan%20Hitchcock%20%20SurrealKV%201.0%20is%20a%20new%20open%20source%20persistent%20storage%20engine%20for...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23surrealdb-are-replacing-rocksdb"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-14/#smtahosin-github-isnt-just').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-15/#surrealdb-are-replacing-rocksdb').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
-<div class="aotd-card" id="business-dutch-tax-authorities">
+<div class="aotd-card" id="gde-requests-promises-assertions">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://www.zdnet.com/business/dutch-tax-authorities-cancel-microsoft-365-cloud-rollout/" target="_blank" rel="noopener">
-    Dutch tax authorities cancel Microsoft 365 cloud rollout and turn to open source
-  </a>
-  <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">67 points</span>
-  </div>
-  <p class="aotd-summary">Another European move toward digital sovereignty has curtailed adopting the US workplace suite.</p>
-  <div class="aotd-share">
-    <span class="aotd-share-label">Share 🔗</span>
-    <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23business-dutch-tax-authorities&summary=Today%27s%20read%20@%20%22Dutch%20tax%20authorities%20cancel%20Microsoft%20365%20cloud%20rollout%20and%20turn%20to%20open%20source%22%3A%20Another%20European%20move%20toward%20digital%20sovereignty%20has%20curtailed%20adopting%20the%20US%20workplace%20suite."
-       target="_blank" rel="noopener">LinkedIn</a>
-    <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Dutch%20tax%20authorities%20cancel%20Microsoft%20365%20cloud%20rollout%20and%20turn%20to%20open%20source%22%3A%20Another%20European%20move%20toward%20digital%20sovereignty%20has%20curtailed%20adopting%20the%20US%20workplace%20suite.&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23business-dutch-tax-authorities"
-       target="_blank" rel="noopener">X / Twitter</a>
-    <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Dutch%20tax%20authorities%20cancel%20Microsoft%20365%20cloud%20rollout%20and%20turn%20to%20open%20source%22%3A%20Another%20European%20move%20toward%20digital%20sovereignty%20has%20curtailed%20adopting%20the%20US%20workplace%20suite.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23business-dutch-tax-authorities"
-       target="_blank" rel="noopener">WhatsApp</a>
-    <a class="aotd-share-btn aotd-share-btn--copy"
-       href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-14/#business-dutch-tax-authorities').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
-  </div>
-</div>
-
-
-<div class="aotd-card" id="tatomyr-are-you-migrating">
-  <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://dev.to/tatomyr/are-you-migrating-from-spectral-redocly-just-got-something-to-help-you-with-that-2gld" target="_blank" rel="noopener">
-    Are you migrating from Spectral? Redocly just got something to help you with that!
+  <a class="aotd-title" href="https://dev.to/gde/requests-promises-assertions-and-declarations-rewriting-our-ai-agent-workflow-as-a-1986-4k4c" target="_blank" rel="noopener">
+    Requests, Promises, Assertions, and Declarations: Rewriting Our AI Agent Workflow as a 1986 &#x27;Committed Speech&#x27; Machine
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">6 min read</span>
+    <span class="aotd-badge">26 min read</span>
     <span class="aotd-badge">13 reactions</span>
   </div>
-  <p class="aotd-summary">Spectral has been the default OpenAPI linter for years, and it did serve the community well. It made...</p>
+  <p class="aotd-summary">Why do 200-line agent prompts, Asimov&#x27;s Three Laws, and sequential pre-landing checklists all fail the same way? How Fernando Flores&#x27;s 1986 Committed Speech, Nuel Belnap&#x27;s 1977 4-Valued Logic, and Tony Hoare&#x27;s 1978 CSP turned our Makefile and init.d workflow into a self-healing Commitment Machine.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23tatomyr-are-you-migrating&summary=Today%27s%20read%20@%20%22Are%20you%20migrating%20from%20Spectral%3F%20Redocly%20just%20got%20something%20to%20help%20you%20with%20that%21%22%3A%20Spectral%20has%20been%20the%20default%20OpenAPI%20linter%20for%20years%2C%20and%20it%20did%20serve%20the%20community%20well.%20It%20made..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23gde-requests-promises-assertions&summary=Today%27s%20read%20@%20%22Requests%2C%20Promises%2C%20Assertions%2C%20and%20Declarations%3A%20Rewriting%20Our%20AI%20Agent%20Workflow%20as%20a%201986%20%27Committed%20Speech%27%20Machine%22%3A%20Why%20do%20200-line%20agent%20prompts%2C%20Asimov%27s%20Three%20Laws%2C%20and%20sequential%20pre-landing%20checklists%20all%20fail%20the%20same%20way%3F%20How%20Fernando%20Flores%27s%201986%20Committed%20Speech%2C%20Nuel%20Belnap%27s%201977%204-Valued%20Logic%2C%20and%20Tony%20Hoare%27s%201978%20CSP%20turned%20our%20Makefile%20and%20init.d%20workflow%20into%20a%20self-healing%20Commitment%20Machine."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Are%20you%20migrating%20from%20Spectral%3F%20Redocly%20just%20got%20something%20to%20help%20you%20with%20that%21%22%3A%20Spectral%20has%20been%20the%20default%20OpenAPI%20linter%20for%20years%2C%20and%20it%20did%20serve%20the%20community%20well.%20It%20made...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23tatomyr-are-you-migrating"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Requests%2C%20Promises%2C%20Assertions%2C%20and%20Declarations%3A%20Rewriting%20Our%20AI%20Agent%20Workflow%20as%20a%201986%20%27Committed%20Speech%27%20Machine%22%3A%20Why%20do%20200-line%20agent%20prompts%2C%20Asimov%27s%20Three%20Laws%2C%20and%20sequential%20pre-landing%20checklists%20all%20fail%20the%20same%20way%3F%20How%20Fernando%20Flores%27s%201986%20Committed%20Speech%2C%20Nuel%20Belnap%27s%201977%204-Valued%20Logic%2C%20and%20Tony%20Hoare%27s%201978%20CSP%20turned%20our%20Makefile%20and%20init.d%20workflow%20into%20a%20self-healing%20Commitment%20Machine.&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23gde-requests-promises-assertions"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Are%20you%20migrating%20from%20Spectral%3F%20Redocly%20just%20got%20something%20to%20help%20you%20with%20that%21%22%3A%20Spectral%20has%20been%20the%20default%20OpenAPI%20linter%20for%20years%2C%20and%20it%20did%20serve%20the%20community%20well.%20It%20made...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-14/%23tatomyr-are-you-migrating"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Requests%2C%20Promises%2C%20Assertions%2C%20and%20Declarations%3A%20Rewriting%20Our%20AI%20Agent%20Workflow%20as%20a%201986%20%27Committed%20Speech%27%20Machine%22%3A%20Why%20do%20200-line%20agent%20prompts%2C%20Asimov%27s%20Three%20Laws%2C%20and%20sequential%20pre-landing%20checklists%20all%20fail%20the%20same%20way%3F%20How%20Fernando%20Flores%27s%201986%20Committed%20Speech%2C%20Nuel%20Belnap%27s%201977%204-Valued%20Logic%2C%20and%20Tony%20Hoare%27s%201978%20CSP%20turned%20our%20Makefile%20and%20init.d%20workflow%20into%20a%20self-healing%20Commitment%20Machine.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23gde-requests-promises-assertions"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-14/#tatomyr-are-you-migrating').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-15/#gde-requests-promises-assertions').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+  </div>
+</div>
+
+
+<div class="aotd-card" id="ndcodes-part-why-nhs">
+  <div class="aotd-rank">Pick #3</div>
+  <a class="aotd-title" href="https://dev.to/ndcodes/part-1-why-nhs-trusts-need-an-hl7-v2-to-fhir-layer-and-how-this-one-is-built-kkm" target="_blank" rel="noopener">
+    Part 1: Why NHS Trusts Need an HL7 v2 to FHIR Layer, and How This One Is Built
+  </a>
+  <div class="aotd-meta">
+    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
+    <span class="aotd-badge">8 min read</span>
+    <span class="aotd-badge">13 reactions</span>
+  </div>
+  <p class="aotd-summary">Hi I&#x27;m Nnamdi.  This series walks through a project I built around one question: how does a patient&#x27;s...</p>
+  <div class="aotd-share">
+    <span class="aotd-share-label">Share 🔗</span>
+    <a class="aotd-share-btn aotd-share-btn--li"
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23ndcodes-part-why-nhs&summary=Today%27s%20read%20@%20%22Part%201%3A%20Why%20NHS%20Trusts%20Need%20an%20HL7%20v2%20to%20FHIR%20Layer%2C%20and%20How%20This%20One%20Is%20Built%22%3A%20Hi%20I%27m%20Nnamdi.%20%20This%20series%20walks%20through%20a%20project%20I%20built%20around%20one%20question%3A%20how%20does%20a%20patient%27s..."
+       target="_blank" rel="noopener">LinkedIn</a>
+    <a class="aotd-share-btn aotd-share-btn--x"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Part%201%3A%20Why%20NHS%20Trusts%20Need%20an%20HL7%20v2%20to%20FHIR%20Layer%2C%20and%20How%20This%20One%20Is%20Built%22%3A%20Hi%20I%27m%20Nnamdi.%20%20This%20series%20walks%20through%20a%20project%20I%20built%20around%20one%20question%3A%20how%20does%20a%20patient%27s...&url=https%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23ndcodes-part-why-nhs"
+       target="_blank" rel="noopener">X / Twitter</a>
+    <a class="aotd-share-btn aotd-share-btn--wa"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Part%201%3A%20Why%20NHS%20Trusts%20Need%20an%20HL7%20v2%20to%20FHIR%20Layer%2C%20and%20How%20This%20One%20Is%20Built%22%3A%20Hi%20I%27m%20Nnamdi.%20%20This%20series%20walks%20through%20a%20project%20I%20built%20around%20one%20question%3A%20how%20does%20a%20patient%27s...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-10-15/%23ndcodes-part-why-nhs"
+       target="_blank" rel="noopener">WhatsApp</a>
+    <a class="aotd-share-btn aotd-share-btn--copy"
+       href="javascript:void(0)"
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-10-15/#ndcodes-part-why-nhs').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
 <div class="aotd-footer" markdown="1">
-Auto-generated by Article-of-the-Day.bot on 14-Oct-2026 at 10:34 IST &nbsp;·&nbsp;
+Auto-generated by Article-of-the-Day.bot on 15-Oct-2026 at 10:23 IST &nbsp;·&nbsp;
 [View archive →](archive.md)
 </div>
 
