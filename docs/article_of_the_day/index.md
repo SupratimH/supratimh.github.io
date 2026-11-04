@@ -1,10 +1,10 @@
 ---
-title: "Article of the Day | 3 Nov 2026"
-description: "Today's top pick: I set average to micro to fix a scikit-learn error. My F1 score turned into.... Plus 8 more curated long-reads across AI & Data · Product · Programming."
-date: 2026-11-03
+title: "Article of the Day | 4 Nov 2026"
+description: "Today's top pick: Rack Before You Remember. Plus 8 more curated long-reads across AI & Data · Product · Programming."
+date: 2026-11-04
 ---
 
-# Top Articles of the Day | 03-Nov-2026
+# Top Articles of the Day | 04-Nov-2026
 
 Read the best articles of today, from around the globe, curated at one place for you!
 
@@ -16,276 +16,272 @@ Read the best articles of today, from around the globe, curated at one place for
 
 ## AI & Data { #ai-data }
 
-<div class="aotd-card" id="kartik-nvjk-set-average">
+<div class="aotd-card" id="kenwalger-rack-before-you">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://dev.to/kartik-nvjk/i-set-average-to-micro-to-fix-a-scikit-learn-error-my-f1-score-turned-into-accuracy-269e" target="_blank" rel="noopener">
-    I set average to micro to fix a scikit-learn error. My F1 score turned into accuracy
+  <a class="aotd-title" href="https://dev.to/kenwalger/rack-before-you-remember-2jl3" target="_blank" rel="noopener">
+    Rack Before You Remember
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">4 min read</span>
-    <span class="aotd-badge">3 reactions</span>
+    <span class="aotd-badge">10 min read</span>
+    <span class="aotd-badge">8 reactions</span>
   </div>
-  <p class="aotd-summary">An LLM routes our support tickets into three queues: general, billing and refund. I wanted an F1...</p>
+  <p class="aotd-summary">What racking wine teaches about agent memory    The mead&#x27;s lees on October 21, with the racking cane...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23kartik-nvjk-set-average&summary=Today%27s%20read%20@%20%22I%20set%20average%20to%20micro%20to%20fix%20a%20scikit-learn%20error.%20My%20F1%20score%20turned%20into%20accuracy%22%3A%20An%20LLM%20routes%20our%20support%20tickets%20into%20three%20queues%3A%20general%2C%20billing%20and%20refund.%20I%20wanted%20an%20F1..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23kenwalger-rack-before-you&summary=Today%27s%20read%20@%20%22Rack%20Before%20You%20Remember%22%3A%20What%20racking%20wine%20teaches%20about%20agent%20memory%20%20%20%20The%20mead%27s%20lees%20on%20October%2021%2C%20with%20the%20racking%20cane..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22I%20set%20average%20to%20micro%20to%20fix%20a%20scikit-learn%20error.%20My%20F1%20score%20turned%20into%20accuracy%22%3A%20An%20LLM%20routes%20our%20support%20tickets%20into%20three%20queues%3A%20general%2C%20billing%20and%20refund.%20I%20wanted%20an%20F1...&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23kartik-nvjk-set-average"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Rack%20Before%20You%20Remember%22%3A%20What%20racking%20wine%20teaches%20about%20agent%20memory%20%20%20%20The%20mead%27s%20lees%20on%20October%2021%2C%20with%20the%20racking%20cane...&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23kenwalger-rack-before-you"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22I%20set%20average%20to%20micro%20to%20fix%20a%20scikit-learn%20error.%20My%20F1%20score%20turned%20into%20accuracy%22%3A%20An%20LLM%20routes%20our%20support%20tickets%20into%20three%20queues%3A%20general%2C%20billing%20and%20refund.%20I%20wanted%20an%20F1...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23kartik-nvjk-set-average"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Rack%20Before%20You%20Remember%22%3A%20What%20racking%20wine%20teaches%20about%20agent%20memory%20%20%20%20The%20mead%27s%20lees%20on%20October%2021%2C%20with%20the%20racking%20cane...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23kenwalger-rack-before-you"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-03/#kartik-nvjk-set-average').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-04/#kenwalger-rack-before-you').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
-<div class="aotd-card" id="momentic">
+<div class="aotd-card" id="finic-kairos">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://momentic.ai/" target="_blank" rel="noopener">
-    Launch HN: Momentic (YC W24) – Agents that catch bugs by using your app
+  <a class="aotd-title" href="https://github.com/finic-ai/kairos" target="_blank" rel="noopener">
+    Show HN: Kairos – Open-source risk and fraud decisioning platform
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">1 min read</span>
-    <span class="aotd-badge">138 points</span>
+    <span class="aotd-badge">83 points</span>
   </div>
-  <p class="aotd-summary">Mo is Momentic&#x27;s AI QA engineer. It finds bugs in your web, iOS and Android apps with repro steps, then turns its runs into regression tests for every PR.</p>
+  <p class="aotd-summary">Real time event intelligence, fraud and risk decisioning for financial behavior. - finic-ai/kairos</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23momentic&summary=Today%27s%20read%20@%20%22Launch%20HN%3A%20Momentic%20%28YC%20W24%29%20%E2%80%93%20Agents%20that%20catch%20bugs%20by%20using%20your%20app%22%3A%20Mo%20is%20Momentic%27s%20AI%20QA%20engineer.%20It%20finds%20bugs%20in%20your%20web%2C%20iOS%20and%20Android%20apps%20with%20repro%20steps%2C%20then%20turns%20its%20runs%20into%20regression%20tests%20for%20every%20PR."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23finic-kairos&summary=Today%27s%20read%20@%20%22Show%20HN%3A%20Kairos%20%E2%80%93%20Open-source%20risk%20and%20fraud%20decisioning%20platform%22%3A%20Real%20time%20event%20intelligence%2C%20fraud%20and%20risk%20decisioning%20for%20financial%20behavior.%20-%20finic-ai/kairos"
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Launch%20HN%3A%20Momentic%20%28YC%20W24%29%20%E2%80%93%20Agents%20that%20catch%20bugs%20by%20using%20your%20app%22%3A%20Mo%20is%20Momentic%27s%20AI%20QA%20engineer.%20It%20finds%20bugs%20in%20your%20web%2C%20iOS%20and%20Android%20apps%20with%20repro%20steps%2C%20then%20turns%20its%20runs%20into%20regression%20tests%20for%20every%20PR.&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23momentic"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Show%20HN%3A%20Kairos%20%E2%80%93%20Open-source%20risk%20and%20fraud%20decisioning%20platform%22%3A%20Real%20time%20event%20intelligence%2C%20fraud%20and%20risk%20decisioning%20for%20financial%20behavior.%20-%20finic-ai/kairos&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23finic-kairos"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Launch%20HN%3A%20Momentic%20%28YC%20W24%29%20%E2%80%93%20Agents%20that%20catch%20bugs%20by%20using%20your%20app%22%3A%20Mo%20is%20Momentic%27s%20AI%20QA%20engineer.%20It%20finds%20bugs%20in%20your%20web%2C%20iOS%20and%20Android%20apps%20with%20repro%20steps%2C%20then%20turns%20its%20runs%20into%20regression%20tests%20for%20every%20PR.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23momentic"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Show%20HN%3A%20Kairos%20%E2%80%93%20Open-source%20risk%20and%20fraud%20decisioning%20platform%22%3A%20Real%20time%20event%20intelligence%2C%20fraud%20and%20risk%20decisioning%20for%20financial%20behavior.%20-%20finic-ai/kairos%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23finic-kairos"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-03/#momentic').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-04/#finic-kairos').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
-<div class="aotd-card" id="ocanasantero-status-2115442964574908902">
+<div class="aotd-card" id="developerphilo-what-does-document">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://twitter.com/OcanaSantero/status/2115442964574908902" target="_blank" rel="noopener">
-    Last night an AI agent performed brain surgery on a mouse
+  <a class="aotd-title" href="https://dev.to/developerphilo/what-does-ai-document-processing-cost-per-reviewed-document-2caj" target="_blank" rel="noopener">
+    What Does AI Document Processing Cost per Reviewed Document?
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">1 min read</span>
-    <span class="aotd-badge">129 points</span>
+    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
+    <span class="aotd-badge">7 min read</span>
+    <span class="aotd-badge">6 reactions</span>
   </div>
-  <p class="aotd-summary">Last night an AI agent performed brain surgery on a mouse.
-
-We gave it 19 gene therapy vectors in a spreadsheet, a mouse model of epilepsy, access to a motorize surgery rig with cameras and one goal: reduce seizures.
-
-It picked the drug. It picked the brain region. It derived the coordinates from t…</p>
+  <p class="aotd-summary">Quick answer: Cost per reviewed document is inference, plus infrastructure and operations, plus the...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23ocanasantero-status-2115442964574908902&summary=Today%27s%20read%20@%20%22Last%20night%20an%20AI%20agent%20performed%20brain%20surgery%20on%20a%20mouse%22%3A%20Last%20night%20an%20AI%20agent%20performed%20brain%20surgery%20on%20a%20mouse.%0A%0AWe%20gave%20it%2019%20gene%20therapy%20vectors%20in%20a%20spreadsheet%2C%20a%20mouse%20model%20of%20epilepsy%2C%20access%20to%20a%20motorize%20surgery%20rig%20with%20cameras%20and%20one%20goal%3A%20reduce%20seizures.%0A%0AIt%20picked%20the%20drug.%20It%20picked%20the%20brain%20region.%20It%20derived%20the%20coordinates%20from%20t%E2%80%A6"
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23developerphilo-what-does-document&summary=Today%27s%20read%20@%20%22What%20Does%20AI%20Document%20Processing%20Cost%20per%20Reviewed%20Document%3F%22%3A%20Quick%20answer%3A%20Cost%20per%20reviewed%20document%20is%20inference%2C%20plus%20infrastructure%20and%20operations%2C%20plus%20the..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Last%20night%20an%20AI%20agent%20performed%20brain%20surgery%20on%20a%20mouse%22%3A%20Last%20night%20an%20AI%20agent%20performed%20brain%20surgery%20on%20a%20mouse.%0A%0AWe%20gave%20it%2019%20gene%20therapy%20vectors%20in%20a%20spreadsheet%2C%20a%20mouse%20model%20of%20epilepsy%2C%20access%20to%20a%20motorize%20surgery%20rig%20with%20cameras%20and%20one%20goal%3A%20reduce%20seizures.%0A%0AIt%20picked%20the%20drug.%20It%20picked%20the%20brain%20region.%20It%20derived%20the%20coordinates%20from%20t%E2%80%A6&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23ocanasantero-status-2115442964574908902"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22What%20Does%20AI%20Document%20Processing%20Cost%20per%20Reviewed%20Document%3F%22%3A%20Quick%20answer%3A%20Cost%20per%20reviewed%20document%20is%20inference%2C%20plus%20infrastructure%20and%20operations%2C%20plus%20the...&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23developerphilo-what-does-document"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Last%20night%20an%20AI%20agent%20performed%20brain%20surgery%20on%20a%20mouse%22%3A%20Last%20night%20an%20AI%20agent%20performed%20brain%20surgery%20on%20a%20mouse.%0A%0AWe%20gave%20it%2019%20gene%20therapy%20vectors%20in%20a%20spreadsheet%2C%20a%20mouse%20model%20of%20epilepsy%2C%20access%20to%20a%20motorize%20surgery%20rig%20with%20cameras%20and%20one%20goal%3A%20reduce%20seizures.%0A%0AIt%20picked%20the%20drug.%20It%20picked%20the%20brain%20region.%20It%20derived%20the%20coordinates%20from%20t%E2%80%A6%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23ocanasantero-status-2115442964574908902"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22What%20Does%20AI%20Document%20Processing%20Cost%20per%20Reviewed%20Document%3F%22%3A%20Quick%20answer%3A%20Cost%20per%20reviewed%20document%20is%20inference%2C%20plus%20infrastructure%20and%20operations%2C%20plus%20the...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23developerphilo-what-does-document"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-03/#ocanasantero-status-2115442964574908902').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-04/#developerphilo-what-does-document').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
 ## Product { #product }
 
-<div class="aotd-card" id="deborahemeni1-built-game-about">
+<div class="aotd-card" id="chet103cc-nano-banana-fourteen">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://dev.to/deborahemeni1/i-built-a-3d-game-about-my-nigerian-childhood-and-im-not-a-game-developer-281g" target="_blank" rel="noopener">
-    I built a 3D game about my Nigerian childhood (and I&#x27;m not a game developer)
+  <a class="aotd-title" href="https://dev.to/chet103cc/nano-banana-21-fourteen-references-four-that-matter-247b" target="_blank" rel="noopener">
+    Nano Banana 2.1: fourteen references, four that matter
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">9 min read</span>
-    <span class="aotd-badge">25 reactions</span>
+    <span class="aotd-badge">4 min read</span>
+    <span class="aotd-badge">59 reactions</span>
   </div>
-  <p class="aotd-summary">If you grew up in Nigeria, there is one sentence that can stop your heart in the middle of...</p>
+  <p class="aotd-summary">The first time I used the full reference allowance, the image got worse.  Fourteen images: the...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23deborahemeni1-built-game-about&summary=Today%27s%20read%20@%20%22I%20built%20a%203D%20game%20about%20my%20Nigerian%20childhood%20%28and%20I%27m%20not%20a%20game%20developer%29%22%3A%20If%20you%20grew%20up%20in%20Nigeria%2C%20there%20is%20one%20sentence%20that%20can%20stop%20your%20heart%20in%20the%20middle%20of..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23chet103cc-nano-banana-fourteen&summary=Today%27s%20read%20@%20%22Nano%20Banana%202.1%3A%20fourteen%20references%2C%20four%20that%20matter%22%3A%20The%20first%20time%20I%20used%20the%20full%20reference%20allowance%2C%20the%20image%20got%20worse.%20%20Fourteen%20images%3A%20the..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22I%20built%20a%203D%20game%20about%20my%20Nigerian%20childhood%20%28and%20I%27m%20not%20a%20game%20developer%29%22%3A%20If%20you%20grew%20up%20in%20Nigeria%2C%20there%20is%20one%20sentence%20that%20can%20stop%20your%20heart%20in%20the%20middle%20of...&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23deborahemeni1-built-game-about"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Nano%20Banana%202.1%3A%20fourteen%20references%2C%20four%20that%20matter%22%3A%20The%20first%20time%20I%20used%20the%20full%20reference%20allowance%2C%20the%20image%20got%20worse.%20%20Fourteen%20images%3A%20the...&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23chet103cc-nano-banana-fourteen"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22I%20built%20a%203D%20game%20about%20my%20Nigerian%20childhood%20%28and%20I%27m%20not%20a%20game%20developer%29%22%3A%20If%20you%20grew%20up%20in%20Nigeria%2C%20there%20is%20one%20sentence%20that%20can%20stop%20your%20heart%20in%20the%20middle%20of...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23deborahemeni1-built-game-about"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Nano%20Banana%202.1%3A%20fourteen%20references%2C%20four%20that%20matter%22%3A%20The%20first%20time%20I%20used%20the%20full%20reference%20allowance%2C%20the%20image%20got%20worse.%20%20Fourteen%20images%3A%20the...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23chet103cc-nano-banana-fourteen"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-03/#deborahemeni1-built-game-about').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-04/#chet103cc-nano-banana-fourteen').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
-<div class="aotd-card" id="smtahosin-nextjs-doesnt-render">
+<div class="aotd-card" id="guilleflorvs-status-2117379073785696395">
   <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://dev.to/smtahosin/nextjs-doesnt-render-pages-anymore-it-streams-something-stranger-11ij" target="_blank" rel="noopener">
-    Next.js Doesn&#x27;t Render Pages Anymore. It Streams Something Stranger.
+  <a class="aotd-title" href="https://twitter.com/guilleflorvs/status/2117379073785696395" target="_blank" rel="noopener">
+    Revolut moves to self-hosted GLM
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">9 min read</span>
-    <span class="aotd-badge">17 reactions</span>
+    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
+    <span class="aotd-badge">1 min read</span>
+    <span class="aotd-badge">189 points</span>
   </div>
-  <p class="aotd-summary">A deep visual guide to how Next.js and React Server Components really work under the hood. Why Client Components run on the server, what the RSC Payload is, and how hydration connects them.</p>
+  <p class="aotd-summary">BREAKING: Revolut moved ~2,000 engineers onto self-hosted GLM for coding and pushed Claude Code and Codex to the exception list.
+
+Per David Abitbol, who leads AI ops there: 56 Nvidia B200s, a blended 30 cents per million tokens, roughly a tenth of what they paid Anthropic and OpenAI. Engineering le…</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23smtahosin-nextjs-doesnt-render&summary=Today%27s%20read%20@%20%22Next.js%20Doesn%27t%20Render%20Pages%20Anymore.%20It%20Streams%20Something%20Stranger.%22%3A%20A%20deep%20visual%20guide%20to%20how%20Next.js%20and%20React%20Server%20Components%20really%20work%20under%20the%20hood.%20Why%20Client%20Components%20run%20on%20the%20server%2C%20what%20the%20RSC%20Payload%20is%2C%20and%20how%20hydration%20connects%20them."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23guilleflorvs-status-2117379073785696395&summary=Today%27s%20read%20@%20%22Revolut%20moves%20to%20self-hosted%20GLM%22%3A%20BREAKING%3A%20Revolut%20moved%20~2%2C000%20engineers%20onto%20self-hosted%20GLM%20for%20coding%20and%20pushed%20Claude%20Code%20and%20Codex%20to%20the%20exception%20list.%0A%0APer%20David%20Abitbol%2C%20who%20leads%20AI%20ops%20there%3A%2056%20Nvidia%20B200s%2C%20a%20blended%2030%20cents%20per%20million%20tokens%2C%20roughly%20a%20tenth%20of%20what%20they%20paid%20Anthropic%20and%20OpenAI.%20Engineering%20le%E2%80%A6"
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Next.js%20Doesn%27t%20Render%20Pages%20Anymore.%20It%20Streams%20Something%20Stranger.%22%3A%20A%20deep%20visual%20guide%20to%20how%20Next.js%20and%20React%20Server%20Components%20really%20work%20under%20the%20hood.%20Why%20Client%20Components%20run%20on%20the%20server%2C%20what%20the%20RSC%20Payload%20is%2C%20and%20how%20hydration%20connects%20them.&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23smtahosin-nextjs-doesnt-render"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Revolut%20moves%20to%20self-hosted%20GLM%22%3A%20BREAKING%3A%20Revolut%20moved%20~2%2C000%20engineers%20onto%20self-hosted%20GLM%20for%20coding%20and%20pushed%20Claude%20Code%20and%20Codex%20to%20the%20exception%20list.%0A%0APer%20David%20Abitbol%2C%20who%20leads%20AI%20ops%20there%3A%2056%20Nvidia%20B200s%2C%20a%20blended%2030%20cents%20per%20million%20tokens%2C%20roughly%20a%20tenth%20of%20what%20they%20paid%20Anthropic%20and%20OpenAI.%20Engineering%20le%E2%80%A6&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23guilleflorvs-status-2117379073785696395"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Next.js%20Doesn%27t%20Render%20Pages%20Anymore.%20It%20Streams%20Something%20Stranger.%22%3A%20A%20deep%20visual%20guide%20to%20how%20Next.js%20and%20React%20Server%20Components%20really%20work%20under%20the%20hood.%20Why%20Client%20Components%20run%20on%20the%20server%2C%20what%20the%20RSC%20Payload%20is%2C%20and%20how%20hydration%20connects%20them.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23smtahosin-nextjs-doesnt-render"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Revolut%20moves%20to%20self-hosted%20GLM%22%3A%20BREAKING%3A%20Revolut%20moved%20~2%2C000%20engineers%20onto%20self-hosted%20GLM%20for%20coding%20and%20pushed%20Claude%20Code%20and%20Codex%20to%20the%20exception%20list.%0A%0APer%20David%20Abitbol%2C%20who%20leads%20AI%20ops%20there%3A%2056%20Nvidia%20B200s%2C%20a%20blended%2030%20cents%20per%20million%20tokens%2C%20roughly%20a%20tenth%20of%20what%20they%20paid%20Anthropic%20and%20OpenAI.%20Engineering%20le%E2%80%A6%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23guilleflorvs-status-2117379073785696395"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-03/#smtahosin-nextjs-doesnt-render').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-04/#guilleflorvs-status-2117379073785696395').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
-<div class="aotd-card" id="elsie-rainee-two-truths">
+<div class="aotd-card" id="debashish_ghosal-supervising-all-day">
   <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://dev.to/elsie-rainee/two-truths-and-a-lie-developer-edition-k8n" target="_blank" rel="noopener">
-    Two Truths and a Lie: Developer Edition.
+  <a class="aotd-title" href="https://dev.to/debashish_ghosal/supervising-ai-all-day-is-exhausting-nobody-scheduled-relief-2mci" target="_blank" rel="noopener">
+    Supervising AI All Day Is Exhausting. Nobody Scheduled Relief.
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">2 min read</span>
-    <span class="aotd-badge">20 reactions</span>
+    <span class="aotd-badge">3 min read</span>
+    <span class="aotd-badge">12 reactions</span>
   </div>
-  <p class="aotd-summary">We all know the classic icebreaker: three statements, two true, one a lie. Today we&#x27;re playing it...</p>
+  <p class="aotd-summary">On-call used to be unbounded too. Before reliability engineering gave it a name, engineers got woken...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23elsie-rainee-two-truths&summary=Today%27s%20read%20@%20%22Two%20Truths%20and%20a%20Lie%3A%20Developer%20Edition.%22%3A%20We%20all%20know%20the%20classic%20icebreaker%3A%20three%20statements%2C%20two%20true%2C%20one%20a%20lie.%20Today%20we%27re%20playing%20it..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23debashish_ghosal-supervising-all-day&summary=Today%27s%20read%20@%20%22Supervising%20AI%20All%20Day%20Is%20Exhausting.%20Nobody%20Scheduled%20Relief.%22%3A%20On-call%20used%20to%20be%20unbounded%20too.%20Before%20reliability%20engineering%20gave%20it%20a%20name%2C%20engineers%20got%20woken..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Two%20Truths%20and%20a%20Lie%3A%20Developer%20Edition.%22%3A%20We%20all%20know%20the%20classic%20icebreaker%3A%20three%20statements%2C%20two%20true%2C%20one%20a%20lie.%20Today%20we%27re%20playing%20it...&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23elsie-rainee-two-truths"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Supervising%20AI%20All%20Day%20Is%20Exhausting.%20Nobody%20Scheduled%20Relief.%22%3A%20On-call%20used%20to%20be%20unbounded%20too.%20Before%20reliability%20engineering%20gave%20it%20a%20name%2C%20engineers%20got%20woken...&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23debashish_ghosal-supervising-all-day"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Two%20Truths%20and%20a%20Lie%3A%20Developer%20Edition.%22%3A%20We%20all%20know%20the%20classic%20icebreaker%3A%20three%20statements%2C%20two%20true%2C%20one%20a%20lie.%20Today%20we%27re%20playing%20it...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23elsie-rainee-two-truths"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Supervising%20AI%20All%20Day%20Is%20Exhausting.%20Nobody%20Scheduled%20Relief.%22%3A%20On-call%20used%20to%20be%20unbounded%20too.%20Before%20reliability%20engineering%20gave%20it%20a%20name%2C%20engineers%20got%20woken...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23debashish_ghosal-supervising-all-day"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-03/#elsie-rainee-two-truths').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-04/#debashish_ghosal-supervising-all-day').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
 ## Programming { #programming }
 
-<div class="aotd-card" id="startupcafe-product-hunt-launches">
+<div class="aotd-card" id="neufangled">
   <div class="aotd-rank">Pick #1</div>
-  <a class="aotd-title" href="https://dev.to/startupcafe/product-hunt-launches-look-impressive-but-do-they-bring-paying-customers-239l" target="_blank" rel="noopener">
-    Product Hunt Launches Look Impressive. But Do They Bring Paying Customers?
-  </a>
-  <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">16 min read</span>
-    <span class="aotd-badge">59 reactions</span>
-  </div>
-  <p class="aotd-summary">TL;DR   Public founder accounts of Product Hunt launches swing from zero paying customers to...</p>
-  <div class="aotd-share">
-    <span class="aotd-share-label">Share 🔗</span>
-    <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23startupcafe-product-hunt-launches&summary=Today%27s%20read%20@%20%22Product%20Hunt%20Launches%20Look%20Impressive.%20But%20Do%20They%20Bring%20Paying%20Customers%3F%22%3A%20TL%3BDR%20%20%20Public%20founder%20accounts%20of%20Product%20Hunt%20launches%20swing%20from%20zero%20paying%20customers%20to..."
-       target="_blank" rel="noopener">LinkedIn</a>
-    <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Product%20Hunt%20Launches%20Look%20Impressive.%20But%20Do%20They%20Bring%20Paying%20Customers%3F%22%3A%20TL%3BDR%20%20%20Public%20founder%20accounts%20of%20Product%20Hunt%20launches%20swing%20from%20zero%20paying%20customers%20to...&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23startupcafe-product-hunt-launches"
-       target="_blank" rel="noopener">X / Twitter</a>
-    <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Product%20Hunt%20Launches%20Look%20Impressive.%20But%20Do%20They%20Bring%20Paying%20Customers%3F%22%3A%20TL%3BDR%20%20%20Public%20founder%20accounts%20of%20Product%20Hunt%20launches%20swing%20from%20zero%20paying%20customers%20to...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23startupcafe-product-hunt-launches"
-       target="_blank" rel="noopener">WhatsApp</a>
-    <a class="aotd-share-btn aotd-share-btn--copy"
-       href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-03/#startupcafe-product-hunt-launches').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
-  </div>
-</div>
-
-
-<div class="aotd-card" id="warsaw-vibe-voxel">
-  <div class="aotd-rank">Pick #2</div>
-  <a class="aotd-title" href="https://p.migdal.pl/warsaw-vibe-voxel/" target="_blank" rel="noopener">
-    Show HN: Warsaw in voxels – An interactive 3D map of the city centre
+  <a class="aotd-title" href="https://neufangled.com/" target="_blank" rel="noopener">
+    Stringman, an $800 open-source room scale gripper robot
   </a>
   <div class="aotd-meta">
     <span class="aotd-badge aotd-badge--hn">Hacker News</span>
-    <span class="aotd-badge">246 points</span>
+    <span class="aotd-badge">1 min read</span>
+    <span class="aotd-badge">504 points</span>
   </div>
-  <p class="aotd-summary">Central Warsaw in 1 m voxels, built from OpenStreetMap, LiDAR and the city&#x27;s tree database. Walk around the Palace of Culture, change the date, hour and weather, or possess a pedestrian. Inspired by Minecraft, MagicaVoxel and Dungeon Keeper.</p>
+  <p class="aotd-summary">Read this Hacker News article from neufangled.com.</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23warsaw-vibe-voxel&summary=Today%27s%20read%20@%20%22Show%20HN%3A%20Warsaw%20in%20voxels%20%E2%80%93%20An%20interactive%203D%20map%20of%20the%20city%20centre%22%3A%20Central%20Warsaw%20in%201%20m%20voxels%2C%20built%20from%20OpenStreetMap%2C%20LiDAR%20and%20the%20city%27s%20tree%20database.%20Walk%20around%20the%20Palace%20of%20Culture%2C%20change%20the%20date%2C%20hour%20and%20weather%2C%20or%20possess%20a%20pedestrian.%20Inspired%20by%20Minecraft%2C%20MagicaVoxel%20and%20Dungeon%20Keeper."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23neufangled&summary=Today%27s%20read%20@%20%22Stringman%2C%20an%20%24800%20open-source%20room%20scale%20gripper%20robot%22%3A%20Read%20this%20Hacker%20News%20article%20from%20neufangled.com."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Show%20HN%3A%20Warsaw%20in%20voxels%20%E2%80%93%20An%20interactive%203D%20map%20of%20the%20city%20centre%22%3A%20Central%20Warsaw%20in%201%20m%20voxels%2C%20built%20from%20OpenStreetMap%2C%20LiDAR%20and%20the%20city%27s%20tree%20database.%20Walk%20around%20the%20Palace%20of%20Culture%2C%20change%20the%20date%2C%20hour%20and%20weather%2C%20or%20possess%20a%20pedestrian.%20Inspired%20by%20Minecraft%2C%20MagicaVoxel%20and%20Dungeon%20Keeper.&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23warsaw-vibe-voxel"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Stringman%2C%20an%20%24800%20open-source%20room%20scale%20gripper%20robot%22%3A%20Read%20this%20Hacker%20News%20article%20from%20neufangled.com.&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23neufangled"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22Show%20HN%3A%20Warsaw%20in%20voxels%20%E2%80%93%20An%20interactive%203D%20map%20of%20the%20city%20centre%22%3A%20Central%20Warsaw%20in%201%20m%20voxels%2C%20built%20from%20OpenStreetMap%2C%20LiDAR%20and%20the%20city%27s%20tree%20database.%20Walk%20around%20the%20Palace%20of%20Culture%2C%20change%20the%20date%2C%20hour%20and%20weather%2C%20or%20possess%20a%20pedestrian.%20Inspired%20by%20Minecraft%2C%20MagicaVoxel%20and%20Dungeon%20Keeper.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23warsaw-vibe-voxel"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Stringman%2C%20an%20%24800%20open-source%20room%20scale%20gripper%20robot%22%3A%20Read%20this%20Hacker%20News%20article%20from%20neufangled.com.%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23neufangled"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-03/#warsaw-vibe-voxel').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-04/#neufangled').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
-<div class="aotd-card" id="hadil-grid-free-open">
-  <div class="aotd-rank">Pick #3</div>
-  <a class="aotd-title" href="https://dev.to/hadil/gp-grid-a-free-open-source-typescript-data-grid-for-react-vue-and-angular-no-paywalled-5heb" target="_blank" rel="noopener">
-    gp-grid: A Free, Open-Source TypeScript Data Grid for React, Vue, and Angular (No Paywalled Features)
+<div class="aotd-card" id="nvidia-auto-ontology">
+  <div class="aotd-rank">Pick #2</div>
+  <a class="aotd-title" href="https://github.com/NVIDIA/auto-ontology" target="_blank" rel="noopener">
+    Nvidia – open-source auto-ontology
   </a>
   <div class="aotd-meta">
-    <span class="aotd-badge aotd-badge--devto">Dev.to</span>
-    <span class="aotd-badge">15 min read</span>
-    <span class="aotd-badge">28 reactions</span>
+    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
+    <span class="aotd-badge">272 points</span>
   </div>
-  <p class="aotd-summary">An open-source data grid can look impressive with 1,000 rows and still struggle when your application...</p>
+  <p class="aotd-summary">Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for L...</p>
   <div class="aotd-share">
     <span class="aotd-share-label">Share 🔗</span>
     <a class="aotd-share-btn aotd-share-btn--li"
-       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23hadil-grid-free-open&summary=Today%27s%20read%20@%20%22gp-grid%3A%20A%20Free%2C%20Open-Source%20TypeScript%20Data%20Grid%20for%20React%2C%20Vue%2C%20and%20Angular%20%28No%20Paywalled%20Features%29%22%3A%20An%20open-source%20data%20grid%20can%20look%20impressive%20with%201%2C000%20rows%20and%20still%20struggle%20when%20your%20application..."
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23nvidia-auto-ontology&summary=Today%27s%20read%20@%20%22Nvidia%20%E2%80%93%20open-source%20auto-ontology%22%3A%20Auto%20Ontology%20is%20a%20Python%20framework%20for%20building%20semantic%2C%20graph-based%20reasoning%20layers%20over%20data.%20It%20enables%20deterministic%20query%20generation%2C%20better%20context%20retrieval%2C%20and%20more%20explainable%20AI%20for%20L..."
        target="_blank" rel="noopener">LinkedIn</a>
     <a class="aotd-share-btn aotd-share-btn--x"
-       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22gp-grid%3A%20A%20Free%2C%20Open-Source%20TypeScript%20Data%20Grid%20for%20React%2C%20Vue%2C%20and%20Angular%20%28No%20Paywalled%20Features%29%22%3A%20An%20open-source%20data%20grid%20can%20look%20impressive%20with%201%2C000%20rows%20and%20still%20struggle%20when%20your%20application...&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23hadil-grid-free-open"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Nvidia%20%E2%80%93%20open-source%20auto-ontology%22%3A%20Auto%20Ontology%20is%20a%20Python%20framework%20for%20building%20semantic%2C%20graph-based%20reasoning%20layers%20over%20data.%20It%20enables%20deterministic%20query%20generation%2C%20better%20context%20retrieval%2C%20and%20more%20explainable%20AI%20for%20L...&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23nvidia-auto-ontology"
        target="_blank" rel="noopener">X / Twitter</a>
     <a class="aotd-share-btn aotd-share-btn--wa"
-       href="https://wa.me/?text=Today%27s%20read%20@%20%22gp-grid%3A%20A%20Free%2C%20Open-Source%20TypeScript%20Data%20Grid%20for%20React%2C%20Vue%2C%20and%20Angular%20%28No%20Paywalled%20Features%29%22%3A%20An%20open-source%20data%20grid%20can%20look%20impressive%20with%201%2C000%20rows%20and%20still%20struggle%20when%20your%20application...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-03/%23hadil-grid-free-open"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Nvidia%20%E2%80%93%20open-source%20auto-ontology%22%3A%20Auto%20Ontology%20is%20a%20Python%20framework%20for%20building%20semantic%2C%20graph-based%20reasoning%20layers%20over%20data.%20It%20enables%20deterministic%20query%20generation%2C%20better%20context%20retrieval%2C%20and%20more%20explainable%20AI%20for%20L...%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23nvidia-auto-ontology"
        target="_blank" rel="noopener">WhatsApp</a>
     <a class="aotd-share-btn aotd-share-btn--copy"
        href="javascript:void(0)"
-       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-03/#hadil-grid-free-open').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-04/#nvidia-auto-ontology').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
+  </div>
+</div>
+
+
+<div class="aotd-card" id="muvon-octomind">
+  <div class="aotd-rank">Pick #3</div>
+  <a class="aotd-title" href="https://github.com/Muvon/octomind" target="_blank" rel="noopener">
+    Octomind – open-source AI harness that saves your tokens, static rust
+  </a>
+  <div class="aotd-meta">
+    <span class="aotd-badge aotd-badge--hn">Hacker News</span>
+    <span class="aotd-badge">53 points</span>
+  </div>
+  <p class="aotd-summary">Open-source AI coding agent and agent runtime: one binary, any model, MCP-native. Runs in terminal, CI, or as a daemon. - Muvon/octomind</p>
+  <div class="aotd-share">
+    <span class="aotd-share-label">Share 🔗</span>
+    <a class="aotd-share-btn aotd-share-btn--li"
+       href="https://www.linkedin.com/sharing/share-offsite/?url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23muvon-octomind&summary=Today%27s%20read%20@%20%22Octomind%20%E2%80%93%20open-source%20AI%20harness%20that%20saves%20your%20tokens%2C%20static%20rust%22%3A%20Open-source%20AI%20coding%20agent%20and%20agent%20runtime%3A%20one%20binary%2C%20any%20model%2C%20MCP-native.%20Runs%20in%20terminal%2C%20CI%2C%20or%20as%20a%20daemon.%20-%20Muvon/octomind"
+       target="_blank" rel="noopener">LinkedIn</a>
+    <a class="aotd-share-btn aotd-share-btn--x"
+       href="https://x.com/intent/tweet?text=Today%27s%20read%20@%20%22Octomind%20%E2%80%93%20open-source%20AI%20harness%20that%20saves%20your%20tokens%2C%20static%20rust%22%3A%20Open-source%20AI%20coding%20agent%20and%20agent%20runtime%3A%20one%20binary%2C%20any%20model%2C%20MCP-native.%20Runs%20in%20terminal%2C%20CI%2C%20or%20as%20a%20daemon.%20-%20Muvon/octomind&url=https%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23muvon-octomind"
+       target="_blank" rel="noopener">X / Twitter</a>
+    <a class="aotd-share-btn aotd-share-btn--wa"
+       href="https://wa.me/?text=Today%27s%20read%20@%20%22Octomind%20%E2%80%93%20open-source%20AI%20harness%20that%20saves%20your%20tokens%2C%20static%20rust%22%3A%20Open-source%20AI%20coding%20agent%20and%20agent%20runtime%3A%20one%20binary%2C%20any%20model%2C%20MCP-native.%20Runs%20in%20terminal%2C%20CI%2C%20or%20as%20a%20daemon.%20-%20Muvon/octomind%0A%0Ahttps%3A//supratimh.github.io/article_of_the_day/2026-11-04/%23muvon-octomind"
+       target="_blank" rel="noopener">WhatsApp</a>
+    <a class="aotd-share-btn aotd-share-btn--copy"
+       href="javascript:void(0)"
+       onclick="navigator.clipboard.writeText('https://supratimh.github.io/article_of_the_day/2026-11-04/#muvon-octomind').then(() => { this.textContent = 'Copied!'; setTimeout(() => { this.textContent = 'Copy'; }, 2000); })">Copy</a>
   </div>
 </div>
 
 
 <div class="aotd-footer" markdown="1">
-Auto-generated by Article-of-the-Day.bot on 03-Nov-2026 at 12:30 IST &nbsp;·&nbsp;
+Auto-generated by Article-of-the-Day.bot on 04-Nov-2026 at 12:13 IST &nbsp;·&nbsp;
 [View archive →](archive.md)
 </div>
 
