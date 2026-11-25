@@ -9,6 +9,7 @@ description: All the historical top pick articles of the day
 
 <div class="aotd-card" markdown="1">
   <div class="aotd-pill-nav" markdown="1">
+[25 Nov](2026-11-25.md){ .aotd-pill }
 [24 Nov](2026-11-24.md){ .aotd-pill }
 [23 Nov](2026-11-23.md){ .aotd-pill }
 [22 Nov](2026-11-22.md){ .aotd-pill }
